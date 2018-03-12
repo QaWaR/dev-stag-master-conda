@@ -1,1 +1,1 @@
-dev-stag-master-conda
+conda-nova
