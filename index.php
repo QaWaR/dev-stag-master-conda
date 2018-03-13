@@ -74,7 +74,7 @@
                             <div class="campaign-content card-body text-dark bg-light"><!-- CAMPAIGN TITLE AND EXCERT(SUMMARY ABOUT COMPANY), WITH INVESTMENT STATUS-->       
                                 <div class="card-title d-flex justify-content-start align-items-center"><!-- TITLE WITH COUNTRY FLAG -->
                                     <img src="images/flags/aut.jpg" class="img-fluid mr-3 flag">
-                                    <h4 class="campaign-title card-title mb-0">Army wings</h4>
+                                    <h4 class="campaign-title mb-0">Army wings</h4>
                                 </div> <!--END-->
                                 <!-- SHORT SUMMARY - EXCERT -->
                                 <p class="campaign-excerpt card-text mt-3">Lorem ipsum dolor sit amet consectetur adipisicing elit. Unde dignissimos a vitae recusandae amet itaque perferendis
@@ -119,7 +119,7 @@
                     <div class="col-12 col-md-6">
                         <div class="campaign card mb-4">  
                             <a href="single-campaign.php"><!--CAMPAIGN IMAGE AND STATUS-->
-                                <img src="images/darts/dartcover.jpg" class="card-img-top campaign-image">
+                                <img src="images/Darts/dartcover.jpg" class="card-img-top campaign-image">
                                 <div class="campaign-header card-header bg-primary px-3 py-2 d-flex justify-content-between">
                                     <p class="campaign-status text-uppercase text-white font-weight-bold my-auto mr-3">Private placement</p>
                                     <img src="images/campaigns/rsz-intechor-logo.jpg" class="rounded-circle campaign-logo">
@@ -128,7 +128,7 @@
                             <div class="campaign-content card-body text-dark bg-light"><!-- CAMPAIGN TITLE AND EXCERT(SUMMARY ABOUT COMPANY), WITH INVESTMENT STATUS-->       
                                 <div class="card-title d-flex justify-content-start align-items-center"><!-- TITLE WITH COUNTRY FLAG -->
                                     <img src="images/flags/aut.jpg" class="img-fluid mr-3 flag">
-                                    <h4 class="campaign-title card-title mb-0">Darts heroes (CI/VMn/LW/PP)</h4>
+                                    <h4 class="campaign-title mb-0">Darts heroes (CI/VMn/LW/PP)</h4>
                                 </div> <!--END-->
                                 <!-- SHORT SUMMARY - EXCERT -->
                                 <p class="campaign-excerpt card-text mt-3">Lorem ipsum dolor sit amet consectetur adipisicing elit. Unde dignissimos a vitae recusandae amet itaque perferendis
@@ -163,7 +163,7 @@
                             <div class="campaign-content card-body text-dark bg-light"><!-- CAMPAIGN TITLE AND EXCERT(SUMMARY ABOUT COMPANY), WITH INVESTMENT STATUS-->       
                                 <div class="card-title d-flex justify-content-start align-items-center"><!-- TITLE WITH COUNTRY FLAG -->
                                     <img src="images/flags/aut.jpg" class="img-fluid mr-3 flag">
-                                    <h4 class="campaign-title card-title mb-0">M office ICO</h4>
+                                    <h4 class="campaign-title mb-0">M office ICO</h4>
                                 </div> <!--END-->
                                 <!-- SHORT SUMMARY - EXCERT -->
                                 <p class="campaign-excerpt card-text mt-3">Phasellus vehicula risus nec lacus facilisis, eu condimentum turpis tincidunt. Ut ullamcorper est ut bibendum volutpat. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Proin ut consectetur felis. Aenean facilisis metus non fermentum ultricies. Donec in aliquam lacus, eu porttitor tortor. Maecenas facilisis pharetra elementum. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.</p> <!--END-->
@@ -232,7 +232,7 @@
                             <div class="campaign-content card-body text-dark bg-light"><!-- CAMPAIGN TITLE AND EXCERT(SUMMARY ABOUT COMPANY), WITH INVESTMENT STATUS-->       
                                 <div class="card-title d-flex justify-content-start align-items-center"><!-- TITLE WITH COUNTRY FLAG -->
                                     <img src="images/flags/che.jpg" class="img-fluid mr-3 flag">
-                                    <h4 class="campaign-title card-title mb-0">Intechor travel</h4>
+                                    <h4 class="campaign-title mb-0">Intechor travel</h4>
                                 </div> <!--END-->
                                 <!-- SHORT SUMMARY - EXCERT -->
                                 <p class="campaign-excerpt card-text mt-3">Etiam congue nisl et libero semper placerat. Integer tincidunt ac est id facilisis. Vestibulum suscipit dictum augue eu tempus. Donec dignissim luctus pulvinar. Integer at quam dapibus, scelerisque justo id, ultrices massa. Suspendisse lacinia dui a viverra aliquet. Suspendisse potenti. Nam nec dolor sodales, luctus massa ac, varius est. Aenean mattis, orci non ultrices porta, nulla nulla feugiat neque, vel interdum mi mi sed purus. Mauris iaculis lectus dui, a dignissim odio ornare non. Aenean scelerisque magna a turpis efficitur blandit. Phasellus et ultricies diam. Sed vitae accumsan turpis. Cras euismod, diam nec dapibus dapibus, lectus lectus ultricies quam, id varius dolor mi vel lectus. </p> <!--END-->
@@ -278,7 +278,7 @@
                             <div class="campaign-content card-body text-dark bg-light"><!-- CAMPAIGN TITLE AND EXCERT(SUMMARY ABOUT COMPANY), WITH INVESTMENT STATUS-->       
                                 <div class="card-title d-flex justify-content-start align-items-center"><!-- TITLE WITH COUNTRY FLAG -->
                                     <img src="images/flags/aut.jpg" class="img-fluid mr-3 flag">
-                                    <h4 class="campaign-title card-title mb-0">Makit - ein regionales Produkt</h4>
+                                    <h4 class="campaign-title mb-0">Makit - ein regionales Produkt</h4>
                                 </div> <!--END-->
                             </div>  
                             <div class="card-footer p-0"><!-- CAMPAIGN ADDITIONAL INFO, CELLS WITH ICONS AND BUTTON FOR MORE INFO -->
@@ -317,7 +317,7 @@
                             <div class="campaign-content card-body text-dark bg-light"><!-- CAMPAIGN TITLE AND EXCERT(SUMMARY ABOUT COMPANY), WITH INVESTMENT STATUS-->       
                                 <div class="card-title d-flex justify-content-start align-items-center"><!-- TITLE WITH COUNTRY FLAG -->
                                     <img src="images/flags/aut.jpg" class="img-fluid mr-3 flag">
-                                    <h4 class="campaign-title card-title mb-0">Oceanic travel</h4>
+                                    <h4 class="campaign-title mb-0">Oceanic travel</h4>
                                 </div> <!--END-->
                                 <!-- SHORT SUMMARY - EXCERT -->
                                 <p class="campaign-excerpt card-text mt-3">Roll on, deep and dark blue ocean, roll. Ten thousand fleets sweep over thee in vain. Man marks the earth with ruin, but his control stops with the shore. Repudiandae consequatur
@@ -369,7 +369,7 @@
                             <div class="campaign-content card-body text-dark bg-light"><!-- CAMPAIGN TITLE AND EXCERT(SUMMARY ABOUT COMPANY), WITH INVESTMENT STATUS-->       
                                 <div class="card-title d-flex justify-content-start align-items-center"><!-- TITLE WITH COUNTRY FLAG -->
                                     <img src="images/flags/aut.jpg" class="img-fluid mr-3 flag">
-                                    <h4 class="campaign-title card-title mb-0">Medix (CF)</h4>
+                                    <h4 class="campaign-title mb-0">Medix (CF)</h4>
                                 </div> <!--END-->
                                 <!-- SHORT SUMMARY - EXCERT -->
                                 <p class="campaign-excerpt card-text mt-3">Lorem ipsum dolor sit amet consectetur adipisicing elit. Unde dignissimos a vitae recusandae amet itaque perferendis

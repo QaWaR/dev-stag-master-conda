@@ -1,0 +1,32 @@
+{
+  "name": "dev-conda",
+  "version": "1.0.0",
+  "description": "conda website test version",
+  "main": "index.js",
+  "scripts": {
+    "start": "gulp"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/QaWaR/dev-stag-master-conda.git"
+  },
+  "author": "Milos Pavlovic",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/QaWaR/dev-stag-master-conda/issues"
+  },
+  "homepage": "https://github.com/QaWaR/dev-stag-master-conda#readme",
+  "dependencies": {
+    "bootstrap": "^4.0.0",
+    "jquery": "^3.3.1",
+    "popper.js": "^1.12.9",
+    "font-awesome": "4.7.0"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-sass": "^3.2.0",
+    "gulp-uglify": "3.0.0",
+    "gulp-rename": "1.2.2",
+    "gulp-cssnano": "2.1.2"
+  }
+}
