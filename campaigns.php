@@ -63,7 +63,7 @@
             <div class="col-12 col-md-6 col-lg-4">
                 <div class="campaign card mb-4">  
                     <a href="#"><!--CAMPAIGN IMAGE AND STATUS-->
-                        <img src="images/darts/dartcover.jpg" class="card-img-top campaign-image position-relative">
+                        <img src="images/Darts/dartcover.jpg" class="card-img-top campaign-image position-relative">
                         <div class="campaign-badge bg-primary">
                             <i class="fas fa-bell"></i><span>Neu</span>
                         </div>
