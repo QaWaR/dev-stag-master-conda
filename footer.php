@@ -50,12 +50,12 @@
                         <div class="single-info-wrapper py-3 px-3 d-flex flex-column text-white border-right border-light align-self-stretch">
                             <p class="h4 mb-4 text-center text-sm-center text-lg-left">Folgen sie uns auf</p>
                             <div class="social-media-wrapper d-flex flex-row justify-content-around">
-                                <i class="fab fa-facebook-f mx-3 text-white"></i>
-                                <i class="fab fa-twitter mx-3 text-white"></i>
-                                <i class="fab fa-linkedin mx-3 text-white"></i>
-                                <i class="fab fa-youtube mx-3 text-white"></i>
-                                <i class="fab fa-google-plus-g mx-3 text-white"></i>
-                                <i class="fab fa-xing mx-3 text-white"></i>
+                                <a href="#"><i class="fab fa-facebook-f mx-3 text-white"></i></a>
+                                <a href="#"><i class="fab fa-twitter mx-3 text-white"></i></a>
+                                <a href="#"><i class="fab fa-linkedin mx-3 text-white"></i></a>
+                                <a href="#"><i class="fab fa-youtube mx-3 text-white"></i></a>
+                                <a href="#"><i class="fab fa-google-plus-g mx-3 text-white"></i></a>
+                                <a href="#"><i class="fab fa-xing mx-3 text-white"></i></a>
                             </div>
                         </div>
                         <div class="single-info-wrapper py-3 px-3 d-flex flex-column text-white text-center text-sm-center text-lg-left align-self-stretch">
