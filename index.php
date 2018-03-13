@@ -119,7 +119,7 @@
                     <div class="col-12 col-md-6">
                         <div class="campaign card mb-4">  
                             <a href="single-campaign.php"><!--CAMPAIGN IMAGE AND STATUS-->
-                                <img src="images/darts/dartcover.jpg" class="card-img-top campaign-image">
+                                <img src="images/Darts/dartcover.jpg" class="card-img-top campaign-image">
                                 <div class="campaign-header card-header bg-primary px-3 py-2 d-flex justify-content-between">
                                     <p class="campaign-status text-uppercase text-white font-weight-bold my-auto mr-3">Private placement</p>
                                     <img src="images/campaigns/rsz-intechor-logo.jpg" class="rounded-circle campaign-logo">
