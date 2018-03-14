@@ -9,9 +9,9 @@
                         <div>
                             <img src="images/armywings/armywings.jpg" class="card-img-top campaign-image">
                         </div>
-                        <div class="campaign-header card-header bg-primary px-3 py-2 d-flex justify-content-between">
-                            <p class="campaign-status text-uppercase text-white font-weight-bold my-auto mr-3">Starting in<span class="h4"> 1 </span> month</p>
-                            <img src="images/campaigns/rsz-intechor-logo.jpg" class="rounded-circle campaign-logo">
+                        <div class="campaign-header card-header bg-primary px-3 py-2">
+                            <p class="campaign-status text-uppercase text-white my-auto">Starting in<span class="h5"> 1 </span> month</p>
+                            <img src="images/campaigns/armywings-logo.jpg" class="rounded-circle campaign-logo">
                         </div>
                     </a>
                     <div class="campaign-badge bg-new">
@@ -69,9 +69,9 @@
                         <div class="position-relative">
                             <img src="images/Darts/dartcover.jpg" class="card-img-top campaign-image ">
                         </div>
-                        <div class="campaign-header card-header bg-primary px-3 py-2 d-flex justify-content-between">
-                            <p class="campaign-status text-uppercase text-white font-weight-bold my-auto mr-3">Private placement</p>
-                            <img src="images/campaigns/rsz-intechor-logo.jpg" class="rounded-circle campaign-logo">
+                        <div class="campaign-header card-header bg-primary px-3 py-2">
+                            <p class="campaign-status text-uppercase text-white my-auto">Private placement</p>
+                            <img src="images/campaigns/darts-logo.jpg" class="rounded-circle campaign-logo">
                         </div>
                     </a>
                     <div class="campaign-badge bg-warning">
@@ -109,9 +109,9 @@
                         <div class="position-relative">
                             <img src="images/campaigns/m-office.jpg" class="card-img-top campaign-image ">
                         </div>
-                        <div class="campaign-header card-header bg-primary px-3 py-2 d-flex justify-content-between">
-                            <p class="campaign-status text-uppercase text-white font-weight-bold my-auto mr-3"><span class="h4"> 3 </span> months remaining</p>
-                            <img src="images/campaigns/rsz-intechor-logo.jpg" class="rounded-circle campaign-logo">
+                        <div class="campaign-header card-header bg-primary px-3 py-2">
+                            <p class="campaign-status text-uppercase text-white my-auto"><span class="h5"> 3 </span> months remaining</p>
+                            <img src="images/campaigns/m-office-logo.jpg" class="rounded-circle campaign-logo">
                         </div>
                     </a>
                     <div class="campaign-badge bg-warning">
@@ -183,9 +183,9 @@
                         <div class="position-relative">
                             <img src="images/campaigns/intechor.jpg" class="card-img-top campaign-image ">
                         </div>
-                        <div class="campaign-header card-header bg-primary px-3 py-2 d-flex justify-content-between">
-                            <p class="campaign-status text-uppercase text-white font-weight-bold my-auto mr-3"><span class="h4"> 1 </span> month remaining</p>
-                            <img src="images/campaigns/rsz-intechor-logo.jpg" class="rounded-circle campaign-logo">
+                        <div class="campaign-header card-header bg-primary px-3 py-2">
+                            <p class="campaign-status text-uppercase text-white my-auto"><span class="h5"> 1 </span> month remaining</p>
+                            <img src="images/campaigns/intechor-logo.jpg" class="rounded-circle campaign-logo">
                         </div>
                     </a>
                     <div class="campaign-badge bg-danger">
@@ -234,9 +234,9 @@
                         <div class="position-relative">
                             <img src="images/campaigns/makit.jpg" class="card-img-top campaign-image ">
                         </div>
-                        <div class="campaign-header card-header bg-secondary px-3 py-2 d-flex justify-content-between">
-                            <p class="campaign-status text-uppercase text-white font-weight-bold my-auto mr-3">Investment finished</p>
-                            <img src="images/campaigns/rsz-intechor-logo.jpg" class="rounded-circle campaign-logo">
+                        <div class="campaign-header card-header bg-secondary px-3 py-2">
+                            <p class="campaign-status text-uppercase text-white my-auto">Investment finished</p>
+                            <img src="images/campaigns/makit-logo.jpg" class="rounded-circle campaign-logo">
                         </div>
                     </a>
                     <div class="campaign-badge bg-soon">
@@ -278,9 +278,9 @@
                         <div class="position-relative">
                             <img src="images/campaigns/oceanic-travel.jpg" class="card-img-top campaign-image ">
                         </div>
-                        <div class="campaign-header card-header bg-primary px-3 py-2 d-flex justify-content-between">
-                            <p class="campaign-status text-uppercase text-white font-weight-bold my-auto mr-3">Successfully financed</p>
-                            <img src="images/campaigns/rsz-intechor-logo.jpg" class="rounded-circle campaign-logo">
+                        <div class="campaign-header card-header bg-primary px-3 py-2">
+                            <p class="campaign-status text-uppercase text-white my-auto">Successfully financed</p>
+                            <img src="images/campaigns/oceanic-travel-logo.jpg" class="rounded-circle campaign-logo">
                         </div>
                     </a>
                     <div class="campaign-badge bg-success">
@@ -335,9 +335,9 @@
                         <div class="position-relative">
                             <img src="images/campaigns/medix.jpg" class="card-img-top campaign-image ">
                         </div>
-                        <div class="campaign-header card-header bg-primary px-3 py-2 d-flex justify-content-between">
-                            <p class="campaign-status text-uppercase text-white font-weight-bold my-auto mr-3"><span class="h4"> 1 </span> months remaining</p>
-                            <img src="images/campaigns/rsz-intechor-logo.jpg" class="rounded-circle campaign-logo">
+                        <div class="campaign-header card-header bg-primary px-3 py-2">
+                            <p class="campaign-status text-uppercase text-white my-auto"><span class="h5"> 1 </span> months remaining</p>
+                            <img src="images/campaigns/medix-logo.jpg" class="rounded-circle campaign-logo">
                         </div>
                     </a>
                     <div class="campaign-badge bg-danger">
