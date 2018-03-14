@@ -20,7 +20,7 @@
   --gray-dark: #343a40;
   --primary: #333c55;
   --secondary: #73879c;
-  --success: #00c98a;
+  --success: #46ad8d;
   --info: #3d4765;
   --warning: #f2c94c;
   --danger: #e04840;
@@ -6258,11 +6258,12 @@ a:hover {
     position: absolute;
     top: 50%;
     right: 0.5rem;
-    border: 1px solid white;
+    border: 1px solid #aab6c3;
     width: 80px;
     height: 80px;
-    transform: translate(0, -50%);
-    background-color: white; }
+    transform: translate(0, -50%); }
+  .card-header p {
+    margin-right: 80px !important; }
 
 .campaign-badge {
   position: absolute;
