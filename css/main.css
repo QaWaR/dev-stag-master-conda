@@ -1791,7 +1791,7 @@ fieldset:disabled a.btn {
     border-color: #c1271f; }
     .btn-danger:not(:disabled):not(.disabled):active:focus, .btn-danger:not(:disabled):not(.disabled).active:focus,
     .show > .btn-danger.dropdown-toggle:focus {
-      box-shadow: 0 0 0 0.2rem rgba(224, 72, 64, 0.5); }
+      box-shadow: 0 0 0 0.2rem #e04840; }
 
 .btn-light {
   color: #212529;
@@ -6252,8 +6252,6 @@ a:hover {
 
 .card-header {
   position: relative; }
-  .card-header .campaign-status {
-    margin-right: 5rem; }
   .card-header .campaign-logo {
     position: absolute;
     top: 50%;
