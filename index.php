@@ -127,7 +127,7 @@
                                 <div>
                                     <img src="images/armywings/armywings.jpg" class="card-img-top campaign-image">
                                 </div>
-                                <div class="campaign-header card-header bg-primary px-3 py-2 d-flex justify-content-between">
+                                <div class="card-header bg-primary px-3 py-2 d-flex justify-content-between">
                                     <p class="campaign-status text-uppercase text-white font-weight-bold my-auto mr-3">Starting in<span class="h4"> 1 </span> month</p>
                                     <img src="images/campaigns/rsz-intechor-logo.jpg" class="rounded-circle campaign-logo">
                                 </div>
@@ -187,7 +187,7 @@
                                 <div class="position-relative">
                                     <img src="images/Darts/dartcover.jpg" class="card-img-top campaign-image ">
                                 </div>
-                                <div class="campaign-header card-header bg-primary px-3 py-2 d-flex justify-content-between">
+                                <div class="card-header bg-primary px-3 py-2 d-flex justify-content-between">
                                     <p class="campaign-status text-uppercase text-white font-weight-bold my-auto mr-3">Private placement</p>
                                     <img src="images/campaigns/rsz-intechor-logo.jpg" class="rounded-circle campaign-logo">
                                 </div>
@@ -227,7 +227,7 @@
                                 <div class="position-relative">
                                     <img src="images/campaigns/m-office.jpg" class="card-img-top campaign-image ">
                                 </div>
-                                <div class="campaign-header card-header bg-primary px-3 py-2 d-flex justify-content-between">
+                                <div class="card-header bg-primary px-3 py-2 d-flex justify-content-between">
                                     <p class="campaign-status text-uppercase text-white font-weight-bold my-auto mr-3"><span class="h4"> 3 </span> months remaining</p>
                                     <img src="images/campaigns/rsz-intechor-logo.jpg" class="rounded-circle campaign-logo">
                                 </div>
@@ -301,7 +301,7 @@
                                 <div class="position-relative">
                                     <img src="images/campaigns/intechor.jpg" class="card-img-top campaign-image ">
                                 </div>
-                                <div class="campaign-header card-header bg-primary px-3 py-2 d-flex justify-content-between">
+                                <div class="card-header bg-primary px-3 py-2 d-flex justify-content-between">
                                     <p class="campaign-status text-uppercase text-white font-weight-bold my-auto mr-3"><span class="h4"> 1 </span> month remaining</p>
                                     <img src="images/campaigns/rsz-intechor-logo.jpg" class="rounded-circle campaign-logo">
                                 </div>
@@ -352,7 +352,7 @@
                                 <div class="position-relative">
                                     <img src="images/campaigns/makit.jpg" class="card-img-top campaign-image ">
                                 </div>
-                                <div class="campaign-header card-header bg-secondary px-3 py-2 d-flex justify-content-between">
+                                <div class="card-header bg-secondary px-3 py-2 d-flex justify-content-between">
                                     <p class="campaign-status text-uppercase text-white font-weight-bold my-auto mr-3">Investment finished</p>
                                     <img src="images/campaigns/rsz-intechor-logo.jpg" class="rounded-circle campaign-logo">
                                 </div>
@@ -396,7 +396,7 @@
                                 <div class="position-relative">
                                     <img src="images/campaigns/oceanic-travel.jpg" class="card-img-top campaign-image ">
                                 </div>
-                                <div class="campaign-header card-header bg-primary px-3 py-2 d-flex justify-content-between">
+                                <div class="card-header bg-primary px-3 py-2 d-flex justify-content-between">
                                     <p class="campaign-status text-uppercase text-white font-weight-bold my-auto mr-3">Successfully financed</p>
                                     <img src="images/campaigns/rsz-intechor-logo.jpg" class="rounded-circle campaign-logo">
                                 </div>
@@ -453,7 +453,7 @@
                                 <div class="position-relative">
                                     <img src="images/campaigns/medix.jpg" class="card-img-top campaign-image ">
                                 </div>
-                                <div class="campaign-header card-header bg-primary px-3 py-2 d-flex justify-content-between">
+                                <div class="card-header bg-primary px-3 py-2 d-flex justify-content-between">
                                     <p class="campaign-status text-uppercase text-white font-weight-bold my-auto mr-3"><span class="h4"> 1 </span> months remaining</p>
                                     <img src="images/campaigns/rsz-intechor-logo.jpg" class="rounded-circle campaign-logo">
                                 </div>
