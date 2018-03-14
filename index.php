@@ -1,22 +1,81 @@
 <?php include 'header.php';?>
 <main>
-    <section class="carousel slide bg-lg-primary mb-3" data-ride="carousel" data-interval="0" id="cover-carousel"> <!--CAROUSEL COVER SLIDE -->
-        <div class="carousel-inner">
-            <img class="d-block w-100 d-lg-none pt-3" src="images/index-cover-carousel.jpg">
-            <div class="carousel-item active bg-primary">
-                <div class="container w-md-50">
-                    <h3 class="mb-3 pt-3">Mit CONDA Österreich investieren Sie grenzenlos, in Unternehmen mit Persönlichkeit.</h3>
-                    <p class="mb-3">Ab 100 Euro unterstützen Sie Unternehmen durch Ihre Investition und profitieren langfristig von deren Erfolg.</p>
-                    <button class="btn btn-danger btn-lg border border-danger w-lg-100 mb-3 rounded-0 px-4 py-3">
-                        Für Unternehmer
-                    </button>
-                    <button class="btn btn-success btn-lg border border-success w-lg-100 ml-3 mb-3 rounded-0 px-4 py-3">
-                        Für Investoren
-                    </button>
+    <section class="carousel-cover large-screens d-none d-lg-block"><!--CAROUSEL COVER SLIDE -->
+        <div class="owl-one owl-carousel owl-theme"> 
+            <div class="item py-5 text-white d-flex" style="background: url(images/index-cover-carousel.jpg); background-size:cover; height:550px;">
+                <div class="container mt-auto">
+                    <section class="content-wrapper-large-screens" style="width:700px;">
+                        <h3 class="mb-3 pt-3">Mit CONDA Österreich investieren Sie grenzenlos, in Unternehmen mit Persönlichkeit.</h3>
+                        <p class="mb-3">Ab 100 Euro unterstützen Sie Unternehmen durch Ihre Investition und profitieren langfristig von deren Erfolg.</p>
+                        <div class="button-wrapper">
+                            <button class="btn btn-danger btn-lg border border-danger w-lg-100 mb-3 rounded-0 px-4 py-3">
+                                Für Unternehmer
+                            </button>
+                            <button class="btn btn-success btn-lg border border-success w-lg-100 ml-3 mb-3 rounded-0 px-4 py-3">
+                                Für Investoren
+                            </button>
+                        </div>
+
+                    </section>
+                </div>  
+            </div>
+            <div class="item py-5 text-white d-flex" style="background: url(images/cover2.jpg); background-size:cover; height:550px;">
+                <div class="container mt-auto">
+                    <section class="content-wrapper-large-screens" style="width:700px;">
+                        <h3 class="mb-3 pt-3">Mit CONDA Österreich investieren Sie grenzenlos, in Unternehmen mit Persönlichkeit.</h3>
+                        <p class="mb-3">Ab 100 Euro unterstützen Sie Unternehmen durch Ihre Investition und profitieren langfristig von deren Erfolg.</p>
+                        
+                        <button class="btn btn-danger btn-lg border border-danger w-lg-100 mr-4 rounded-0 px-4 py-3">
+                            Für Unternehmer
+                        </button>
+                        <button class="btn btn-success btn-lg border border-success w-lg-100 ml-3 mr-4 rounded-0 px-4 py-3">
+                            Für Investoren
+                        </button>
+                        
+            
+                    </section>
                 </div>
             </div>
+        </div> 
+    </section>
+    <section class="carousel-cover small-screens d-block d-lg-none">
+        <div class="owl-one owl-carousel owl-theme">
+            <div class="item">
+                <img src="images/index-cover-carousel.jpg" class="img-fluid">
+                <section class="content-wrapper bg-primary text-center text-white py-4">
+                    <div class="container">
+                        <h3 class="mb-3 pt-3">Mit CONDA Österreich investieren Sie grenzenlos, in Unternehmen mit Persönlichkeit.</h3>
+                        <p class="mb-3">Ab 100 Euro unterstützen Sie Unternehmen durch Ihre Investition und profitieren langfristig von deren Erfolg.</p>
+                        <div class="button-wrapper w-100">
+                            <button class="btn btn-danger btn-lg border border-danger w-100 mb-3 rounded-0 px-4 py-3">
+                                Für Unternehmer
+                            </button>
+                            <button class="btn btn-success btn-lg border border-success w-100 mb-3 rounded-0 px-4 py-3">
+                                Für Investoren
+                            </button>
+                        </div>
+                    </div>
+                </section>
+            </div>
+            <div class="item">
+                <img src="images/cover2.jpg" class="img-fluid">
+                <section class="content-wrapper bg-primary text-center text-white py-4">
+                    <div class="container">
+                        <h3 class="mb-3 pt-3">Mit CONDA Österreich investieren Sie grenzenlos, in Unternehmen mit Persönlichkeit.</h3>
+                        <p class="mb-3">Ab 100 Euro unterstützen Sie Unternehmen durch Ihre Investition und profitieren langfristig von deren Erfolg.</p>
+                        <div class="button-wrapper w-100">
+                            <button class="btn btn-danger btn-lg border border-danger w-100 mb-3 rounded-0 px-4 py-3">
+                                Für Unternehmer
+                            </button>
+                            <button class="btn btn-success btn-lg border border-success w-100 mb-3 rounded-0 px-4 py-3">
+                                Für Investoren
+                            </button>
+                        </div>
+                    </div>
+                </section>
+            </div>
         </div>
-    </section> <!-- END CAROUSEL COVER SLIDE-->
+    </section><!-- END CAROUSEL COVER SLIDE-->
 
     <div class="cta container"> <!-- CALL-TO-ACTION SECTION-->
         <section class="cta-wrapper d-flex flex-wrap justify-content-around py-4">
