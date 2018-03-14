@@ -11,7 +11,7 @@
     <script defer src="assets/font-awesome/js/fontawesome-all.js"></script>
     <link rel="stylesheet" href="assets/font-awesome/css/fontawesome-all.css">
     <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon">
-    <link rel="stylesheet" href="css/main.min.css">
+    <link rel="stylesheet" href="css/main.css">
 </head>
 <body>
     <header>

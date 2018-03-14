@@ -12,10 +12,6 @@ gulp.task('sass-dev', function () {
     gulp.src([
         'scss/main.scss'
     ]).pipe(sass())
-        .pipe(cssnano())
-        .pipe(rename({
-            suffix: '.min'
-        }))
         .pipe(gulp.dest('./css'))
 });
 

@@ -6037,3 +6037,14 @@ a.text-dark:hover, a.text-dark:focus {
   .table-bordered th,
   .table-bordered td {
     border: 1px solid #ddd !important; } }
+
+.login-nav a:hover {
+  text-decoration: none; }
+
+.news-summary {
+  font-size: 6px; }
+
+.campaign-badge {
+  position: absolute;
+  top: 1%;
+  left: 3%; }
