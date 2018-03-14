@@ -577,7 +577,7 @@
                         <p class="input h2 mb-1">9.42</p>
                         <p class="total-investors m-0">Investoren</p>
                     </div>
-                    <div class="status-single text-center py-5 px-5">
+                    <div class="status-single-last text-center py-5 px-5">
                         <p class="input h2 mb-1">1,194 $</p>
                         <p class="average-amount m-0">urchschnittliche Investitionssumme</p>
                     </div>

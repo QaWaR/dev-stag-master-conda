@@ -37,13 +37,3 @@ a:hover {
     width: auto;
     height: 16px;
 }
-.campaign-invest-scale {
-    width: 115px;
-    height: 115px;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    .investment-total-amount, .investors-number, .investments-completed, .investment-type, .investment-completed {
-     margin: 0!important;
-    }
- }

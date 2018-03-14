@@ -6282,15 +6282,6 @@ a:hover {
   width: auto;
   height: 16px; }
 
-.campaign-invest-scale {
-  width: 115px;
-  height: 115px;
-  display: flex;
-  flex-direction: column;
-  justify-content: center; }
-  .campaign-invest-scale .investment-total-amount, .campaign-invest-scale .investors-number, .campaign-invest-scale .investments-completed, .campaign-invest-scale .investment-type, .campaign-invest-scale .investment-completed {
-    margin: 0 !important; }
-
 .side-nav {
   display: flex;
   flex-direction: column;
@@ -6310,3 +6301,10 @@ a:hover {
       background-color: #28a745 !important; }
     .side-nav .side-nav-item:focus {
       box-shadow: 0; }
+
+@media screen and (min-width: 992px) {
+  .status-single {
+    border-right: 1px solid #aab6c3;
+    flex: 1; }
+  .status-single-last {
+    flex: 1; } }
