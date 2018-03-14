@@ -139,7 +139,7 @@
                             <div class="campaign-content card-body text-secondary bg-light"><!-- CAMPAIGN TITLE AND EXCERT(SUMMARY ABOUT COMPANY), WITH INVESTMENT STATUS-->       
                                 <div class="card-title d-flex justify-content-start align-items-center"><!-- TITLE WITH COUNTRY FLAG -->
                                     <img src="images/flags/aut.jpg" class="img-fluid mr-3 flag">
-                                    <h4 class="campaign-title mb-0">Army wings</h4>
+                                    <h4 class="campaign-title mb-0 text-dark">Army wings</h4>
                                 </div> <!--END-->
                                 <!-- SHORT SUMMARY - EXCERT -->
                                 <p class="campaign-excerpt card-text mt-3">Lorem ipsum dolor sit amet consectetur adipisicing elit. Unde dignissimos a vitae recusandae amet itaque perferendis
@@ -167,11 +167,11 @@
                                     </div>
                                     <div class="info-cell mx-1 px-2 py-2 text-center">
                                         <i class="fas fa-calendar-alt text-muted fa-1x mb-2" data-toggle="tooltip" data-placement="top" title="Contract term"></i>
-                                        <span class="d-block text-muted font-weight-bold">2 years</span>
+                                        <span class="d-block text-secondary font-weight-bold">2 years</span>
                                     </div>
                                     <div class="info-cell mx-1 px-2 py-2 text-center">
                                         <i class="fas fa-chart-line text-muted fa-1x mb-2 align-self-center" data-toggle="tooltip" data-placement="top" title="Base rate"></i>
-                                        <span class="d-block text-muted font-weight-bold">4.5 %</span>
+                                        <span class="d-block text-secondary font-weight-bold">4.5 %</span>
                                     </div>
                                 </div> <!--END-->
                                 <div class="footer-button py-4 text-center"><!--BUTTON FOR MORE INFO -->
@@ -199,7 +199,7 @@
                             <div class="campaign-content card-body text-secondary bg-light"><!-- CAMPAIGN TITLE AND EXCERT(SUMMARY ABOUT COMPANY), WITH INVESTMENT STATUS-->       
                                 <div class="card-title d-flex justify-content-start align-items-center"><!-- TITLE WITH COUNTRY FLAG -->
                                     <img src="images/flags/aut.jpg" class="img-fluid mr-3 flag">
-                                    <h4 class="campaign-title mb-0">Darts heroes (CI/VMn/LW/PP)</h4>
+                                    <h4 class="campaign-title mb-0 text-dark">Darts heroes (CI/VMn/LW/PP)</h4>
                                 </div> <!--END-->
                                 <!-- SHORT SUMMARY - EXCERT -->
                                 <p class="campaign-excerpt card-text mt-3">Lorem ipsum dolor sit amet consectetur adipisicing elit. Unde dignissimos a vitae recusandae amet itaque perferendis
@@ -238,7 +238,7 @@
                             <div class="campaign-content card-body text-secondary bg-light"><!-- CAMPAIGN TITLE AND EXCERT(SUMMARY ABOUT COMPANY), WITH INVESTMENT STATUS-->       
                                 <div class="card-title d-flex justify-content-start align-items-center"><!-- TITLE WITH COUNTRY FLAG -->
                                     <img src="images/flags/aut.jpg" class="img-fluid mr-3 flag">
-                                    <h4 class="campaign-title mb-0">M office ICO</h4>
+                                    <h4 class="campaign-title mb-0 text-dark">M office ICO</h4>
                                 </div> <!--END-->
                                 <!-- SHORT SUMMARY - EXCERT -->
                                 <p class="campaign-excerpt card-text mt-3">Phasellus vehicula risus nec lacus facilisis, eu condimentum turpis tincidunt. Ut ullamcorper est ut bibendum volutpat. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Proin ut consectetur felis. Aenean facilisis metus non fermentum ultricies. Donec in aliquam lacus, eu porttitor tortor. Maecenas facilisis pharetra elementum. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.</p> <!--END-->
@@ -275,13 +275,13 @@
                                 <div class="campaign-invest-info py-1 px-3 border-bottom border-muted">
                                     <div class="row">
                                         <div class="col-6 my-2 d-flex justify-content-around border-right border-muted">
-                                            <p class="font-weight-bold d-inline-block m-0 d-flex justify-content-center">1 HERO token =
+                                            <p class="font-weight-bold d-inline-block m-0 d-flex justify-content-center text-secondary">1 HERO token =
                                                 <img src="images/campaigns/eth3.svg" class="pl-1">
                                             </p>
                                             <img src="" alt="">
                                         </div>
                                         <div class="col-6 my-2 d-flex justify-content-around">
-                                            <p class="font-weight-bold d-inline-block m-0">0.5</p>
+                                            <p class="font-weight-bold d-inline-block m-0 text-secondary">0.5</p>
                                             <p class="font-weight-bold d-inline-block m-0">
                                                 <span class="text-muted">ETH</span>
                                             </p>
@@ -312,7 +312,7 @@
                             <div class="campaign-content card-body text-secondary bg-light"><!-- CAMPAIGN TITLE AND EXCERT(SUMMARY ABOUT COMPANY), WITH INVESTMENT STATUS-->       
                                 <div class="card-title d-flex justify-content-start align-items-center"><!-- TITLE WITH COUNTRY FLAG -->
                                     <img src="images/flags/che.jpg" class="img-fluid mr-3 flag">
-                                    <h4 class="campaign-title mb-0">Intechor travel</h4>
+                                    <h4 class="campaign-title mb-0 text-dark">Intechor travel</h4>
                                 </div> <!--END-->
                                 <!-- SHORT SUMMARY - EXCERT -->
                                 <p class="campaign-excerpt card-text mt-3">Etiam congue nisl et libero semper placerat. Integer tincidunt ac est id facilisis. Vestibulum suscipit dictum augue eu tempus. Donec dignissim luctus pulvinar. Integer at quam dapibus, scelerisque justo id, ultrices massa. Suspendisse lacinia dui a viverra aliquet. Suspendisse potenti. Nam nec dolor sodales, luctus massa ac, varius est. Aenean mattis, orci non ultrices porta, nulla nulla feugiat neque, vel interdum mi mi sed purus. Mauris iaculis lectus dui, a dignissim odio ornare non. Aenean scelerisque magna a turpis efficitur blandit. Phasellus et ultricies diam. Sed vitae accumsan turpis. Cras euismod, diam nec dapibus dapibus, lectus lectus ultricies quam, id varius dolor mi vel lectus. </p> <!--END-->
@@ -336,7 +336,7 @@
                                     </div>
                                     <div class="info-cell mx-1 px-2 py-2 text-center">
                                         <i class="fas fa-calendar-alt text-muted fa-1x mb-2" data-toggle="tooltip" data-placement="top" title="Contract term"></i>
-                                        <span class="d-block text-muted font-weight-bold">4 years</span>
+                                        <span class="d-block text-secondary font-weight-bold">4 years</span>
                                     </div>
                                 </div> <!--END-->         
                                 <div class="footer-button py-4 text-center"><!--BUTTON FOR MORE INFO -->
@@ -363,7 +363,7 @@
                             <div class="campaign-content card-body text-secondary bg-light"><!-- CAMPAIGN TITLE AND EXCERT(SUMMARY ABOUT COMPANY), WITH INVESTMENT STATUS-->       
                                 <div class="card-title d-flex justify-content-start align-items-center"><!-- TITLE WITH COUNTRY FLAG -->
                                     <img src="images/flags/aut.jpg" class="img-fluid mr-3 flag">
-                                    <h4 class="campaign-title mb-0">Makit - ein regionales Produkt</h4>
+                                    <h4 class="campaign-title mb-0 text-dark">Makit - ein regionales Produkt</h4>
                                 </div> <!--END-->
                             </div>  
                             <div class="card-footer p-0"><!-- CAMPAIGN ADDITIONAL INFO, CELLS WITH ICONS AND BUTTON FOR MORE INFO -->
@@ -407,7 +407,7 @@
                             <div class="campaign-content card-body text-secondary bg-light"><!-- CAMPAIGN TITLE AND EXCERT(SUMMARY ABOUT COMPANY), WITH INVESTMENT STATUS-->       
                                 <div class="card-title d-flex justify-content-start align-items-center"><!-- TITLE WITH COUNTRY FLAG -->
                                     <img src="images/flags/aut.jpg" class="img-fluid mr-3 flag">
-                                    <h4 class="campaign-title mb-0">Oceanic travel</h4>
+                                    <h4 class="campaign-title mb-0 text-dark">Oceanic travel</h4>
                                 </div> <!--END-->
                                 <!-- SHORT SUMMARY - EXCERT -->
                                 <p class="campaign-excerpt card-text mt-3">Roll on, deep and dark blue ocean, roll. Ten thousand fleets sweep over thee in vain. Man marks the earth with ruin, but his control stops with the shore. Repudiandae consequatur
@@ -433,11 +433,11 @@
                                 <div class="campaign-invest-info py-1 d-flex flex-wrap justify-content-around border-bottom border-muted"><!--ADDITIONAL INFORMATION DISPLAYED AS ICONS WITH TOOLTIPS-->
                                     <div class="info-cell mx-1 px-2 py-2 text-center">
                                         <i class="fas fa-calendar-alt text-muted fa-1x mb-2" data-toggle="tooltip" data-placement="top" title="Contract term"></i>
-                                        <span class="d-block text-muted font-weight-bold">4 years</span>
+                                        <span class="d-block text-secondary font-weight-bold">4 years</span>
                                     </div>
                                     <div class="info-cell mx-1 px-2 py-2 text-center">
                                         <i class="fas fa-chart-line text-muted mb-2 fa-1x align-self-center" data-toggle="tooltip" data-placement="top" title="Base rate"></i>
-                                        <span class="d-block text-muted font-weight-bold">4.5 %</span>
+                                        <span class="d-block text-secondary font-weight-bold">4.5 %</span>
                                     </div>
                                 </div> <!--END-->         
                                 <div class="footer-button py-4 text-center"><!--BUTTON FOR MORE INFO -->
@@ -464,7 +464,7 @@
                             <div class="campaign-content card-body text-secondary bg-light"><!-- CAMPAIGN TITLE AND EXCERT(SUMMARY ABOUT COMPANY), WITH INVESTMENT STATUS-->       
                                 <div class="card-title d-flex justify-content-start align-items-center"><!-- TITLE WITH COUNTRY FLAG -->
                                     <img src="images/flags/aut.jpg" class="img-fluid mr-3 flag">
-                                    <h4 class="campaign-title mb-0">Medix (CF)</h4>
+                                    <h4 class="campaign-title mb-0 text-dark">Medix (CF)</h4>
                                 </div> <!--END-->
                                 <!-- SHORT SUMMARY - EXCERT -->
                                 <p class="campaign-excerpt card-text mt-3">Lorem ipsum dolor sit amet consectetur adipisicing elit. Unde dignissimos a vitae recusandae amet itaque perferendis

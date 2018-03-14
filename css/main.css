@@ -6247,6 +6247,9 @@ a.text-new:hover, a.text-new:focus {
 .login-nav a:hover {
   text-decoration: none; }
 
+a:hover {
+  text-decoration: none; }
+
 .campaign-badge {
   position: absolute;
   top: 2%;
@@ -6259,6 +6262,10 @@ a.text-new:hover, a.text-new:focus {
   .campaign-badge span {
     padding-left: 10px;
     padding-right: 20px; }
+
+.flag {
+  width: auto;
+  height: 16px; }
 
 .side-nav {
   display: flex;
