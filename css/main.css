@@ -6252,8 +6252,6 @@ a:hover {
 
 .card-header {
   position: relative; }
-  .card-header .campaign-status {
-    margin-right: 5rem; }
   .card-header .campaign-logo {
     position: absolute;
     top: 50%;
