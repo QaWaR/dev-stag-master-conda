@@ -2,19 +2,22 @@
 <main>
     <section class="container">
         <div class="row my-5">
-            <!--CAMPAIGN-->
+            <!--CAMPAIGN-armywings-->
             <div class="col-12 col-md-6 col-lg-4">
-                <div class="campaign card mb-4">  
+                <div class="campaign card position-relative mb-4">
                     <a href="#"><!--CAMPAIGN IMAGE AND STATUS-->
-                        <img src="images/armywings/armywings.jpg" class="card-img-top campaign-image position-relative">
-                        <div class="campaign-badge bg-primary">
-                            <i class="fas fa-bell"></i><span>Neu</span>
+                        <div>
+                            <img src="images/armywings/armywings.jpg" class="card-img-top campaign-image">
                         </div>
                         <div class="campaign-header card-header bg-primary px-3 py-2 d-flex justify-content-between">
                             <p class="campaign-status text-uppercase text-white font-weight-bold my-auto mr-3">Starting in<span class="h4"> 1 </span> month</p>
                             <img src="images/campaigns/rsz-intechor-logo.jpg" class="rounded-circle campaign-logo">
                         </div>
-                    </a> <!--END-->                
+                    </a>
+                    <div class="campaign-badge bg-new">
+                        <i class="fas fa-bell"></i><span>Neu</span>
+                    </div>
+                    <!--END-->                
                     <div class="campaign-content card-body text-dark bg-light"><!-- CAMPAIGN TITLE AND EXCERT(SUMMARY ABOUT COMPANY), WITH INVESTMENT STATUS-->       
                         <div class="card-title d-flex justify-content-start align-items-center"><!-- TITLE WITH COUNTRY FLAG -->
                             <img src="images/flags/aut.jpg" class="img-fluid mr-3 flag">
@@ -59,19 +62,22 @@
                     </div>
                 </div>
             </div> <!--END CAMPAIGN-->
-            <!--CAMPAIGN-->
+            <!--CAMPAIGN-darts-->
             <div class="col-12 col-md-6 col-lg-4">
-                <div class="campaign card mb-4">  
+                <div class="campaign card position-relative mb-4">  
                     <a href="#"><!--CAMPAIGN IMAGE AND STATUS-->
-                        <img src="images/Darts/dartcover.jpg" class="card-img-top campaign-image position-relative">
-                        <div class="campaign-badge bg-primary">
-                            <i class="fas fa-bell"></i><span>Neu</span>
+                        <div class="position-relative">
+                            <img src="images/Darts/dartcover.jpg" class="card-img-top campaign-image ">
                         </div>
                         <div class="campaign-header card-header bg-primary px-3 py-2 d-flex justify-content-between">
                             <p class="campaign-status text-uppercase text-white font-weight-bold my-auto mr-3">Private placement</p>
                             <img src="images/campaigns/rsz-intechor-logo.jpg" class="rounded-circle campaign-logo">
                         </div>
-                    </a> <!--END-->
+                    </a>
+                    <div class="campaign-badge bg-warning">
+                        <i class="fas fa-star"></i><span>Favourite</span>
+                    </div>
+                    <!--END-->
                     <div class="campaign-content card-body text-dark bg-light"><!-- CAMPAIGN TITLE AND EXCERT(SUMMARY ABOUT COMPANY), WITH INVESTMENT STATUS-->       
                         <div class="card-title d-flex justify-content-start align-items-center"><!-- TITLE WITH COUNTRY FLAG -->
                             <img src="images/flags/aut.jpg" class="img-fluid mr-3 flag">
@@ -83,7 +89,6 @@
                             neque eveniet natus, illo debitis dolore dolorem sequi aperiam fuga? Voluptatum velit, repudiandae consequatur
                             doloremque error culpa quasi itaque?</p> <!--END-->
                         <hr>
-                        
                         <div class="campaign-invest-wrapper text-dark d-flex flex-column flex-sm-row justify-content-around"><!-- CAMPAIGN KNOB(SCALE) WITH CURRENT INVESTMENT STATUS AND BASIC INFO-->    
                             <div class="investment-amounts align-self-center pt-3"><!-- BASIC INFO ABOUT INVESTMENTS -->
                                 <p class="text-muted"><span class="investment-min d-block h4 m-0 text-dark text-center">450.000<sup class="currency">&euro;</sup></span> Capital Investment</p>
@@ -97,19 +102,21 @@
                     </div>
                 </div>
             </div> <!--END CAMPAIGN-->
-            <!--CAMPAIGN-->
+            <!--CAMPAIGN-m-office-->
             <div class="col-12 col-md-6 col-lg-4">
-                <div class="campaign card mb-4">  
+                <div class="campaign card position-relative mb-4">  
                     <a href="#"><!--CAMPAIGN IMAGE AND STATUS-->
-                        <img src="images/campaigns/m-office.jpg" class="card-img-top campaign-image position-relative">
-                        <div class="campaign-badge bg-primary">
-                            <i class="fas fa-bell"></i><span>Neu</span>
+                        <div class="position-relative">
+                            <img src="images/campaigns/m-office.jpg" class="card-img-top campaign-image ">
                         </div>
                         <div class="campaign-header card-header bg-primary px-3 py-2 d-flex justify-content-between">
                             <p class="campaign-status text-uppercase text-white font-weight-bold my-auto mr-3"><span class="h4"> 3 </span> months remaining</p>
                             <img src="images/campaigns/rsz-intechor-logo.jpg" class="rounded-circle campaign-logo">
                         </div>
-                    </a> <!--END-->
+                    </a>
+                    <div class="campaign-badge bg-warning">
+                        <i class="fas fa-star"></i><span>Favourite</span>
+                    </div><!--END-->
                     <div class="campaign-content card-body text-dark bg-light"><!-- CAMPAIGN TITLE AND EXCERT(SUMMARY ABOUT COMPANY), WITH INVESTMENT STATUS-->       
                         <div class="card-title d-flex justify-content-start align-items-center"><!-- TITLE WITH COUNTRY FLAG -->
                             <img src="images/flags/aut.jpg" class="img-fluid mr-3 flag">
@@ -169,19 +176,21 @@
                     </div>
                 </div>
             </div> <!--END CAMPAIGN-->
-            <!--CAMPAIGN-->
+            <!--CAMPAIGN-intechor-->
             <div class="col-12 col-md-6 col-lg-4">
-                <div class="campaign card mb-4">  
+                <div class="campaign card position-relative mb-4">  
                     <a href="#"><!--CAMPAIGN IMAGE AND STATUS-->
-                        <img src="images/campaigns/intechor.jpg" class="card-img-top campaign-image position-relative">
-                        <div class="campaign-badge bg-primary">
-                            <i class="fas fa-bell"></i><span>Neu</span>
+                        <div class="position-relative">
+                            <img src="images/campaigns/intechor.jpg" class="card-img-top campaign-image ">
                         </div>
                         <div class="campaign-header card-header bg-primary px-3 py-2 d-flex justify-content-between">
                             <p class="campaign-status text-uppercase text-white font-weight-bold my-auto mr-3"><span class="h4"> 1 </span> month remaining</p>
                             <img src="images/campaigns/rsz-intechor-logo.jpg" class="rounded-circle campaign-logo">
                         </div>
-                    </a> <!--END-->                
+                    </a>
+                    <div class="campaign-badge bg-danger">
+                        <i class="fas fa-heart"></i><span>We love this</span>
+                    </div><!--END-->                
                     <div class="campaign-content card-body text-dark bg-light"><!-- CAMPAIGN TITLE AND EXCERT(SUMMARY ABOUT COMPANY), WITH INVESTMENT STATUS-->       
                         <div class="card-title d-flex justify-content-start align-items-center"><!-- TITLE WITH COUNTRY FLAG -->
                             <img src="images/flags/che.jpg" class="img-fluid mr-3 flag">
@@ -218,19 +227,21 @@
                     </div>
                 </div>
             </div> <!--END CAMPAIGN-->
-            <!--CAMPAIGN-->
+            <!--CAMPAIGN-makit-->
             <div class="col-12 col-md-6 col-lg-4">
-                <div class="campaign card mb-4">  
+                <div class="campaign card position-relative mb-4">  
                     <a href="#"><!--CAMPAIGN IMAGE AND STATUS-->
-                        <img src="images/campaigns/makit.jpg" class="card-img-top campaign-image position-relative">
-                        <div class="campaign-badge bg-primary">
-                            <i class="fas fa-bell"></i><span>Neu</span>
+                        <div class="position-relative">
+                            <img src="images/campaigns/makit.jpg" class="card-img-top campaign-image ">
                         </div>
                         <div class="campaign-header card-header bg-secondary px-3 py-2 d-flex justify-content-between">
                             <p class="campaign-status text-uppercase text-white font-weight-bold my-auto mr-3">Investment finished</p>
                             <img src="images/campaigns/rsz-intechor-logo.jpg" class="rounded-circle campaign-logo">
                         </div>
-                    </a> <!--END-->                
+                    </a>
+                    <div class="campaign-badge bg-soon">
+                        <i class="fas fa-bullhorn"></i><span> Startet bald</span>
+                    </div><!--END-->                
                     <div class="campaign-content card-body text-dark bg-light"><!-- CAMPAIGN TITLE AND EXCERT(SUMMARY ABOUT COMPANY), WITH INVESTMENT STATUS-->       
                         <div class="card-title d-flex justify-content-start align-items-center"><!-- TITLE WITH COUNTRY FLAG -->
                             <img src="images/flags/aut.jpg" class="img-fluid mr-3 flag">
@@ -260,19 +271,21 @@
                     </div>
                 </div>
             </div> <!--END CAMPAIGN-->
-            <!--CAMPAIGN-->
+            <!--CAMPAIGN-oceanic-travel-->
             <div class="col-12 col-md-6 col-lg-4">
-                <div class="campaign card mb-4">  
+                <div class="campaign card position-relative mb-4">  
                     <a href="#"><!--CAMPAIGN IMAGE AND STATUS-->
-                        <img src="images/campaigns/oceanic-travel.jpg" class="card-img-top campaign-image position-relative">
-                        <div class="campaign-badge bg-primary">
-                            <i class="fas fa-bell"></i><span>Neu</span>
+                        <div class="position-relative">
+                            <img src="images/campaigns/oceanic-travel.jpg" class="card-img-top campaign-image ">
                         </div>
                         <div class="campaign-header card-header bg-primary px-3 py-2 d-flex justify-content-between">
                             <p class="campaign-status text-uppercase text-white font-weight-bold my-auto mr-3">Successfully financed</p>
                             <img src="images/campaigns/rsz-intechor-logo.jpg" class="rounded-circle campaign-logo">
                         </div>
-                    </a> <!--END-->                
+                    </a>
+                    <div class="campaign-badge bg-success">
+                        <i class="fas fa-rocket"></i></i><span> Erfolgreich finanziert</span>
+                    </div> <!--END-->                
                     <div class="campaign-content card-body text-dark bg-light"><!-- CAMPAIGN TITLE AND EXCERT(SUMMARY ABOUT COMPANY), WITH INVESTMENT STATUS-->       
                         <div class="card-title d-flex justify-content-start align-items-center"><!-- TITLE WITH COUNTRY FLAG -->
                             <img src="images/flags/aut.jpg" class="img-fluid mr-3 flag">
@@ -315,19 +328,21 @@
                     </div>
                 </div>
             </div> <!--END CAMPAIGN-->
-            <!--CAMPAIGN-->
+            <!--CAMPAIGN-medix-->
             <div class="col-12 col-md-6 col-lg-4">
-                <div class="campaign card mb-4">  
+                <div class="campaign card position-relative mb-4">  
                     <a href="#"><!--CAMPAIGN IMAGE AND STATUS-->
-                        <img src="images/campaigns/medix.jpg" class="card-img-top campaign-image position-relative">
-                        <div class="campaign-badge bg-primary">
-                            <i class="fas fa-bell"></i><span>Neu</span>
+                        <div class="position-relative">
+                            <img src="images/campaigns/medix.jpg" class="card-img-top campaign-image ">
                         </div>
                         <div class="campaign-header card-header bg-primary px-3 py-2 d-flex justify-content-between">
                             <p class="campaign-status text-uppercase text-white font-weight-bold my-auto mr-3"><span class="h4"> 1 </span> months remaining</p>
                             <img src="images/campaigns/rsz-intechor-logo.jpg" class="rounded-circle campaign-logo">
                         </div>
-                    </a> <!--END-->                
+                    </a>
+                    <div class="campaign-badge bg-danger">
+                        <i class="fas fa-heart"></i><span>We love this!</span>
+                    </div> <!--END-->                
                     <div class="campaign-content card-body text-dark bg-light"><!-- CAMPAIGN TITLE AND EXCERT(SUMMARY ABOUT COMPANY), WITH INVESTMENT STATUS-->       
                         <div class="card-title d-flex justify-content-start align-items-center"><!-- TITLE WITH COUNTRY FLAG -->
                             <img src="images/flags/aut.jpg" class="img-fluid mr-3 flag">
