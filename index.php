@@ -559,7 +559,7 @@
             <div class="container">
                 <h2 class="mb-4">Sie suchen interessante Investitionsmöglichkeiten?</h2>
                 <p class="lead mb-5">Entdecken Sie gleich alle Crowdinvesting-Projekte!</p>
-                <button class="btn btn-success py-3 px-3 text-uppercase">Projekte entdecken</button>
+                <button class="btn btn-success py-3 px-4 text-uppercase rounded-0">Projekte entdecken</button>
             </div>
         </div>
         <div class="current-status border-bottom border-secondary">
