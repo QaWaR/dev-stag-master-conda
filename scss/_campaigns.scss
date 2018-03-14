@@ -1,10 +1,26 @@
 a:hover {
     text-decoration: none;
 }
+.card-header {
+    position: relative;
+    .campaign-status {
+        margin-right: 5rem;
+    }
+    .campaign-logo {
+        position: absolute;
+        top: 50%;
+        right: 0.5rem;
+        border: 1px solid white;
+        width: 80px;
+        height: 80px;
+        transform: translate( 0, -50%);
+        background-color: white;
+    }
+}
 .campaign-badge {
     position: absolute;
-    top: 2%;
-    left: 3%;
+    top: 1rem;
+    left: 0.5rem;
     border-radius: 700px;
     color: #fff;
     padding-left: 10px;
@@ -19,3 +35,13 @@ a:hover {
     width: auto;
     height: 16px;
 }
+.campaign-invest-scale {
+    width: 115px;
+    height: 115px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    .investment-total-amount, .investors-number, .investments-completed, .investment-type, .investment-completed {
+     margin: 0!important;
+    }
+ }
