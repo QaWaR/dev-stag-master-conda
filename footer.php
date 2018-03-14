@@ -20,7 +20,7 @@
                         </div>
                 </div>
             </section>
-            <section class="questions bg-primary py-5 text-white">
+            <section class="questions bg-info py-5 text-white">
                 <div class="container">
                     <div class="content-wrapper py-2 d-flex flex-column flex-lg-row justify-content-lg-center justify-content-around align-items-center align-items-lg-baseline">
                         <p class="text-success h3 m-0 mx-2">Do you have any questions?</p>
@@ -30,7 +30,7 @@
                     </div>
                 </div>
             </section>
-            <section class="info bg-info">
+            <section class="info bg-primary">
                 <div class="container">
                     <div class="info-wrapper py-5 d-flex flex-lg-row flex-sm-column flex-column justify-content-lg-around align-items-sm-center align-items-lg-start">
                         <div class="single-info-wrapper py-3 px-3 d-flex flex-column text-white border-right border-light align-self-stretch">
@@ -68,7 +68,7 @@
                     </div>
                 </div>
             </section>
-            <div class="copyright-section bg-info text-white text-center py-2 border-top border-white">
+            <div class="copyright-section bg-primary text-white text-center py-2 border-top border-white">
                 <p class="m-0">Urheberrecht © 2017. | Erstellt mit <i class="fas fa-heart text-danger m-0"></i> bei CONDA</p>
             </div>
             <script src="assets/jquery/jquery.min.js"></script>
