@@ -332,8 +332,8 @@
                                         </blockquote>
                                     </div>
                                     <div class="side-nav">
-                                        <a href="#anoodeling" class="btn btn-success rounded-circle side-nav-item"></a>
-                                        <a href="#investieren" class="btn btn-light rounded-circle side-nav-item"></a>
+                                        <a href="#anoodeling" class="btn rounded-circle side-nav-item" data-toggle="tooltip" data-placement="right" title="Anoodeling"></a>
+                                        <a href="#investieren" class="btn rounded-circle side-nav-item" data-toggle="tooltip" data-placement="right" title="Investieren"></a>
                                     </div>
                                 </div>
                                 <!--aside-->
