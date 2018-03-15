@@ -1504,7 +1504,7 @@ select.form-control-lg:not([size]):not([multiple]), .input-group-lg > select.for
   display: block; }
 
 .was-validated .custom-file-input:valid:focus ~ .custom-file-label, .custom-file-input.is-valid:focus ~ .custom-file-label {
-  box-shadow: 0 0 0 0.2rem rgba(70, 173, 141, 0.25); }
+  box-shadow: 0 0 0 0.2rem rgba(70, 173, 141, 0.8); }
 
 .invalid-feedback {
   display: none;
