@@ -34,3 +34,13 @@ a:hover {
     width: auto;
     height: 16px;
 }
+.flag-wide {
+    @extend .flag;
+    width: 24px!important;
+}
+.single-campain-cover {
+    background-image: url('../images/campaigns/anoodeling-cover.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 500px;
+}
