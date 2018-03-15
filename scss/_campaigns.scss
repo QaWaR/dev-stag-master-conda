@@ -34,3 +34,14 @@ a:hover {
     width: auto;
     height: 16px;
 }
+
+//Campagins border fix proprety
+.info-cell {
+    flex: 1;
+}
+.campaign-invest-info > .info-cell {
+    border-left: 1px solid $gray-400;
+}
+.info-cell:first-child {
+    border: none;
+}

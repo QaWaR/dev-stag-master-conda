@@ -6296,6 +6296,15 @@ a:hover {
   width: auto;
   height: 16px; }
 
+.info-cell {
+  flex: 1; }
+
+.campaign-invest-info > .info-cell {
+  border-left: 1px solid #ced4da; }
+
+.info-cell:first-child {
+  border: none; }
+
 .side-nav {
   display: flex;
   flex-direction: column;
