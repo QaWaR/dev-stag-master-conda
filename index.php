@@ -582,7 +582,7 @@
         </div>
         <div class="current-status border-bottom border-secondary">
             <div class="container">
-                <div class="status-signle-wrapper d-flex flex-wrap flex-columnn flex-sm-column flex-md-row  justify-content-around justify-content-sm-around justify-content-xl-between">
+                <div class="status-single-wrapper d-flex flex-wrap flex-columnn flex-sm-column flex-md-row  justify-content-around justify-content-sm-around justify-content-xl-between">
                     <div class="status-single text-center py-5 px-5">
                         <p class="input h2 mb-1">19,14 Mio.$</p>
                         <p class="kapital m-0">investierts Kapital</p>
@@ -595,7 +595,7 @@
                         <p class="input h2 mb-1">9.42</p>
                         <p class="total-investors m-0">Investoren</p>
                     </div>
-                    <div class="status-single-last text-center py-5 px-5">
+                    <div class="status-single text-center py-5 px-5">
                         <p class="input h2 mb-1">1,194 $</p>
                         <p class="average-amount m-0">urchschnittliche Investitionssumme</p>
                     </div>
