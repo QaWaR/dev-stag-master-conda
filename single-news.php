@@ -6,15 +6,17 @@
     </section>
     <hr>
     <section class="container py-5">
-        <div class="d-flex">
-            <div class="avatar"><img src="images/profile-img-default.png" class="rounded-circle" alt=""></div>
-            <div class="pl-3 d-flex flex-column justify-content-center">
-                <p class="text-success m-0">Posted by</p>
+        <div class="media p-2 mb-4">
+            <div class="d-flex align-items-center">
+                <img src="images/profile-img-default.png" class="rounded-circle" alt="">
+                <div class="media-body py-2 ml-3">
+                    <p class="text-success m-0">Posted by</p>
                 <p class="text-muted m-0">adminuser</p>
                 <p class="text-success m-0">September 11, 2017 <span class="text-muted">in</span> <a class="text-success" href="#">Uncategorized</a></p>
+                </div>
             </div>
         </div>
-    </section>
+</section>
     <hr>
     <section class="container py-5">
         <form class="mb-3">
