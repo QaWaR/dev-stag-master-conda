@@ -79,7 +79,7 @@
                     </div>
                     <div class="modal-footer flex-column align-items-center py-4">
                         <button class="btn btn-primary px-4 w-50 mb-2 text-uppercase" data-dismiss="modal">Login</button>
-                        <button class="btn btn-danger px-4 w-50 text-uppercase" data-dismiss="modal" >Close</button>
+                        <button class="btn btn-danger px-4 w-25 text-uppercase" data-dismiss="modal" >Close</button>
                         
                     </div>
                 </div>
