@@ -9,13 +9,16 @@
     align-items: center;
 }
 // DISCOVER THE PROJCET SECTION
-@media screen and (min-width: 992px) {
-    .status-single {
-    border-right: 1px solid $secondary;
+.status-single {
     flex: 1;
     }
-    .status-single-last {
-        flex: 1;
+
+@media screen and (min-width: 992px) {
+    .status-single-wrapper > .status-single {
+        border-left: 1px solid $secondary;
+    } 
+    .status-single:first-child {
+        border: none;
     }
 }
 

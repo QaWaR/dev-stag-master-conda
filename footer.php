@@ -33,9 +33,9 @@
             <section class="info bg-primary">
                 <div class="container">
                     <div class="info-wrapper py-5 d-flex flex-lg-row flex-sm-column flex-column justify-content-lg-around align-items-sm-center align-items-lg-start">
-                        <div class="single-info-wrapper py-3 px-3 d-flex flex-column text-white border-right border-light align-self-stretch">
-                            <a href="index.php">
-                                <img src="images/logoconda.png" class="w-50 mb-2 align-self-center align-self-sm-center align-self-lg-start">
+                        <div class="single-info-wrapper mb-3 py-3 px-3 d-flex flex-column text-white  align-self-stretch">
+                            <a href="index.php" class="w-50 mb-2 align-self-center align-self-sm-center align-self-lg-start">
+                                <img src="images/logoconda.png" class="img-fluid">
                             </a>
                             <a href="index.php">
                                 <p class="m-0 text-center text-sm-center text-lg-left text-white">CONDA Crowdinvesting</p>
@@ -47,7 +47,7 @@
                                 <p class="m-0 text-center text-sm-center text-lg-left text-white"><i class="fas fa-building mr-1 text-white"></i>1220 Wien</p>
                             </a>
                         </div>
-                        <div class="single-info-wrapper py-3 px-3 d-flex flex-column text-whit border-right border-lighte align-self-stretch">
+                        <div class="single-info-wrapper mb-3 py-3 px-3 d-flex flex-column text-whit align-self-stretch">
                             <div class="input-group">
                                 <input type="text" class="form-control" placeholder="Email.." aria-label="Email.." aria-describedby="basic-addon2" >
                                 <div class="input-group-append">
@@ -55,7 +55,7 @@
                                 </div>
                             </div>  
                         </div>
-                        <div class="single-info-wrapper py-3 px-3 d-flex flex-column text-white border-right border-light align-self-stretch">
+                        <div class="single-info-wrapper mb-3 py-3 px-3 d-flex flex-column text-white  align-self-stretch">
                             <p class="h4 mb-4 text-center text-sm-center text-lg-left">Folgen sie uns auf</p>
                             <div class="social-media-wrapper d-flex flex-row justify-content-around">
                                 <a href="https://www.facebook.com/conda.crowdinvesting/" target="blank"><i class="fab fa-facebook-f mx-3 text-white"></i></a>
@@ -66,7 +66,7 @@
                                 <a href="https://www.xing.com/en" target="blank"><i class="fab fa-xing mx-3 text-white"></i></a>
                             </div>
                         </div>
-                        <div class="single-info-wrapper py-3 px-3 d-flex flex-column text-white text-center text-sm-center text-lg-left align-self-stretch">
+                        <div class="single-info-wrapper mb-3 py-3 px-3 d-flex flex-column text-white text-center text-sm-center text-lg-left align-self-stretch">
                             <a href="#" class="text-white">Risikohinweis</a>
                             <a href="blog.php" class="text-white">Blog</a>
                             <a href="#" class="text-white">Presse</a>
