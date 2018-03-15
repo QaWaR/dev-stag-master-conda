@@ -1,0 +1,21 @@
+footer a {
+    opacity: 0.6;
+}
+
+footer a:hover {
+    opacity: 1;
+}
+
+.info-wrapper > .single-info-wrapper {
+    border-left: 1px solid $light;
+}
+
+.single-info-wrapper:first-child {
+    border: none;
+}
+
+@media screen and (max-width:992px) {
+    .info-wrapper > .single-info-wrapper {
+        border: none;
+    }
+}

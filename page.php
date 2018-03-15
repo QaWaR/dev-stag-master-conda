@@ -457,7 +457,7 @@
                 <div class="submit-forms">
                     <div class="row">
                         <div class="col-12 col-lg-6"> 
-                            <nav class="w-100 bg-primary"><!-- TABS NAVIGATION-->
+                            <nav class="w-100 bg-danger"><!-- TABS NAVIGATION-->
                                 <div class="nav nav-tabs" id="nav-tab" role="tablist">
                                     <a href="#nav-person" class="h5 nav-item nav-link active mt-3 ml-3 text-dark" id="nav-person-tab" data-toggle="tab" role="tab" aria-controls="nav-person"
                                         aria-selected="true">Person</a>
@@ -576,7 +576,7 @@
                                     </div>
                                     <div class="payment-type w-100">
                                         <nav>
-                                            <div class="nav nav-tabs bg-info" id="nav-tab" role="tablist">
+                                            <div class="nav nav-tabs bg-danger" id="nav-tab" role="tablist">
                                                 <a href="#nav-sepa" class="nav-item nav-link active text-dark mt-2 ml-2" id="nav-sepa-tab" data-toggle="tab" role="tab" aria-controls="nav-sepa" aria-selected="true">SEPA</a>
                                                 <a href="#nav-bitcoin" class="nav-item nav-link text-dark mt-2 ml-2" id="nav-bitcoin-tab" data-toggle="tab" role="tab" aria-controls="nav-bitcoin"
                                                 aria-selected="true">Bitcoin</a>
@@ -715,7 +715,7 @@
                                     </div>
                                     <div class="payment-type w-100">
                                         <nav>
-                                            <div class="nav nav-tabs bg-info" id="nav-tab" role="tablist">
+                                            <div class="nav nav-tabs bg-danger" id="nav-tab" role="tablist">
                                                 <a href="#nav-sep1a" class="nav-item nav-link active text-dark mt-2 ml-2" id="nav-sepa-tab1" data-toggle="tab" role="tab" aria-controls="nav-sepa1"
                                                     aria-selected="true">SEPA</a>
                                                 <a href="#nav-bitcoin1" class="nav-item nav-link text-dark mt-2 ml-2" id="nav-bitcoin-tab1" data-toggle="tab" role="tab" aria-controls="nav-bitcoin1"
@@ -824,50 +824,48 @@
             <div id="investors" class="collapse">
                 <section class="investors-say py-5">
                     <div class="container">
-                        <h2 class="text-center text-sm-center text-md-left mb-3">Das sagen Investoren</h2>
-                        <div id="carouselExampleSLidesOnly" class="carousel slide" data-ride="carousel">
-                            <div class="carousel-inner">
-                                <div class="carousel-item active content-wrapper">
-                                    <div class="image-comment-wrapper py-3 px-5 text-center">
-                                        <img src="images/investors/michael.jpg" class="mb-4 rounded-circle">
-                                        <p class="h4 text-uppercase mb-4">Michael Altrichter</p>
-                                        <p class="lead text-muted px-5">"Crowdinvest ist seit geraumer Zeit immer stärker im Kommen, da es sich für viele Geschäftsmodelle,
-                                            vor allem im B2C Bereich, hervorragend anbietet. Es freut mich wirklich sehr, dass es mit CONDA
-                                            bei uns ein derart engagiertes Team gibt, das dieses Thema so stark fördert und in die Breite
-                                            trägt!"</p>
-                                    </div>
-                                </div>
-                                <div class="carousel-item content-wrapper">
-                                    <div class="image-comment-wrapper py-3 px-5 text-center">
-                                        <img src="images/investors/bernd.jpg" class="mb-4 rounded-circle">
-                                        <p class="h4 text-uppercase mb-4">Bernd Lutzka</p>
-                                        <p class="lead text-muted px-5">"Für Business Angels stellt sich stetes die Frage nach Erfolgspotentialen von Start Ups. Es gibt
-                                            hier zwar keine signifikanten Muster oder einfache Kochrezepte, aber ein erkennbares Kundenproblem
-                                            und eine machbare Lösung sind die Basis für jedes Geschäftskonzept. Wenn dann auch noch ein williges
-                                            und fähiges Team die Lösung umsetzt, sollte sich ein halbwegs risikofreudiger Investor rasch
-                                            entscheiden, denn auch bei Business Angels herrscht Wettbewerb um die besten Projekte!"</p>
-                                    </div>
-                                </div>
-                                <div class="carousel-item content-wrapper">
-                                    <div class="image-comment-wrapper py-3 px-5 text-center">
-                                        <img src="images/investors/niko.jpg" class="mb-4 rounded-circle">
-                                        <p class="h4 text-uppercase mb-4">Niko Alm</p>
-                                        <p class="lead text-muted px-5">"Privates Kapital muss arbeiten können. Das macht CONDA möglich und zeigt damit, wie Wirtschaft und
-                                            Finanzierung in Zukunft (auch) funktionieren werden: im eigenverantwortlichen Zusammenwirken
-                                            von Investoren und Unternehmen."</p>
-                                    </div>
-                                </div>
-                                <div class="carousel-item content-wrapper">
-                                    <div class="image-comment-wrapper py-3 px-5 text-center">
-                                        <img src="images/investors/marcus.jpg" class="mb-4 rounded-circle">
-                                        <p class="h4 text-uppercase mb-4">Marcus Ceh</p>
-                                        <p class="lead text-muted px-5">"CONDA hat ein umfassendes Experten und Partnernetzwerk und ist daher für mich die sicherste, professionellste
-                                            und kompetenteste Crowdinvesting-Plattform mit den besten Business-Ideen und sehr hohen langfristigen
-                                            Rendite-Chancen."</p>
-                                    </div>
-                                </div>
-                            </div>
+                        <h2 class="text-center mb-3">Das sagen Investoren</h2>
+                        <div class="owl-one owl-carousel owl-theme">
+                    <div class="item">
+                        <div class="image-comment-wrapper py-3 px-5 d-flex flex-column align-items-center text-center">
+                            <img src="images/investors/michael.jpg" class="mb-4 rounded-circle img-fluid" style="width:80px; height:80px;">
+                            <p class="h4 text-uppercase mb-4">Michael Altrichter</p>
+                            <p class="lead text-muted px-5">"Crowdinvest ist seit geraumer Zeit immer stärker im Kommen, da es sich für viele Geschäftsmodelle,
+                                vor allem im B2C Bereich, hervorragend anbietet. Es freut mich wirklich sehr, dass es mit CONDA
+                                bei uns ein derart engagiertes Team gibt, das dieses Thema so stark fördert und in die Breite
+                                trägt!"</p>
                         </div>
+                    </div>
+                    <div class="item">
+                        <div class="image-comment-wrapper py-3 px-5 d-flex flex-column align-items-center text-center">
+                            <img src="images/investors/bernd.jpg" class="mb-4 rounded-circle img-fluid" style="width:80px; height:80px;">
+                            <p class="h4 text-uppercase mb-4">Bernd Lutzka</p>
+                            <p class="lead text-muted px-5">"Für Business Angels stellt sich stetes die Frage nach Erfolgspotentialen von Start Ups. Es gibt
+                                hier zwar keine signifikanten Muster oder einfache Kochrezepte, aber ein erkennbares Kundenproblem
+                                und eine machbare Lösung sind die Basis für jedes Geschäftskonzept. Wenn dann auch noch ein williges
+                                und fähiges Team die Lösung umsetzt, sollte sich ein halbwegs risikofreudiger Investor rasch
+                                entscheiden, denn auch bei Business Angels herrscht Wettbewerb um die besten Projekte!"</p>
+                        </div>
+                    </div>
+                    <div class="item">
+                        <div class="image-comment-wrapper py-3 px-5 d-flex flex-column align-items-center text-center">
+                            <img src="images/investors/niko.jpg" class="mb-4 rounded-circle img-fluid" style="width:80px; height:80px;">
+                            <p class="h4 text-uppercase mb-4">Niko Alm</p>
+                            <p class="lead text-muted px-5">"Privates Kapital muss arbeiten können. Das macht CONDA möglich und zeigt damit, wie Wirtschaft und
+                                Finanzierung in Zukunft (auch) funktionieren werden: im eigenverantwortlichen Zusammenwirken
+                                von Investoren und Unternehmen."</p>
+                        </div>
+                    </div>
+                    <div class="item">
+                        <div class="image-comment-wrapper py-3 px-5 d-flex flex-column align-items-center text-center">
+                            <img src="images/investors/marcus.jpg" class="mb-4 rounded-circle img-fluid" style="width:80px; height:80px;">
+                            <p class="h4 text-uppercase mb-4">Marcus Ceh</p>
+                            <p class="lead text-muted px-5">"CONDA hat ein umfassendes Experten und Partnernetzwerk und ist daher für mich die sicherste, professionellste
+                                und kompetenteste Crowdinvesting-Plattform mit den besten Business-Ideen und sehr hohen langfristigen
+                                Rendite-Chancen."</p>
+                        </div>
+                    </div>
+                </div>
                     </div>
                 </section>
             </div>

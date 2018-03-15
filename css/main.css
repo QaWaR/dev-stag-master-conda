@@ -6247,6 +6247,22 @@ a.text-new:hover, a.text-new:focus {
 .login-nav a:hover {
   text-decoration: none; }
 
+footer a {
+  opacity: 0.6; }
+
+footer a:hover {
+  opacity: 1; }
+
+.info-wrapper > .single-info-wrapper {
+  border-left: 1px solid #f8f9fa; }
+
+.single-info-wrapper:first-child {
+  border: none; }
+
+@media screen and (max-width: 992px) {
+  .info-wrapper > .single-info-wrapper {
+    border: none; } }
+
 a:hover {
   text-decoration: none; }
 
@@ -6280,6 +6296,7 @@ a:hover {
   width: auto;
   height: 16px; }
 
+<<<<<<< HEAD
 .flag-wide {
   width: 24px !important; }
 
@@ -6288,6 +6305,16 @@ a:hover {
   background-size: cover;
   background-repeat: no-repeat;
   height: 500px; }
+=======
+.info-cell {
+  flex: 1; }
+
+.campaign-invest-info > .info-cell {
+  border-left: 1px solid #ced4da; }
+
+.info-cell:first-child {
+  border: none; }
+>>>>>>> dev
 
 .side-nav {
   display: flex;
@@ -6318,12 +6345,14 @@ a:hover {
   justify-content: center;
   align-items: center; }
 
+.status-single {
+  flex: 1; }
+
 @media screen and (min-width: 992px) {
-  .status-single {
-    border-right: 1px solid #aab6c3;
-    flex: 1; }
-  .status-single-last {
-    flex: 1; } }
+  .status-single-wrapper > .status-single {
+    border-left: 1px solid #aab6c3; }
+  .status-single:first-child {
+    border: none; } }
 
 .cta-single-link {
   flex: 1; }
