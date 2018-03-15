@@ -6,7 +6,7 @@
         <!--crowdinvesting - cover-->
         <div class="accordion-cover">
             <a href="#cover" class="p-0 text-left" data-toggle="collapse" aria-expanded="false" aria-controls="cover">
-                <p class="p-0 mt-2 text-primary font-weight-bold text-capitalize text-center">Cover<i class="fas fa-plus text-primary ml-2"></i> </p>
+                <p class="p-0 mt-2 text-success font-weight-bold text-capitalize text-center">Cover<i class="fas fa-plus text-success ml-2"></i> </p>
             </a>
             <div id="cover" class="collapse">
                 <section class="cover py-5 mb-4 bg-primary">
@@ -21,7 +21,7 @@
         <!--about us - image-->
         <div class="accordion-image-text">
             <a href="#img-text" class="p-0 text-left" data-toggle="collapse" aria-expanded="false" aria-controls="img-text">
-                <p class="p-0 mt-2 text-primary font-weight-bold text-capitalize text-center">img-text<i class="fas fa-plus text-primary ml-2"></i> </p>
+                <p class="p-0 mt-2 text-success font-weight-bold text-capitalize text-center">img-text<i class="fas fa-plus text-success ml-2"></i> </p>
             </a>
             <div id="img-text" class="collapse">
                 <section class="container">
@@ -46,7 +46,7 @@
         <!--about us - headings-->
         <div class="accordion-headings">
             <a href="#headings" class="p-0 text-left" data-toggle="collapse" aria-expanded="false" aria-controls="headings">
-                <p class="p-0 mt-2 text-primary font-weight-bold text-capitalize text-center">headings<i class="fas fa-plus text-primary ml-2"></i> </p>
+                <p class="p-0 mt-2 text-success font-weight-bold text-capitalize text-center">headings<i class="fas fa-plus text-success ml-2"></i> </p>
             </a>
             <div id="headings" class="collapse">
                 <section class="container">
@@ -67,7 +67,7 @@
         <!--about us - team members-->
         <div class="accordion-members">
             <a href="#members" class="p-0 text-left" data-toggle="collapse" aria-expanded="false" aria-controls="members">
-                <p class="p-0 mt-2 text-primary font-weight-bold text-capitalize text-center">members<i class="fas fa-plus text-primary ml-2"></i> </p>
+                <p class="p-0 mt-2 text-success font-weight-bold text-capitalize text-center">members<i class="fas fa-plus text-success ml-2"></i> </p>
             </a>
             <div id="members" class="collapse">
                 <section class="container">
@@ -82,7 +82,7 @@
                                         <div class="d-flex align-items-center">
                                             <img src="images/aboutus/paul.png" class="rounded-circle avatar align-self-start">
                                             <div class="media-body py-2 ml-3">
-                                                <p class="mb-0 font-weight-bold text-muted h5">Paul Pöltner</p>
+                                                <p class="mb-0 font-weight-bold text-secondary h5">Paul Pöltner</p>
                                                 <p class="text-capitalize text-muted m-0">Managing Partner Finance & Business Development</p>
                                                 <a href="#paul-office" class="p-0 text-left" data-toggle="collapse" aria-expanded="false" aria-controls="paul-office">
                                                     <p class="p-0 mt-2 text-success font-weight-bold">Mehr über Paul... <i class="fas fa-plus text-success ml-2"></i> </p>
@@ -102,7 +102,7 @@
                                         <div class="d-flex align-items-center">
                                             <img src="images/aboutus/daniel.png" class="rounded-circle avatar align-self-start">
                                             <div class="media-body py-2 ml-3">
-                                                <p class="mb-0 font-weight-bold text-muted h5">Daniel Horak</p>
+                                                <p class="mb-0 font-weight-bold text-secondary h5">Daniel Horak</p>
                                                 <p class="text-capitalize text-muted m-0">Managing Partner Sales & Marketing</p>
                                                 <a href="#daniel-office" class="p-0 text-left" data-toggle="collapse" aria-expanded="false" aria-controls="daniel-office">
                                                     <p class="p-0 mt-2 text-success font-weight-bold">Mehr über Daniel... <i class="fas fa-plus text-success ml-2"></i> </p>
@@ -128,7 +128,7 @@
                                     <div class="d-flex align-items-center">
                                         <img src="images/aboutus/katarina.png" class="rounded-circle avatar align-self-start">
                                         <div class="media-body py-2 ml-3">
-                                            <p class="mb-0 font-weight-bold text-muted h5">KATHARINA EHRENFELLNER</p>
+                                            <p class="mb-0 font-weight-bold text-secondary h5">KATHARINA EHRENFELLNER</p>
                                             <p class="text-capitalize text-muted m-0">Chief Executive Officer</p>
                                         </div>
                                     </div>
@@ -140,7 +140,7 @@
                                     <div class="d-flex align-items-center">
                                         <img src="images/aboutus/hannes.png" class="rounded-circle avatar align-self-start">
                                         <div class="media-body py-2 ml-3">
-                                            <p class="mb-0 font-weight-bold text-muted h5">HANNES REITHUBER</p>
+                                            <p class="mb-0 font-weight-bold text-secondary h5">HANNES REITHUBER</p>
                                             <p class="text-capitalize text-muted m-0">Business Analyst</p>
                                         </div>
                                     </div>
@@ -152,7 +152,7 @@
                                     <div class="d-flex align-items-center">
                                         <img src="images/aboutus/hannah.png" class="rounded-circle avatar align-self-start">
                                         <div class="media-body py-2 ml-3">
-                                            <p class="mb-0 font-weight-bold text-muted h5">HANNAH STURM</p>
+                                            <p class="mb-0 font-weight-bold text-secondary h5">HANNAH STURM</p>
                                             <p class="text-capitalize text-muted m-0">Head of Campaign Management</p>
                                         </div>
                                     </div>
@@ -164,7 +164,7 @@
                                     <div class="d-flex align-items-center">
                                         <img src="images/aboutus/maria.png" class="rounded-circle avatar align-self-start">
                                         <div class="media-body py-2 ml-3">
-                                            <p class="mb-0 font-weight-bold text-muted h5">MARIA KOPP</p>
+                                            <p class="mb-0 font-weight-bold text-secondary h5">MARIA KOPP</p>
                                             <p class="text-capitalize text-muted m-0">Investor Relations Manager</p>
                                             <a href="#maria-office" class="p-0 text-left" data-toggle="collapse" aria-expanded="false" aria-controls="maria-office">
                                                 <p class="p-0 mt-2 text-success font-weight-bold">See more <i class="fas fa-plus text-success ml-2"></i> </p>
@@ -184,7 +184,7 @@
                                     <div class="d-flex align-items-center">
                                         <img src="images/aboutus/lara.png" class="rounded-circle avatar align-self-start">
                                         <div class="media-body py-2 ml-3">
-                                            <p class="mb-0 font-weight-bold text-muted h5">LARA SCHEIBNER</p>
+                                            <p class="mb-0 font-weight-bold text-secondary h5">LARA SCHEIBNER</p>
                                             <p class="text-capitalize text-muted m-0">Marketing Assistant</p>
                                         </div>
                                     </div>
@@ -196,7 +196,7 @@
                                     <div class="d-flex align-items-center">
                                         <img src="images/aboutus/daniel2.png" class="rounded-circle avatar align-self-start">
                                         <div class="media-body py-2 ml-3">
-                                            <p class="mb-0 font-weight-bold text-muted h5">DANIEL PÖMMER</p>
+                                            <p class="mb-0 font-weight-bold text-secondary h5">DANIEL PÖMMER</p>
                                             <p class="text-capitalize text-muted m-0">Payment Service Manager</p>
                                         </div>
                                     </div>
@@ -211,11 +211,11 @@
                             <div class="col-12 col-md-6">
                                 <div class="media p-2 mb-4">
                                     <div class="d-flex align-items-center">
-                                        <div class="bg-primary rounded-circle d-inline-block text-capitalize text-white avatar">
+                                        <div class="bg-primary rounded-circle d-inline-block text-capitalize text-white avatar-text">
                                             <h1 class="m-0 text-uppercase" >UO</h1>
                                         </div>
                                         <div class="media-body py-2 ml-3">
-                                            <p class="mb-0 font-weight-bold text-muted h5">UDO GEORGES OKSAKOWSKI, VORARLBERG</p>
+                                            <p class="mb-0 font-weight-bold text-secondary h5">UDO GEORGES OKSAKOWSKI, VORARLBERG</p>
                                             <p class="text-capitalize text-muted m-0">Udo.Oksakowski@conda.at</p>
                                         </div>
                                     </div>
@@ -225,11 +225,11 @@
                             <div class="col-12 col-md-6">
                                 <div class="media p-2 mb-4">
                                     <div class="d-flex align-items-center">
-                                        <div class="bg-primary rounded-circle d-inline-block text-capitalize text-white avatar">
+                                        <div class="bg-primary rounded-circle d-inline-block text-capitalize text-white avatar-text">
                                             <h1 class="m-0 text-uppercase" >HS</h1>
                                         </div>
                                         <div class="media-body py-2 ml-3">
-                                            <p class="mb-0 font-weight-bold text-muted h5">HERBERT SAMHABER, UPPER AUSTRIA</p>
+                                            <p class="mb-0 font-weight-bold text-secondary h5">HERBERT SAMHABER, UPPER AUSTRIA</p>
                                             <p class="text-capitalize text-muted m-0">Oberösterreich@conda.at</p>
                                         </div>
                                     </div>
@@ -241,7 +241,7 @@
                                     <div class="d-flex align-items-center">
                                         <img src="images/profile-img-default.png" class="rounded-circle avatar align-self-start">
                                         <div class="media-body py-2 ml-3">
-                                            <p class="mb-0 font-weight-bold text-muted h5">WALTER ISCHIA, TYROL</p>
+                                            <p class="mb-0 font-weight-bold text-secondary h5">WALTER ISCHIA, TYROL</p>
                                             <p class="text-capitalize text-muted m-0">Tirol@conda.at</p>
                                         </div>
                                     </div>
@@ -253,7 +253,7 @@
                                     <div class="d-flex align-items-center">
                                         <img src="images/profile-img-default.png" class="rounded-circle avatar align-self-start">
                                         <div class="media-body py-2 ml-3">
-                                            <p class="mb-0 font-weight-bold text-muted h5">ANTON GRONES, TYROL</p>
+                                            <p class="mb-0 font-weight-bold text-secondary h5">ANTON GRONES, TYROL</p>
                                             <p class="text-capitalize text-muted m-0">Tirol@conda.at</p>
                                         </div>
                                     </div>
@@ -267,7 +267,7 @@
         <!--crowdinvesting - ci-princip-->
         <div class="accordion-ci-princip">
             <a href="#ci-princip" class="p-0 text-left" data-toggle="collapse" aria-expanded="false" aria-controls="ci-princip">
-                <p class="p-0 mt-2 text-primary font-weight-bold text-capitalize text-center">ci-princip<i class="fas fa-plus text-primary ml-2"></i> </p>
+                <p class="p-0 mt-2 text-success font-weight-bold text-capitalize text-center">ci-princip<i class="fas fa-plus text-success ml-2"></i> </p>
             </a>
             <div id="ci-princip" class="collapse">
                 <section class="container">
@@ -285,7 +285,7 @@
         <!--crowdinvesting - ticks-->
         <div class="accordion-ticks">
             <a href="#ticks" class="p-0 text-left" data-toggle="collapse" aria-expanded="false" aria-controls="ticks">
-                <p class="p-0 mt-2 text-primary font-weight-bold text-capitalize text-center">ticks<i class="fas fa-plus text-primary ml-2"></i> </p>
+                <p class="p-0 mt-2 text-success font-weight-bold text-capitalize text-center">ticks<i class="fas fa-plus text-success ml-2"></i> </p>
             </a>
             <div id="ticks" class="collapse">
                 <section class="container">
@@ -307,7 +307,7 @@
         <!--crowdinvesting - accordions-->
         <div class="accordion-accordions">
             <a href="#accordions" class="p-0 text-left" data-toggle="collapse" aria-expanded="false" aria-controls="accordions">
-                <p class="p-0 mt-2 text-primary font-weight-bold text-capitalize text-center">accordions<i class="fas fa-plus text-primary ml-2"></i> </p>
+                <p class="p-0 mt-2 text-success font-weight-bold text-capitalize text-center">accordions<i class="fas fa-plus text-success ml-2"></i> </p>
             </a>
             <div id="accordions" class="collapse">
                 <section class="container">
@@ -360,7 +360,7 @@
         <!--the 4 principles-->
         <div class="accordion-4-principles">
             <a href="#principles" class="p-0 text-left" data-toggle="collapse" aria-expanded="false" aria-controls="principles">
-                <p class="p-0 mt-2 text-primary font-weight-bold text-capitalize text-center">principles<i class="fas fa-plus text-primary ml-2"></i> </p>
+                <p class="p-0 mt-2 text-success font-weight-bold text-capitalize text-center">principles<i class="fas fa-plus text-success ml-2"></i> </p>
             </a>
             <div id="principles" class="collapse">
                 <section class="mb-5">
@@ -450,7 +450,7 @@
         <!--START SUBMIT FORM PAGE -->
         <div class="accordion-submit-form">
             <a href="#submit-form" class="p-0 text-left" data-toggle="collapse" aria-expanded="false" aria-controls="submit-form">
-                <p class="p-0 mt-2 text-primary font-weight-bold text-capitalize text-center">Submit project<i class="fas fa-plus text-primary ml-2"></i> </p>
+                <p class="p-0 mt-2 text-success font-weight-bold text-capitalize text-center">Submit project<i class="fas fa-plus text-success ml-2"></i> </p>
             </a>
             <div id="submit-form" class="collapse">
                 <h1 class="mb-5 text-left">Submit project</h1>
@@ -819,7 +819,7 @@
         <!--crowdinvesting - what investor's say-->
         <div class="accordion-investors-say">
             <a href="#investors" class="p-0 text-left" data-toggle="collapse" aria-expanded="false" aria-controls="investors">
-                <p class="p-0 mt-2 text-primary font-weight-bold text-capitalize text-center">investors<i class="fas fa-plus text-primary ml-2"></i> </p>
+                <p class="p-0 mt-2 text-success font-weight-bold text-capitalize text-center">investors<i class="fas fa-plus text-success ml-2"></i> </p>
             </a>
             <div id="investors" class="collapse">
                 <section class="investors-say py-5">
@@ -875,7 +875,7 @@
         <!--crowdinvesting - subscribe-->
         <div class="accordion-subscribe">
             <a href="#subscribe" class="p-0 text-left" data-toggle="collapse" aria-expanded="false" aria-controls="subscribe">
-                <p class="p-0 mt-2 text-primary font-weight-bold text-capitalize text-center">subscribe<i class="fas fa-plus text-primary ml-2"></i> </p>
+                <p class="p-0 mt-2 text-success font-weight-bold text-capitalize text-center">subscribe<i class="fas fa-plus text-success ml-2"></i> </p>
             </a>
             <div id="subscribe" class="collapse">
                 <section class="subscribe py-5 bg-light">
@@ -895,7 +895,7 @@
         <!--brochure download-->
         <div class="accordion-download">
             <a href="#brochure-dl" class="p-0 text-left" data-toggle="collapse" aria-expanded="false" aria-controls="brochure-dl">
-                <p class="p-0 mt-2 text-primary font-weight-bold text-capitalize text-center">brochure Download<i class="fas fa-plus text-primary ml-2"></i> </p>
+                <p class="p-0 mt-2 text-success font-weight-bold text-capitalize text-center">brochure Download<i class="fas fa-plus text-success ml-2"></i> </p>
             </a>
             <div id="brochure-dl" class="collapse">
                 <section class="my-5">
@@ -909,7 +909,7 @@
         <!--cta-->
         <div class="accordion-download">
             <a href="#cta" class="p-0 text-left" data-toggle="collapse" aria-expanded="false" aria-controls="cta">
-                <p class="p-0 mt-2 text-primary font-weight-bold text-capitalize text-center">call to action<i class="fas fa-plus text-primary ml-2"></i> </p>
+                <p class="p-0 mt-2 text-success font-weight-bold text-capitalize text-center">call to action<i class="fas fa-plus text-success ml-2"></i> </p>
             </a>
             <div id="cta" class="collapse">
                 <section class="cta-wrapper d-flex flex-wrap justify-content-around py-4">
