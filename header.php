@@ -29,10 +29,10 @@
 
                     <div class="collapse navbar-collapse" id="navbarMain">
                         <div class="navbar-nav ml-auto">
-                            <a href="campaigns.php" class="nav-item nav-link text-uppercase pr-3"><small class="d-block font-weight-light">projecte</small><b>entdecken</b></a>
-                            <a href="page.php" class="nav-item nav-link text-uppercase pr-3"><small class="d-block font-weight-light">so funktioniert</small><b>crowdinvesting</b></a>
-                            <a href="page.php" class="nav-item nav-link text-uppercase pr-3"><small class="d-block font-weight-light">projecte</small><b>einreichen</b></a>
-                            <a href="page.php" class="nav-item nav-link text-uppercase pr-3"><small class="d-block font-weight-light">uber</small><b>conda</b></a>
+                            <a href="campaigns.php" class="nav-item nav-link text-uppercase pr-3"><small class="d-block">projecte</small> entdecken</a>
+                            <a href="page.php" class="nav-item nav-link text-uppercase pr-3"><small class="d-block">so funktioniert</small> crowdinvesting</a>
+                            <a href="page.php" class="nav-item nav-link text-uppercase pr-3"><small class="d-block">projecte</small> einreichen</a>
+                            <a href="page.php" class="nav-item nav-link text-uppercase pr-3"><small class="d-block">uber</small> conda</a>
                         </div>
                     </div>
                 </nav>
