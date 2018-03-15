@@ -22,7 +22,7 @@
                             <div class="campaign-content card-body text-secondary bg-light"><!-- CAMPAIGN TITLE AND EXCERT(SUMMARY ABOUT COMPANY), WITH INVESTMENT STATUS-->  
                                 <a href="campaigns.php">     
                                     <div class="card-title d-flex justify-content-start align-items-center"><!-- TITLE WITH COUNTRY FLAG -->
-                                        <img src="images/flags/aut.jpg" class="img-fluid mr-3 flag">
+                                        <img src="images/flags/aut.jpg" class="img-fluid mr-3 flag-wide">
                                         <h4 class="campaign-title mb-0 text-dark">Army wings</h4>
                                     </div> 
                                 </a><!--END-->
@@ -47,8 +47,8 @@
                             </div>  
                             <div class="card-footer p-0"><!-- CAMPAIGN ADDITIONAL INFO, CELLS WITH ICONS AND BUTTON FOR MORE INFO -->
                                 <div class="campaign-invest-info py-1 d-flex flex-wrap justify-content-around border-bottom border-muted"><!--ADDITIONAL INFORMATION DISPLAYED AS ICONS WITH TOOLTIPS-->
-                                    <div class="info-cell mx-1 px-2 py-2 d-flex flex-row">
-                                        <i class="far fa-star text-muted fa-2x align-self-center" data-toggle="tooltip" data-placement="top" title="Special project"></i>
+                                    <div class="info-cell mx-1 px-2 py-2 d-flex">
+                                        <i class="far fa-star text-muted fa-2x mx-auto my-auto" data-toggle="tooltip" data-placement="top" title="Special project"></i>
                                     </div>
                                     <div class="info-cell mx-1 px-2 py-2 text-center">
                                         <i class="fas fa-calendar-alt text-muted fa-1x mb-2" data-toggle="tooltip" data-placement="top" title="Contract term"></i>
@@ -84,7 +84,7 @@
                             <div class="campaign-content card-body text-secondary bg-light"><!-- CAMPAIGN TITLE AND EXCERT(SUMMARY ABOUT COMPANY), WITH INVESTMENT STATUS-->
                                 <a href="campaigns.php">
                                     <div class="card-title d-flex justify-content-start align-items-center"><!-- TITLE WITH COUNTRY FLAG -->
-                                        <img src="images/flags/aut.jpg" class="img-fluid mr-3 flag">
+                                        <img src="images/flags/aut.jpg" class="img-fluid mr-3 flag-wide">
                                         <h4 class="campaign-title mb-0 text-dark">Darts heroes (CI/VMn/LW/PP)</h4>
                                     </div> 
                                 </a>
@@ -126,7 +126,7 @@
                             <div class="campaign-content card-body text-secondary bg-light"><!-- CAMPAIGN TITLE AND EXCERT(SUMMARY ABOUT COMPANY), WITH INVESTMENT STATUS-->
                                 <a href="campaigns.php">
                                     <div class="card-title d-flex justify-content-start align-items-center"><!-- TITLE WITH COUNTRY FLAG -->
-                                        <img src="images/flags/aut.jpg" class="img-fluid mr-3 flag">
+                                        <img src="images/flags/aut.jpg" class="img-fluid mr-3 flag-wide">
                                         <h4 class="campaign-title mb-0 text-dark">M office ICO</h4>
                                     </div> 
                                 </a>
@@ -151,8 +151,8 @@
                             </div>  
                             <div class="card-footer p-0"><!-- CAMPAIGN ADDITIONAL INFO, CELLS WITH ICONS AND BUTTON FOR MORE INFO -->
                                 <div class="campaign-invest-info py-1 d-flex flex-wrap justify-content-around border-bottom border-muted"><!--ADDITIONAL INFORMATION DISPLAYED AS ICONS WITH TOOLTIPS-->
-                                    <div class="info-cell mx-1 px-2 py-2 d-flex flex-row">
-                                        <i class="far fa-star text-muted fa-2x align-self-center" data-toggle="tooltip" data-placement="top" title="Special project"></i>
+                                    <div class="info-cell mx-1 px-2 py-2 d-flex">
+                                        <i class="far fa-star text-muted fa-2x mx-auto my-auto" data-toggle="tooltip" data-placement="top" title="Special project"></i>
                                     </div>
                                     <div class="info-cell mx-1 px-2 py-2 text-center">
                                         <span class="d-block text-muted font-weight-bold">Value in $</span>
@@ -225,8 +225,8 @@
                             </div>  
                             <div class="card-footer p-0"><!-- CAMPAIGN ADDITIONAL INFO, CELLS WITH ICONS AND BUTTON FOR MORE INFO -->
                                 <div class="campaign-invest-info py-1 d-flex flex-wrap justify-content-around border-bottom border-muted"><!--ADDITIONAL INFORMATION DISPLAYED AS ICONS WITH TOOLTIPS-->
-                                    <div class="info-cell mx-1 px-2 py-2 d-flex flex-row">
-                                        <i class="far fa-star text-muted fa-2x align-self-center" data-toggle="tooltip" data-placement="top" title="Special project"></i>
+                                    <div class="info-cell mx-1 px-2 py-2 d-flex">
+                                        <i class="far fa-star text-muted fa-2x mx-auto my-auto" data-toggle="tooltip" data-placement="top" title="Special project"></i>
                                     </div>
                                     <div class="info-cell mx-1 px-2 py-2 text-center">
                                         <i class="fas fa-calendar-alt text-muted fa-1x mb-2" data-toggle="tooltip" data-placement="top" title="Contract term"></i>
@@ -257,7 +257,7 @@
                             <div class="campaign-content card-body text-secondary bg-light"><!-- CAMPAIGN TITLE AND EXCERT(SUMMARY ABOUT COMPANY), WITH INVESTMENT STATUS--> 
                                 <a href="campaigns.php">
                                     <div class="card-title d-flex justify-content-start align-items-center"><!-- TITLE WITH COUNTRY FLAG -->
-                                        <img src="images/flags/aut.jpg" class="img-fluid mr-3 flag">
+                                        <img src="images/flags/aut.jpg" class="img-fluid mr-3 flag-wide">
                                         <h4 class="campaign-title mb-0 text-dark">Makit - ein regionales Produkt</h4>
                                     </div> 
                                 </a>
@@ -304,7 +304,7 @@
                             <div class="campaign-content card-body text-secondary bg-light"><!-- CAMPAIGN TITLE AND EXCERT(SUMMARY ABOUT COMPANY), WITH INVESTMENT STATUS-->
                                 <a href="campaigns.php">
                                     <div class="card-title d-flex justify-content-start align-items-center"><!-- TITLE WITH COUNTRY FLAG -->
-                                        <img src="images/flags/aut.jpg" class="img-fluid mr-3 flag">
+                                        <img src="images/flags/aut.jpg" class="img-fluid mr-3 flag-wide">
                                         <h4 class="campaign-title mb-0 text-dark">Oceanic travel</h4>
                                     </div> 
                                 </a>
@@ -347,7 +347,7 @@
                         </div>
                     </div> <!--END CAMPAIGN-->
                     <!--CAMPAIGN-medix-->
-                    <div class="col-12 col-md-6 col-lg-4">
+                    <div class="col-12 col-md-6">
                         <div class="campaign card position-relative mb-4">  
                             <a href="campaigns.php"><!--CAMPAIGN IMAGE AND STATUS-->
                                 <div class="position-relative">
@@ -364,7 +364,7 @@
                             <div class="campaign-content card-body text-secondary bg-light"><!-- CAMPAIGN TITLE AND EXCERT(SUMMARY ABOUT COMPANY), WITH INVESTMENT STATUS--> 
                                 <a href="campaigns.php">
                                     <div class="card-title d-flex justify-content-start align-items-center"><!-- TITLE WITH COUNTRY FLAG -->
-                                        <img src="images/flags/aut.jpg" class="img-fluid mr-3 flag">
+                                        <img src="images/flags/aut.jpg" class="img-fluid mr-3 flag-wide">
                                         <h4 class="campaign-title mb-0 text-dark">Medix (CF)</h4>
                                     </div> 
                                 </a>
