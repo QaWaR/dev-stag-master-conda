@@ -3,9 +3,10 @@
     <section class="container">
         <div class="row my-5">
              <!--CAMPAIGN-armywings-->
+                    <!--CAMPAIGN-armywings-->
                     <div class="col-12 col-md-6 col-lg-4">
                         <div class="campaign card position-relative mb-4">
-                            <a href="#"><!--CAMPAIGN IMAGE AND STATUS-->
+                            <a href="campaigns.php"><!--CAMPAIGN IMAGE AND STATUS-->
                                 <div>
                                     <img src="images/armywings/armywings.jpg" class="card-img-top campaign-image">
                                 </div>
@@ -18,11 +19,13 @@
                                 <i class="fas fa-bell"></i><span>Neu</span>
                             </div>
                             <!--END-->                
-                            <div class="campaign-content card-body text-secondary bg-light"><!-- CAMPAIGN TITLE AND EXCERT(SUMMARY ABOUT COMPANY), WITH INVESTMENT STATUS-->       
-                                <div class="card-title d-flex justify-content-start align-items-center"><!-- TITLE WITH COUNTRY FLAG -->
-                                    <img src="images/flags/aut.jpg" class="img-fluid mr-3 flag">
-                                    <h4 class="campaign-title mb-0 text-dark">Army wings</h4>
-                                </div> <!--END-->
+                            <div class="campaign-content card-body text-secondary bg-light"><!-- CAMPAIGN TITLE AND EXCERT(SUMMARY ABOUT COMPANY), WITH INVESTMENT STATUS-->  
+                                <a href="campaigns.php">     
+                                    <div class="card-title d-flex justify-content-start align-items-center"><!-- TITLE WITH COUNTRY FLAG -->
+                                        <img src="images/flags/aut.jpg" class="img-fluid mr-3 flag">
+                                        <h4 class="campaign-title mb-0 text-dark">Army wings</h4>
+                                    </div> 
+                                </a><!--END-->
                                 <!-- SHORT SUMMARY - EXCERT -->
                                 <p class="campaign-excerpt card-text mt-3">Lorem ipsum dolor sit amet consectetur adipisicing elit. Unde dignissimos a vitae recusandae amet itaque perferendis
                                     architecto non aliquam maiores. Lorem, ipsum dolor sit amet consectetur adipisicing elit. Odit aspernatur possimus
@@ -57,7 +60,7 @@
                                     </div>
                                 </div> <!--END-->
                                 <div class="footer-button py-4 text-center"><!--BUTTON FOR MORE INFO -->
-                                    <a class="btn btn-secondary text-uppercase my-1 py-2 px-4" href="#" role="button">View details</a>
+                                    <a class="btn btn-secondary text-uppercase my-1 py-2 px-4" href="campaigns.php" role="button">View details</a>
                                 </div> <!--END-->
                             </div>
                         </div>
@@ -65,7 +68,7 @@
                     <!--CAMPAIGN-darts-->
                     <div class="col-12 col-md-6 col-lg-4">
                         <div class="campaign card position-relative mb-4">  
-                            <a href="#"><!--CAMPAIGN IMAGE AND STATUS-->
+                            <a href="campaigns.php"><!--CAMPAIGN IMAGE AND STATUS-->
                                 <div class="position-relative">
                                     <img src="images/Darts/dartcover.jpg" class="card-img-top campaign-image ">
                                 </div>
@@ -78,11 +81,14 @@
                                 <i class="fas fa-star"></i><span>Favourite</span>
                             </div>
                             <!--END-->
-                            <div class="campaign-content card-body text-secondary bg-light"><!-- CAMPAIGN TITLE AND EXCERT(SUMMARY ABOUT COMPANY), WITH INVESTMENT STATUS-->       
-                                <div class="card-title d-flex justify-content-start align-items-center"><!-- TITLE WITH COUNTRY FLAG -->
-                                    <img src="images/flags/aut.jpg" class="img-fluid mr-3 flag">
-                                    <h4 class="campaign-title mb-0 text-dark">Darts heroes (CI/VMn/LW/PP)</h4>
-                                </div> <!--END-->
+                            <div class="campaign-content card-body text-secondary bg-light"><!-- CAMPAIGN TITLE AND EXCERT(SUMMARY ABOUT COMPANY), WITH INVESTMENT STATUS-->
+                                <a href="campaigns.php">
+                                    <div class="card-title d-flex justify-content-start align-items-center"><!-- TITLE WITH COUNTRY FLAG -->
+                                        <img src="images/flags/aut.jpg" class="img-fluid mr-3 flag">
+                                        <h4 class="campaign-title mb-0 text-dark">Darts heroes (CI/VMn/LW/PP)</h4>
+                                    </div> 
+                                </a>
+                                <!--END-->
                                 <!-- SHORT SUMMARY - EXCERT -->
                                 <p class="campaign-excerpt card-text mt-3">Lorem ipsum dolor sit amet consectetur adipisicing elit. Unde dignissimos a vitae recusandae amet itaque perferendis
                                     architecto non aliquam maiores. Lorem, ipsum dolor sit amet consectetur adipisicing elit. Odit aspernatur possimus
@@ -97,7 +103,7 @@
                             </div>  
                             <div class="card-footer p-0"><!-- CAMPAIGN ADDITIONAL INFO, CELLS WITH ICONS AND BUTTON FOR MORE INFO -->       
                                 <div class="footer-button py-4 text-center"><!--BUTTON FOR MORE INFO -->
-                                    <a class="btn btn-secondary text-uppercase my-1 py-2 px-4" href="#" role="button">View details</a>
+                                    <a class="btn btn-secondary text-uppercase my-1 py-2 px-4" href="campaigns.php" role="button">View details</a>
                                 </div> <!--END-->
                             </div>
                         </div>
@@ -105,7 +111,7 @@
                     <!--CAMPAIGN-m-office-->
                     <div class="col-12 col-md-6 col-lg-4">
                         <div class="campaign card position-relative mb-4">  
-                            <a href="#"><!--CAMPAIGN IMAGE AND STATUS-->
+                            <a href="campaigns.php"><!--CAMPAIGN IMAGE AND STATUS-->
                                 <div class="position-relative">
                                     <img src="images/campaigns/m-office.jpg" class="card-img-top campaign-image ">
                                 </div>
@@ -117,11 +123,14 @@
                             <div class="campaign-badge bg-warning">
                                 <i class="fas fa-star"></i><span>Favourite</span>
                             </div><!--END-->
-                            <div class="campaign-content card-body text-secondary bg-light"><!-- CAMPAIGN TITLE AND EXCERT(SUMMARY ABOUT COMPANY), WITH INVESTMENT STATUS-->       
-                                <div class="card-title d-flex justify-content-start align-items-center"><!-- TITLE WITH COUNTRY FLAG -->
-                                    <img src="images/flags/aut.jpg" class="img-fluid mr-3 flag">
-                                    <h4 class="campaign-title mb-0 text-dark">M office ICO</h4>
-                                </div> <!--END-->
+                            <div class="campaign-content card-body text-secondary bg-light"><!-- CAMPAIGN TITLE AND EXCERT(SUMMARY ABOUT COMPANY), WITH INVESTMENT STATUS-->
+                                <a href="campaigns.php">
+                                    <div class="card-title d-flex justify-content-start align-items-center"><!-- TITLE WITH COUNTRY FLAG -->
+                                        <img src="images/flags/aut.jpg" class="img-fluid mr-3 flag">
+                                        <h4 class="campaign-title mb-0 text-dark">M office ICO</h4>
+                                    </div> 
+                                </a>
+                                <!--END-->
                                 <!-- SHORT SUMMARY - EXCERT -->
                                 <p class="campaign-excerpt card-text mt-3">Phasellus vehicula risus nec lacus facilisis, eu condimentum turpis tincidunt. Ut ullamcorper est ut bibendum volutpat. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Proin ut consectetur felis. Aenean facilisis metus non fermentum ultricies. Donec in aliquam lacus, eu porttitor tortor. Maecenas facilisis pharetra elementum. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.</p> <!--END-->
                                 <hr>
@@ -171,7 +180,7 @@
                                     </div>
                                 </div>
                                 <div class="footer-button py-4 text-center"><!--BUTTON FOR MORE INFO -->
-                                    <a class="btn btn-success text-uppercase my-1 py-2 px-4" href="#" role="button">View details</a>
+                                    <a class="btn btn-success text-uppercase my-1 py-2 px-4" href="campaigns.php" role="button">View details</a>
                                 </div> <!--END-->
                             </div>
                         </div>
@@ -179,7 +188,7 @@
                     <!--CAMPAIGN-intechor-->
                     <div class="col-12 col-md-6 col-lg-4">
                         <div class="campaign card position-relative mb-4">  
-                            <a href="#"><!--CAMPAIGN IMAGE AND STATUS-->
+                            <a href="campaigns.php"><!--CAMPAIGN IMAGE AND STATUS-->
                                 <div class="position-relative">
                                     <img src="images/campaigns/intechor.jpg" class="card-img-top campaign-image ">
                                 </div>
@@ -191,11 +200,14 @@
                             <div class="campaign-badge bg-danger">
                                 <i class="fas fa-heart"></i><span>We love this</span>
                             </div><!--END-->                
-                            <div class="campaign-content card-body text-secondary bg-light"><!-- CAMPAIGN TITLE AND EXCERT(SUMMARY ABOUT COMPANY), WITH INVESTMENT STATUS-->       
-                                <div class="card-title d-flex justify-content-start align-items-center"><!-- TITLE WITH COUNTRY FLAG -->
-                                    <img src="images/flags/che.jpg" class="img-fluid mr-3 flag">
-                                    <h4 class="campaign-title mb-0 text-dark">Intechor travel</h4>
-                                </div> <!--END-->
+                            <div class="campaign-content card-body text-secondary bg-light"><!-- CAMPAIGN TITLE AND EXCERT(SUMMARY ABOUT COMPANY), WITH INVESTMENT STATUS--> 
+                                <a href="campaigns.php">
+                                    <div class="card-title d-flex justify-content-start align-items-center"><!-- TITLE WITH COUNTRY FLAG -->
+                                        <img src="images/flags/che.jpg" class="img-fluid mr-3 flag">
+                                        <h4 class="campaign-title mb-0 text-dark">Intechor travel</h4>
+                                    </div> 
+                                </a>
+                                <!--END-->
                                 <!-- SHORT SUMMARY - EXCERT -->
                                 <p class="campaign-excerpt card-text mt-3">Etiam congue nisl et libero semper placerat. Integer tincidunt ac est id facilisis. Vestibulum suscipit dictum augue eu tempus. Donec dignissim luctus pulvinar. Integer at quam dapibus, scelerisque justo id, ultrices massa. Suspendisse lacinia dui a viverra aliquet. Suspendisse potenti. Nam nec dolor sodales, luctus massa ac, varius est. Aenean mattis, orci non ultrices porta, nulla nulla feugiat neque, vel interdum mi mi sed purus. Mauris iaculis lectus dui, a dignissim odio ornare non. Aenean scelerisque magna a turpis efficitur blandit. Phasellus et ultricies diam. Sed vitae accumsan turpis. Cras euismod, diam nec dapibus dapibus, lectus lectus ultricies quam, id varius dolor mi vel lectus. </p> <!--END-->
                                 <hr>
@@ -222,7 +234,7 @@
                                     </div>
                                 </div> <!--END-->         
                                 <div class="footer-button py-4 text-center"><!--BUTTON FOR MORE INFO -->
-                                    <a class="btn btn-secondary text-uppercase my-1 py-2 px-4" href="#" role="button">View details</a>
+                                    <a class="btn btn-secondary text-uppercase my-1 py-2 px-4" href="campaigns.php" role="button">View details</a>
                                 </div> <!--END-->
                             </div>
                         </div>
@@ -230,7 +242,7 @@
                     <!--CAMPAIGN-makit-->
                     <div class="col-12 col-md-6 col-lg-4">
                         <div class="campaign card position-relative mb-4">  
-                            <a href="#"><!--CAMPAIGN IMAGE AND STATUS-->
+                            <a href="campaigns.php"><!--CAMPAIGN IMAGE AND STATUS-->
                                 <div class="position-relative">
                                     <img src="images/campaigns/makit.jpg" class="card-img-top campaign-image ">
                                 </div>
@@ -242,11 +254,14 @@
                             <div class="campaign-badge bg-soon">
                                 <i class="fas fa-bullhorn"></i><span> Startet bald</span>
                             </div><!--END-->                
-                            <div class="campaign-content card-body text-secondary bg-light"><!-- CAMPAIGN TITLE AND EXCERT(SUMMARY ABOUT COMPANY), WITH INVESTMENT STATUS-->       
-                                <div class="card-title d-flex justify-content-start align-items-center"><!-- TITLE WITH COUNTRY FLAG -->
-                                    <img src="images/flags/aut.jpg" class="img-fluid mr-3 flag">
-                                    <h4 class="campaign-title mb-0 text-dark">Makit - ein regionales Produkt</h4>
-                                </div> <!--END-->
+                            <div class="campaign-content card-body text-secondary bg-light"><!-- CAMPAIGN TITLE AND EXCERT(SUMMARY ABOUT COMPANY), WITH INVESTMENT STATUS--> 
+                                <a href="campaigns.php">
+                                    <div class="card-title d-flex justify-content-start align-items-center"><!-- TITLE WITH COUNTRY FLAG -->
+                                        <img src="images/flags/aut.jpg" class="img-fluid mr-3 flag">
+                                        <h4 class="campaign-title mb-0 text-dark">Makit - ein regionales Produkt</h4>
+                                    </div> 
+                                </a>
+                                <!--END-->
                             </div>  
                             <div class="card-footer p-0"><!-- CAMPAIGN ADDITIONAL INFO, CELLS WITH ICONS AND BUTTON FOR MORE INFO -->
                                 <div class="campaign-failed p-2 d-flex flex-row justify-content-around border-bottom border-muted"><!--THIS SECTION ONLY IF CAMPAIGN FAILS-->
@@ -266,7 +281,7 @@
                                     </div>
                                 </div> <!--END-->
                                 <div class="footer-button py-4 text-center"><!--BUTTON FOR MORE INFO -->
-                                    <a class="btn btn-secondary text-uppercase my-1 py-2 px-4" href="#" role="button">View details</a>
+                                    <a class="btn btn-secondary text-uppercase my-1 py-2 px-4" href="campaigns.php" role="button">View details</a>
                                 </div> <!--END-->
                             </div>
                         </div>
@@ -274,7 +289,7 @@
                     <!--CAMPAIGN-oceanic-travel-->
                     <div class="col-12 col-md-6 col-lg-4">
                         <div class="campaign card position-relative mb-4">  
-                            <a href="#"><!--CAMPAIGN IMAGE AND STATUS-->
+                            <a href="campaigns.php"><!--CAMPAIGN IMAGE AND STATUS-->
                                 <div class="position-relative">
                                     <img src="images/campaigns/oceanic-travel.jpg" class="card-img-top campaign-image ">
                                 </div>
@@ -286,11 +301,14 @@
                             <div class="campaign-badge bg-success">
                                 <i class="fas fa-rocket"></i></i><span> Erfolgreich finanziert</span>
                             </div> <!--END-->                
-                            <div class="campaign-content card-body text-secondary bg-light"><!-- CAMPAIGN TITLE AND EXCERT(SUMMARY ABOUT COMPANY), WITH INVESTMENT STATUS-->       
-                                <div class="card-title d-flex justify-content-start align-items-center"><!-- TITLE WITH COUNTRY FLAG -->
-                                    <img src="images/flags/aut.jpg" class="img-fluid mr-3 flag">
-                                    <h4 class="campaign-title mb-0 text-dark">Oceanic travel</h4>
-                                </div> <!--END-->
+                            <div class="campaign-content card-body text-secondary bg-light"><!-- CAMPAIGN TITLE AND EXCERT(SUMMARY ABOUT COMPANY), WITH INVESTMENT STATUS-->
+                                <a href="campaigns.php">
+                                    <div class="card-title d-flex justify-content-start align-items-center"><!-- TITLE WITH COUNTRY FLAG -->
+                                        <img src="images/flags/aut.jpg" class="img-fluid mr-3 flag">
+                                        <h4 class="campaign-title mb-0 text-dark">Oceanic travel</h4>
+                                    </div> 
+                                </a>
+                                <!--END-->
                                 <!-- SHORT SUMMARY - EXCERT -->
                                 <p class="campaign-excerpt card-text mt-3">Roll on, deep and dark blue ocean, roll. Ten thousand fleets sweep over thee in vain. Man marks the earth with ruin, but his control stops with the shore. Repudiandae consequatur
                                     doloremque error culpa quasi itaque?</p> <!--END-->     
@@ -323,7 +341,7 @@
                                     </div>
                                 </div> <!--END-->         
                                 <div class="footer-button py-4 text-center"><!--BUTTON FOR MORE INFO -->
-                                    <a class="btn btn-secondary text-uppercase my-1 py-2 px-4" href="#" role="button">View details</a>
+                                    <a class="btn btn-secondary text-uppercase my-1 py-2 px-4" href="campaigns.php" role="button">View details</a>
                                 </div> <!--END-->
                             </div>
                         </div>
@@ -331,7 +349,7 @@
                     <!--CAMPAIGN-medix-->
                     <div class="col-12 col-md-6 col-lg-4">
                         <div class="campaign card position-relative mb-4">  
-                            <a href="#"><!--CAMPAIGN IMAGE AND STATUS-->
+                            <a href="campaigns.php"><!--CAMPAIGN IMAGE AND STATUS-->
                                 <div class="position-relative">
                                     <img src="images/campaigns/medix.jpg" class="card-img-top campaign-image ">
                                 </div>
@@ -343,11 +361,14 @@
                             <div class="campaign-badge bg-danger">
                                 <i class="fas fa-heart"></i><span>We love this!</span>
                             </div> <!--END-->                
-                            <div class="campaign-content card-body text-secondary bg-light"><!-- CAMPAIGN TITLE AND EXCERT(SUMMARY ABOUT COMPANY), WITH INVESTMENT STATUS-->       
-                                <div class="card-title d-flex justify-content-start align-items-center"><!-- TITLE WITH COUNTRY FLAG -->
-                                    <img src="images/flags/aut.jpg" class="img-fluid mr-3 flag">
-                                    <h4 class="campaign-title mb-0 text-dark">Medix (CF)</h4>
-                                </div> <!--END-->
+                            <div class="campaign-content card-body text-secondary bg-light"><!-- CAMPAIGN TITLE AND EXCERT(SUMMARY ABOUT COMPANY), WITH INVESTMENT STATUS--> 
+                                <a href="campaigns.php">
+                                    <div class="card-title d-flex justify-content-start align-items-center"><!-- TITLE WITH COUNTRY FLAG -->
+                                        <img src="images/flags/aut.jpg" class="img-fluid mr-3 flag">
+                                        <h4 class="campaign-title mb-0 text-dark">Medix (CF)</h4>
+                                    </div> 
+                                </a>
+                                <!--END-->
                                 <!-- SHORT SUMMARY - EXCERT -->
                                 <p class="campaign-excerpt card-text mt-3">Lorem ipsum dolor sit amet consectetur adipisicing elit. Unde dignissimos a vitae recusandae amet itaque perferendis
                                     architecto non aliquam maiores. Lorem, ipsum dolor sit amet consectetur adipisicing elit. Odit aspernatur possimus
@@ -369,7 +390,7 @@
                             </div>  
                             <div class="card-footer p-0"><!-- CAMPAIGN ADDITIONAL INFO, CELLS WITH ICONS AND BUTTON FOR MORE INFO -->        
                                 <div class="footer-button py-4 text-center"><!--BUTTON FOR MORE INFO -->
-                                    <a class="btn btn-success text-uppercase my-1 py-2 px-4" href="#" role="button">View details</a>
+                                    <a class="btn btn-success text-uppercase my-1 py-2 px-4" href="campaigns.php" role="button">View details</a>
                                 </div> <!--END-->
                             </div>
                         </div>
