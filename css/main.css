@@ -1791,7 +1791,7 @@ fieldset:disabled a.btn {
     border-color: #c1271f; }
     .btn-danger:not(:disabled):not(.disabled):active:focus, .btn-danger:not(:disabled):not(.disabled).active:focus,
     .show > .btn-danger.dropdown-toggle:focus {
-      box-shadow: 0 0 0 0.2rem #e04840; }
+      box-shadow: 0 0 0 0.2rem rgba(224, 72, 64, 0.5); }
 
 .btn-light {
   color: #212529;
@@ -6299,6 +6299,15 @@ a:hover {
       background-color: #28a745 !important; }
     .side-nav .side-nav-item:focus {
       box-shadow: 0; }
+
+.avatar, .avatar-text {
+  width: 80px;
+  height: 80px; }
+
+.avatar-text {
+  display: flex !important;
+  justify-content: center;
+  align-items: center; }
 
 @media screen and (min-width: 992px) {
   .status-single {
