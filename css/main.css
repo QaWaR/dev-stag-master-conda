@@ -6276,9 +6276,18 @@ a:hover {
     padding-left: 10px;
     padding-right: 20px; }
 
-.flag {
+.flag, .flag-wide {
   width: auto;
   height: 16px; }
+
+.flag-wide {
+  width: 24px !important; }
+
+.single-campain-cover {
+  background-image: url("../images/campaigns/anoodeling-cover.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 500px; }
 
 .side-nav {
   display: flex;
