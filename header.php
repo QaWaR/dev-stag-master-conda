@@ -61,7 +61,7 @@
         <div class="modal fade text-dark" id="loginModal">
             <div class="modal-dialog">
                 <div class="modal-content">
-                    <img src="images/modals/logo.png" class="img-fluid p-4 w-75 mx-auto">
+                    <img src="images/modals/logo.png" class="img-fluid my-4 w-75 mx-auto">
                     <div class="modal-header px-4">
                         <h5 class="modal-title">Sign in</h5>
                     </div>
@@ -78,9 +78,8 @@
                         </form>
                     </div>
                     <div class="modal-footer flex-column align-items-center py-4">
-                        <button class="btn btn-primary px-4 w-50 mb-2 text-uppercase" data-dismiss="modal">Login</button>
-                        <button class="btn btn-danger px-4 w-25 text-uppercase" data-dismiss="modal" >Close</button>
-                        
+                        <button class="btn btn-primary px-4 w-100 mb-2 text-uppercase" data-dismiss="modal">Login</button>
+                        <button class="btn btn-danger px-4 w-100 text-uppercase" data-dismiss="modal" >Close</button> 
                     </div>
                 </div>
             </div>

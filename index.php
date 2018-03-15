@@ -531,10 +531,10 @@
                             <i class="far fa-clock mr-1 text-secondary"></i>
                             <p class="card-subtitle text-secondary">September 11, 2017 By
                                 <span>
-                                    <a href="#" class="text-success">admin </a>
+                                    <a href="blog.php" class="text-success">admin </a>
                                 </span> in
                                 <span>
-                                    <a href="#" class="text-success"> Uncategorized</a>
+                                    <a href="blog.php" class="text-success"> Uncategorized</a>
                                 </span>
                             </p>
                         </div>
@@ -542,7 +542,7 @@
                             Nullam non turpis in purus porttitor gravida ac nec ligula. Sed at nibh turpis. Etiam porttitor magna vitae augue
                             ullamcorper, ultricies porta quam finibus. Proin diam metus, bibendum eu felis in, accumsan cursus dui. Fusce
                             condimentum feugiat</p>
-                        <a href="" class="d-inline-block text-success mb-3">Read more</a>
+                        <a href="single-news.php" class="d-inline-block text-success mb-3">Read more</a>
                     </div>
                 </div>
                 <div class="news-single card p-2 mb-4">
@@ -554,10 +554,10 @@
                             <i class="far fa-clock mr-1 text-secondary"></i>
                             <p class="card-subtitle text-secondary">December 11, 2017 By
                                 <span>
-                                    <a href="#" class="text-success">admin </a>
+                                    <a href="blog.php" class="text-success">admin </a>
                                 </span> in
                                 <span>
-                                    <a href="#" class="text-success"> Uncategorized</a>
+                                    <a href="blog.php" class="text-success"> Uncategorized</a>
                                 </span>
                             </p>
                         </div>
@@ -565,7 +565,7 @@
                             Nullam non turpis in purus porttitor gravida ac nec ligula. Sed at nibh turpis. Etiam porttitor magna vitae augue
                             ullamcorper, ultricies porta quam finibus. Proin diam metus, bibendum eu felis in, accumsan cursus dui. Fusce
                             condimentum feugiat. Lorem ipsum dolor sit amet consectetur adipisicing elit. Error, incidunt? </p>
-                        <a href="" class="d-inline-block text-success mb-3">Read more</a>
+                        <a href="single-news.php" class="d-inline-block text-success mb-3">Read more</a>
                     </div>
                 </div>
             </div>
