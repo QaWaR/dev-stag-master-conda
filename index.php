@@ -121,7 +121,7 @@
                     <!--CAMPAIGN-armywings-->
                     <div class="col-12 col-md-6">
                         <div class="campaign card position-relative mb-4">
-                            <a href="campaigns.php"><!--CAMPAIGN IMAGE AND STATUS-->
+                            <a href="single-campaign.php"><!--CAMPAIGN IMAGE AND STATUS-->
                                 <div>
                                     <img src="images/armywings/armywings.jpg" class="card-img-top campaign-image">
                                 </div>
@@ -135,7 +135,7 @@
                             </div>
                             <!--END-->                
                             <div class="campaign-content card-body text-secondary bg-light"><!-- CAMPAIGN TITLE AND EXCERT(SUMMARY ABOUT COMPANY), WITH INVESTMENT STATUS-->  
-                                <a href="campaigns.php">     
+                                <a href="single-campaign.php">     
                                     <div class="card-title d-flex justify-content-start align-items-center"><!-- TITLE WITH COUNTRY FLAG -->
                                         <img src="images/flags/aut.jpg" class="img-fluid mr-3 flag-wide">
                                         <h4 class="campaign-title mb-0 text-dark">Army wings</h4>
@@ -175,7 +175,7 @@
                                     </div>
                                 </div> <!--END-->
                                 <div class="footer-button py-4 text-center"><!--BUTTON FOR MORE INFO -->
-                                    <a class="btn btn-secondary text-uppercase my-1 py-2 px-4" href="campaigns.php" role="button">View details</a>
+                                    <a class="btn btn-secondary text-uppercase my-1 py-2 px-4" href="single-campaign.php" role="button">View details</a>
                                 </div> <!--END-->
                             </div>
                         </div>
@@ -183,7 +183,7 @@
                     <!--CAMPAIGN-darts-->
                     <div class="col-12 col-md-6">
                         <div class="campaign card position-relative mb-4">  
-                            <a href="campaigns.php"><!--CAMPAIGN IMAGE AND STATUS-->
+                            <a href="single-campaign.php"><!--CAMPAIGN IMAGE AND STATUS-->
                                 <div class="position-relative">
                                     <img src="images/Darts/dartcover.jpg" class="card-img-top campaign-image ">
                                 </div>
@@ -197,7 +197,7 @@
                             </div>
                             <!--END-->
                             <div class="campaign-content card-body text-secondary bg-light"><!-- CAMPAIGN TITLE AND EXCERT(SUMMARY ABOUT COMPANY), WITH INVESTMENT STATUS-->
-                                <a href="campaigns.php">
+                                <a href="single-campaign.php">
                                     <div class="card-title d-flex justify-content-start align-items-center"><!-- TITLE WITH COUNTRY FLAG -->
                                         <img src="images/flags/aut.jpg" class="img-fluid mr-3 flag-wide">
                                         <h4 class="campaign-title mb-0 text-dark">Darts heroes (CI/VMn/LW/PP)</h4>
@@ -218,7 +218,7 @@
                             </div>  
                             <div class="card-footer p-0"><!-- CAMPAIGN ADDITIONAL INFO, CELLS WITH ICONS AND BUTTON FOR MORE INFO -->       
                                 <div class="footer-button py-4 text-center"><!--BUTTON FOR MORE INFO -->
-                                    <a class="btn btn-secondary text-uppercase my-1 py-2 px-4" href="campaigns.php" role="button">View details</a>
+                                    <a class="btn btn-secondary text-uppercase my-1 py-2 px-4" href="single-campaign.php" role="button">View details</a>
                                 </div> <!--END-->
                             </div>
                         </div>
@@ -226,7 +226,7 @@
                     <!--CAMPAIGN-m-office-->
                     <div class="col-12 col-md-6">
                         <div class="campaign card position-relative mb-4">  
-                            <a href="campaigns.php"><!--CAMPAIGN IMAGE AND STATUS-->
+                            <a href="single-campaign.php"><!--CAMPAIGN IMAGE AND STATUS-->
                                 <div class="position-relative">
                                     <img src="images/campaigns/m-office.jpg" class="card-img-top campaign-image ">
                                 </div>
@@ -239,7 +239,7 @@
                                 <i class="fas fa-star"></i><span>Favourite</span>
                             </div><!--END-->
                             <div class="campaign-content card-body text-secondary bg-light"><!-- CAMPAIGN TITLE AND EXCERT(SUMMARY ABOUT COMPANY), WITH INVESTMENT STATUS-->
-                                <a href="campaigns.php">
+                                <a href="single-campaign.php">
                                     <div class="card-title d-flex justify-content-start align-items-center"><!-- TITLE WITH COUNTRY FLAG -->
                                         <img src="images/flags/aut.jpg" class="img-fluid mr-3 flag-wide">
                                         <h4 class="campaign-title mb-0 text-dark">M office ICO</h4>
@@ -295,7 +295,7 @@
                                     </div>
                                 </div>
                                 <div class="footer-button py-4 text-center"><!--BUTTON FOR MORE INFO -->
-                                    <a class="btn btn-success text-uppercase my-1 py-2 px-4" href="campaigns.php" role="button">View details</a>
+                                    <a class="btn btn-success text-uppercase my-1 py-2 px-4" href="single-campaign.php" role="button">View details</a>
                                 </div> <!--END-->
                             </div>
                         </div>
@@ -303,7 +303,7 @@
                     <!--CAMPAIGN-intechor-->
                     <div class="col-12 col-md-6">
                         <div class="campaign card position-relative mb-4">  
-                            <a href="campaigns.php"><!--CAMPAIGN IMAGE AND STATUS-->
+                            <a href="single-campaign.php"><!--CAMPAIGN IMAGE AND STATUS-->
                                 <div class="position-relative">
                                     <img src="images/campaigns/intechor.jpg" class="card-img-top campaign-image ">
                                 </div>
@@ -316,7 +316,7 @@
                                 <i class="fas fa-heart"></i><span>We love this</span>
                             </div><!--END-->                
                             <div class="campaign-content card-body text-secondary bg-light"><!-- CAMPAIGN TITLE AND EXCERT(SUMMARY ABOUT COMPANY), WITH INVESTMENT STATUS--> 
-                                <a href="campaigns.php">
+                                <a href="single-campaign.php">
                                     <div class="card-title d-flex justify-content-start align-items-center"><!-- TITLE WITH COUNTRY FLAG -->
                                         <img src="images/flags/che.jpg" class="img-fluid mr-3 flag">
                                         <h4 class="campaign-title mb-0 text-dark">Intechor travel</h4>
@@ -349,7 +349,7 @@
                                     </div>
                                 </div> <!--END-->         
                                 <div class="footer-button py-4 text-center"><!--BUTTON FOR MORE INFO -->
-                                    <a class="btn btn-secondary text-uppercase my-1 py-2 px-4" href="campaigns.php" role="button">View details</a>
+                                    <a class="btn btn-secondary text-uppercase my-1 py-2 px-4" href="single-campaign.php" role="button">View details</a>
                                 </div> <!--END-->
                             </div>
                         </div>
@@ -357,7 +357,7 @@
                     <!--CAMPAIGN-makit-->
                     <div class="col-12 col-md-6">
                         <div class="campaign card position-relative mb-4">  
-                            <a href="campaigns.php"><!--CAMPAIGN IMAGE AND STATUS-->
+                            <a href="single-campaign.php"><!--CAMPAIGN IMAGE AND STATUS-->
                                 <div class="position-relative">
                                     <img src="images/campaigns/makit.jpg" class="card-img-top campaign-image ">
                                 </div>
@@ -370,7 +370,7 @@
                                 <i class="fas fa-bullhorn"></i><span> Startet bald</span>
                             </div><!--END-->                
                             <div class="campaign-content card-body text-secondary bg-light"><!-- CAMPAIGN TITLE AND EXCERT(SUMMARY ABOUT COMPANY), WITH INVESTMENT STATUS--> 
-                                <a href="campaigns.php">
+                                <a href="single-campaign.php">
                                     <div class="card-title d-flex justify-content-start align-items-center"><!-- TITLE WITH COUNTRY FLAG -->
                                         <img src="images/flags/aut.jpg" class="img-fluid mr-3 flag-wide">
                                         <h4 class="campaign-title mb-0 text-dark">Makit - ein regionales Produkt</h4>
@@ -396,7 +396,7 @@
                                     </div>
                                 </div> <!--END-->
                                 <div class="footer-button py-4 text-center"><!--BUTTON FOR MORE INFO -->
-                                    <a class="btn btn-secondary text-uppercase my-1 py-2 px-4" href="campaigns.php" role="button">View details</a>
+                                    <a class="btn btn-secondary text-uppercase my-1 py-2 px-4" href="single-campaign.php" role="button">View details</a>
                                 </div> <!--END-->
                             </div>
                         </div>
@@ -404,7 +404,7 @@
                     <!--CAMPAIGN-oceanic-travel-->
                     <div class="col-12 col-md-6">
                         <div class="campaign card position-relative mb-4">  
-                            <a href="campaigns.php"><!--CAMPAIGN IMAGE AND STATUS-->
+                            <a href="single-campaign.php"><!--CAMPAIGN IMAGE AND STATUS-->
                                 <div class="position-relative">
                                     <img src="images/campaigns/oceanic-travel.jpg" class="card-img-top campaign-image ">
                                 </div>
@@ -417,7 +417,7 @@
                                 <i class="fas fa-rocket"></i></i><span> Erfolgreich finanziert</span>
                             </div> <!--END-->                
                             <div class="campaign-content card-body text-secondary bg-light"><!-- CAMPAIGN TITLE AND EXCERT(SUMMARY ABOUT COMPANY), WITH INVESTMENT STATUS-->
-                                <a href="campaigns.php">
+                                <a href="single-campaign.php">
                                     <div class="card-title d-flex justify-content-start align-items-center"><!-- TITLE WITH COUNTRY FLAG -->
                                         <img src="images/flags/aut.jpg" class="img-fluid mr-3 flag-wide">
                                         <h4 class="campaign-title mb-0 text-dark">Oceanic travel</h4>
@@ -456,7 +456,7 @@
                                     </div>
                                 </div> <!--END-->         
                                 <div class="footer-button py-4 text-center"><!--BUTTON FOR MORE INFO -->
-                                    <a class="btn btn-secondary text-uppercase my-1 py-2 px-4" href="campaigns.php" role="button">View details</a>
+                                    <a class="btn btn-secondary text-uppercase my-1 py-2 px-4" href="single-campaign.php" role="button">View details</a>
                                 </div> <!--END-->
                             </div>
                         </div>
@@ -464,7 +464,7 @@
                     <!--CAMPAIGN-medix-->
                     <div class="col-12 col-md-6">
                         <div class="campaign card position-relative mb-4">  
-                            <a href="campaigns.php"><!--CAMPAIGN IMAGE AND STATUS-->
+                            <a href="single-campaign.php"><!--CAMPAIGN IMAGE AND STATUS-->
                                 <div class="position-relative">
                                     <img src="images/campaigns/medix.jpg" class="card-img-top campaign-image ">
                                 </div>
@@ -477,7 +477,7 @@
                                 <i class="fas fa-heart"></i><span>We love this!</span>
                             </div> <!--END-->                
                             <div class="campaign-content card-body text-secondary bg-light"><!-- CAMPAIGN TITLE AND EXCERT(SUMMARY ABOUT COMPANY), WITH INVESTMENT STATUS--> 
-                                <a href="campaigns.php">
+                                <a href="single-campaign.php">
                                     <div class="card-title d-flex justify-content-start align-items-center"><!-- TITLE WITH COUNTRY FLAG -->
                                         <img src="images/flags/aut.jpg" class="img-fluid mr-3 flag-wide">
                                         <h4 class="campaign-title mb-0 text-dark">Medix (CF)</h4>
@@ -505,14 +505,14 @@
                             </div>  
                             <div class="card-footer p-0"><!-- CAMPAIGN ADDITIONAL INFO, CELLS WITH ICONS AND BUTTON FOR MORE INFO -->        
                                 <div class="footer-button py-4 text-center"><!--BUTTON FOR MORE INFO -->
-                                    <a class="btn btn-success text-uppercase my-1 py-2 px-4" href="campaigns.php" role="button">View details</a>
+                                    <a class="btn btn-success text-uppercase my-1 py-2 px-4" href="single-campaign.php" role="button">View details</a>
                                 </div> <!--END-->
                             </div>
                         </div>
                     </div> <!--END CAMPAIGN-->
                 </div>
                 <div class="d-flex">
-                    <a class="btn btn-success py-2 px-3 mx-auto" role="button" href="campaigns.php">Load More</a>
+                    <a class="btn btn-success py-2 px-3 mx-auto" role="button" href="single-campaign.php">Load More</a>
                 </div>
             </div>
             
