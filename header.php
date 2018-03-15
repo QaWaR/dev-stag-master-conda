@@ -48,7 +48,7 @@
                     <i class="fas fa-user-circle mr-2 text-muted"></i>
                     <a href="#" class="dropdown-toggle text-muted mr-2" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Username</a>
                     <ul class="dropdown-menu dropdown-menu-right p-0">
-                        <li class="px-2 border-bottom border-grey py-2"><a href="#" class="text-secondary">Welcome</a></li>
+                        <li class="px-2 border-bottom border-grey py-2 text-secondary">Welcome</li>
                         <li class="d-flex justify-content-between px-2 border-bottom border-grey py-2"><a href="#"><span class="text-success pr-4"><i class="fas fa-user-circle mr-2 text-success"></i>Personal account</span></a><span class="ml-auto pl-4"><a href="#"><i class="text-muted fas fa-shopping-bag mr-2"></i></a><a href="#"><i class="text-muted fas fa-cog mr-2"></i></a></span></li>
                         <li class="d-flex justify-content-between px-2 border-bottom border-grey py-2"><a href="#"><span class="text-muted pr-4"><i class="fas fa-suitcase mr-2 text-muted"></i>Company account</span></a><span class="ml-auto pl-4"><a href="#"><i class="text-muted fas fa-shopping-bag mr-2"></i></a><a href="#"><i class="text-muted fas fa-cog mr-2"></i></a></span></li>
                         <li class="px-2 py-2"><a href="#" class="text-secondary"><i class="fas fa-arrow-right mr-2"></i>Sign out</a></li>
@@ -61,14 +61,11 @@
         <div class="modal fade text-dark" id="loginModal">
             <div class="modal-dialog">
                 <div class="modal-content">
-                    <img src="images/modals/logo.png" class="img-fluid p-4">
-                    <div class="modal-header">
-                       
+                    <img src="images/modals/logo.png" class="img-fluid p-4 w-75 mx-auto">
+                    <div class="modal-header px-4">
                         <h5 class="modal-title">Sign in</h5>
-                        
-                        <button class="btn close" data-dismiss="modal" >&times;</button>
                     </div>
-                    <div class="modal-body">
+                    <div class="modal-body px-4 bg-light">
                         <form>
                             <div class="form-group">
                                 <label for="usernam">Username or email</label>
@@ -80,9 +77,10 @@
                             </div>
                         </form>
                     </div>
-                    <div class="modal-footer">
-                        <button class="btn btn-danger px-4" data-dismiss="modal" >Close</button>
-                        <button class="btn btn-primary px-4" data-dismiss="modal">Login</button>
+                    <div class="modal-footer flex-column align-items-center py-4">
+                        <button class="btn btn-primary px-4 w-50 mb-2 text-uppercase" data-dismiss="modal">Login</button>
+                        <button class="btn btn-danger px-4 w-50 text-uppercase" data-dismiss="modal" >Close</button>
+                        
                     </div>
                 </div>
             </div>
