@@ -524,17 +524,17 @@
                         <img src="images/news/house.jpg" class="card-img-top img-fluid">
                     </a>
                     <div class="card-body p-0 text-dark">
-                        <a href="">
+                        <a href="single-news.php">
                             <h4 class="news-heading card-title mt-3 text-dark">Das halschte meine Deutsche! Hilfe!</h4>
                         </a>
                         <div class="date-author d-flex align-items-baseline">
                             <i class="far fa-clock mr-1 text-secondary"></i>
                             <p class="card-subtitle text-secondary">September 11, 2017 By
                                 <span>
-                                    <a href="" class="text-success">admin </a>
+                                    <a href="#" class="text-success">admin </a>
                                 </span> in
                                 <span>
-                                    <a href="" class="text-success"> Uncategorized</a>
+                                    <a href="#" class="text-success"> Uncategorized</a>
                                 </span>
                             </p>
                         </div>
@@ -554,10 +554,10 @@
                             <i class="far fa-clock mr-1 text-secondary"></i>
                             <p class="card-subtitle text-secondary">December 11, 2017 By
                                 <span>
-                                    <a href="" class="text-success">admin </a>
+                                    <a href="#" class="text-success">admin </a>
                                 </span> in
                                 <span>
-                                    <a href="" class="text-success"> Uncategorized</a>
+                                    <a href="#" class="text-success"> Uncategorized</a>
                                 </span>
                             </p>
                         </div>
