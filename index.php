@@ -512,7 +512,7 @@
                     </div> <!--END CAMPAIGN-->
                 </div>
                 <div class="d-flex">
-                    <a class="btn btn-success py-2 px-3 mx-auto" role="button" href="single-campaign.php">Load More</a>
+                    <a class="btn btn-success btn-lg py-2 px-3 mx-auto" role="button" href="single-campaign.php">Load More</a>
                 </div>
             </div>
             
@@ -577,7 +577,7 @@
             <div class="container">
                 <h2 class="mb-4">Sie suchen interessante Investitionsmöglichkeiten?</h2>
                 <p class="lead mb-5">Entdecken Sie gleich alle Crowdinvesting-Projekte!</p>
-                <a role="button" href="page.php" class="btn btn-success py-3 px-4 text-uppercase rounded-0">Projekte entdecken</a>
+                <a role="button" href="page.php" class="btn btn-success py-3 px-4 text-uppercase rounded-0 font-weight-bold">Projekte entdecken</a>
             </div>
         </div>
         <div class="current-status border-bottom border-secondary">
