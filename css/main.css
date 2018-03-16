@@ -6252,6 +6252,10 @@ a.text-new:hover, a.text-new:focus {
   color: #46ad8d !important;
   background-color: #fff !important; }
 
+.btn-primary:hover {
+  color: #333c55 !important;
+  background-color: #fff !important; }
+
 .btn-secondary:hover {
   color: #73879c !important;
   background-color: #fff !important; }
