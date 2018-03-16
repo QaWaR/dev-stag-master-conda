@@ -6422,6 +6422,6 @@ a:hover {
   .cta-single p {
     font-size: 15px; } }
 
-.owl-carousel p,
-.owl-carousel h3 {
+.carousel-cover .owl-carousel p,
+.carousel-cover .owl-carousel h3 {
   text-shadow: 1px 1px 4px #73879c; }
