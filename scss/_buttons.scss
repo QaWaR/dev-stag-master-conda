@@ -10,3 +10,26 @@
     color: $secondary!important;
     background-color: #fff!important;
 }
+.btn-new {
+    background-color: $new!important;
+    color: #fff!important;
+    border: 1px solid $new!important;
+    border-radius: 500rem!important;
+    &:hover {
+        color: $new!important;
+        background-color: #fff!important;
+    }
+}
+.btn-new-inverse {
+    color: $new!important;
+    background-color: #fff!important;
+    border: 1px solid $new!important;
+    border-radius: 500rem!important;
+    &:hover {
+        color: #fff!important;
+        background-color: $new!important;
+    }
+}
+.fixed-bottom-login {
+    width: 300px!important;
+}

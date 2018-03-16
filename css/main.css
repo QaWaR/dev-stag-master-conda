@@ -6256,6 +6256,27 @@ a.text-new:hover, a.text-new:focus {
   color: #aab6c3 !important;
   background-color: #fff !important; }
 
+.btn-new {
+  background-color: #007390 !important;
+  color: #fff !important;
+  border: 1px solid #007390 !important;
+  border-radius: 500rem !important; }
+  .btn-new:hover {
+    color: #007390 !important;
+    background-color: #fff !important; }
+
+.btn-new-inverse {
+  color: #007390 !important;
+  background-color: #fff !important;
+  border: 1px solid #007390 !important;
+  border-radius: 500rem !important; }
+  .btn-new-inverse:hover {
+    color: #fff !important;
+    background-color: #007390 !important; }
+
+.fixed-bottom-login {
+  width: 300px !important; }
+
 .login-nav a:hover {
   text-decoration: none; }
 
