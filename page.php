@@ -935,7 +935,7 @@
             <div id="brochure-dl" class="collapse">
                 <section class="my-5">
                     <div class="d-flex justify-content-center align-items-center mb-5">
-                        <a href="#" type="button" class="btn btn-success">Download</a>
+                        <a href="readme.md" download type="button" class="btn btn-success">Download</a>
                     </div>
                     <p class="text-center mb-3 text-muted">Laden Sie sich hier unsere Broschüre für Unternehmer herunter.</p>
                 </section>
