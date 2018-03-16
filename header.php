@@ -21,7 +21,7 @@
                 <nav class="navbar navbar-expand-lg navbar-light px-0">
                     <a class="navbar-brand d-flex align-items-center justify-content-between alignt-items-center" href="index.php">
                         <img src="images/conda-logo.png" alt="">
-                        <p class="mb-0 pl-3">CROWDINVESTING</p>
+                        <p class="mb-0 pl-3 d-none d-sm-block">CROWDINVESTING</p>
                     </a>
                     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarMain" aria-controls="navbarMain" aria-expanded="false" aria-label="Toggle navigation">
                         <span class="navbar-toggler-icon"></span>
@@ -41,12 +41,11 @@
         <!--login nav (logged out)-->
         <section class="login-nav bg-light border-bottom border-grey">
             <div class="container py-2">
-                <div class="d-flex justify-content-end align-items-center">
-                    <span class="mr-2">New investor?</span>
+                <div class="d-flex justify-content-sm-end justify-content-between align-items-center">
+                    <span class="mr-2 d-none d-sm-inline">New investor?</span>
                     <a href="#" class="text-success mr-2" data-toggle="modal" data-target="#loginModal">Register</a>
                     <button class="btn btn-success btn-sm rounded mr-2" data-toggle="modal" data-target="#loginModal" >Sign in</button>
-                    <i class="fas fa-user-circle mr-2 text-muted"></i>
-                    <a href="#" class="dropdown-toggle text-muted mr-2" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Username</a>
+                    <a href="#" class="dropdown-toggle text-muted mr-2 d-none d-sm-inline" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"><i class="fas fa-user-circle mr-2 text-muted"></i>Username</a>
                     <ul class="dropdown-menu dropdown-menu-right p-0">
                         <li class="px-2 border-bottom border-grey py-2 text-secondary">Welcome</li>
                         <li class="d-flex justify-content-between px-2 border-bottom border-grey py-2"><a href="#"><span class="text-success pr-4"><i class="fas fa-user-circle mr-2 text-success"></i>Personal account</span></a><span class="ml-auto pl-4"><a href="#"><i class="text-muted fas fa-shopping-bag mr-2"></i></a><a href="#"><i class="text-muted fas fa-cog mr-2"></i></a></span></li>
