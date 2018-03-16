@@ -22,8 +22,15 @@
         }
     }
 }
-.campaign-story .nav .active {
-    background-color: #000!important;
-    color: #fff!important;
-    font-size: 20px;
+.hidden-login {
+    border-top: 1px solid $secondary;
+}
+.campaign-story .nav {
+    border-bottom: 5px solid transparent!important;
+    .active {
+    border-bottom: 5px solid $success!important;
+    }
+    .nav-link:hover {
+        border-bottom: 5px solid $success!important;
+        }
 }

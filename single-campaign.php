@@ -18,7 +18,7 @@
                     <div class="d-none d-lg-block">
                         <a href="#" class="btn btn-success btn-lg text-uppercase">investieren</a> 
                     </div>
-                    <div class="d-block d-lg-none fixed-bottom bg-white py-3">
+                    <div class="hidden-login d-block d-lg-none fixed-bottom bg-white py-3">
                         <div class="container">
                             <a href="#" class="bth btn-success rounded d-block text-uppercase py-3 text-center font-weight-bold" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">investieren</a>
                             <div class="dropdown-menu fixed-bottom-login">
@@ -114,10 +114,10 @@
             <!--single campaign pills nav-->
             <section class="campaign-story container sticky-top">
                 <div class="nav nav-pills" id="pills-tab" role="tablist" aria-orientation="vertical">
-                    <a class="nav-link active w-25 text-center bg-white border-bottom border-success text-primary py-3 mb-3 rounded-0 font-weight-bold" id="1" data-toggle="pill" href="#overview" role="tab" aria-controls="overview" aria-selected="true">Overview</a>
-                    <a class="nav-link w-25 text-center bg-white border-bottom border-success text-primary py-3 mb-3 rounded-0 font-weight-bold" id="2" data-toggle="pill" href="#details" role="tab" aria-controls="details" aria-selected="false">Details</a>
-                    <a class="nav-link w-25 text-center bg-white border-bottom border-success text-primary py-3 mb-3 rounded-0 font-weight-bold" id="3" data-toggle="pill" href="#documents" role="tab" aria-controls="documents" aria-selected="false">Document</a>
-                    <a class="nav-link w-25 text-center bg-white border-bottom border-success text-primary py-3 mb-3 rounded-0 font-weight-bold" id="4" data-toggle="pill" href="#blog" role="tab" aria-controls="blog" aria-selected="false">Blog<sup class="pl-2"><span class="badge badge-pill badge-success rounded-circle px-2 py-1">3</span></sup></a>
+                    <a class="nav-link active w-25 text-center bg-white text-primary py-3 mb-3 rounded-0 font-weight-bold" id="1" data-toggle="pill" href="#overview" role="tab" aria-controls="overview" aria-selected="true">Overview</a>
+                    <a class="nav-link w-25 text-center bg-white text-primary py-3 mb-3 rounded-0 font-weight-bold" id="2" data-toggle="pill" href="#details" role="tab" aria-controls="details" aria-selected="false">Details</a>
+                    <a class="nav-link w-25 text-center bg-white text-primary py-3 mb-3 rounded-0 font-weight-bold" id="3" data-toggle="pill" href="#documents" role="tab" aria-controls="documents" aria-selected="false">Document</a>
+                    <a class="nav-link w-25 text-center bg-white text-primary py-3 mb-3 rounded-0 font-weight-bold" id="4" data-toggle="pill" href="#blog" role="tab" aria-controls="blog" aria-selected="false">Blog<sup class="pl-2"><span class="badge badge-pill badge-success rounded-circle px-2 py-1">3</span></sup></a>
                 </div>
             </section>
             <!--single campaign pills content-->

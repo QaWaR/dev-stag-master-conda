@@ -6378,10 +6378,15 @@ a:hover {
     .side-nav .side-nav-item:focus {
       box-shadow: 0; }
 
-.campaign-story .nav .active {
-  background-color: #000 !important;
-  color: #fff !important;
-  font-size: 20px; }
+.hidden-login {
+  border-top: 1px solid #73879c; }
+
+.campaign-story .nav {
+  border-bottom: 5px solid transparent !important; }
+  .campaign-story .nav .active {
+    border-bottom: 5px solid #46ad8d !important; }
+  .campaign-story .nav .nav-link:hover {
+    border-bottom: 5px solid #46ad8d !important; }
 
 .avatar, .avatar-text {
   width: 80px;
