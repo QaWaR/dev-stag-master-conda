@@ -6392,6 +6392,9 @@ a:hover {
   .campaign-story .nav .nav-link:hover {
     border-bottom: 5px solid #46ad8d !important; }
 
+.company-basic-info {
+  text-shadow: 2px 2px 2px #000; }
+
 .avatar, .avatar-text {
   width: 80px;
   height: 80px; }

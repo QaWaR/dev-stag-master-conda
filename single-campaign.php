@@ -83,45 +83,43 @@
                 </div>
             </section>
             <!--hidden campaign cover item-->
-            <section>
-                <div class="container">
-                    <div class="hidden-data d-block d-lg-none bg-white">
-                        <div class="container">
-                            <h5 class="font-weight-light text-muted py-3 text-center">STARTET BALD</h5>
-                            <div class="campaign-invest-wrapper text-secondary d-flex flex-column flex-sm-row justify-content-around"><!-- CAMPAIGN KNOB(SCALE) WITH CURRENT INVESTMENT STATUS AND BASIC INFO-->   
-                                <div class="campaign-invest-scale rounded-circle border border-secondary p-3  mr-3 text-center"><!-- SCALE -->
-                                    <p class="investment-total-amount font-weight-bold m-0 mt-3">220.500&euro;</p>
-                                    <p class="investors-number text-muted">22 Investors</p>
-                                    <p class="investment-completed">18%</p>
-                                </div> <!--END-->  
-                                <div class="investment-amounts align-self-center pt-3"><!-- BASIC INFO ABOUT INVESTMENTS -->
-                                    <p class="text-muted"><span class="investment-min d-block h4 m-0 text-secondary">500.000<sup class="currency">&euro;</sup></span> Minimum Investment</p>
-                                    <p class="text-muted"><span class="investment-max d-block h4 m-0 text-secondary">2.000.000<sup class="currency">&euro;</sup></span> Maximum investment</p>
-                                </div> <!--END-->
-                            </div>
-                            <div class="campaign-invest-info py-1 d-flex flex-wrap justify-content-around border-bottom border-top border-muted mb-5 mt-3"><!--ADDITIONAL INFORMATION DISPLAYED AS ICONS WITH TOOLTIPS-->
-                                <div class="info-cell mx-1 px-2 py-2 d-flex flex-row">
-                                    <i class="fas fa-users text-muted fa-2x align-self-center" data-toggle="tooltip" data-placement="top" title="KMU"></i>
-                                </div>
-                                <div class="info-cell mx-1 px-2 py-2 text-center">
-                                    <i class="fas fa-calendar-alt text-muted fa-2x align-self-center" data-toggle="tooltip" data-placement="top" title="Vertragslaufzeit"></i>
-                                </div>
-                            </div> <!--END-->
-                        </div>
+            <section class="container">
+                <div class="hidden-data d-block d-lg-none bg-white">
+                    <h5 class="font-weight-light text-muted py-3 text-center">STARTET BALD</h5>
+                    <div class="campaign-invest-wrapper text-secondary d-flex flex-column flex-sm-row justify-content-around"><!-- CAMPAIGN KNOB(SCALE) WITH CURRENT INVESTMENT STATUS AND BASIC INFO-->   
+                        <div class="campaign-invest-scale rounded-circle border border-secondary p-3  mr-3 text-center"><!-- SCALE -->
+                            <p class="investment-total-amount font-weight-bold m-0 mt-3">220.500&euro;</p>
+                            <p class="investors-number text-muted">22 Investors</p>
+                            <p class="investment-completed">18%</p>
+                        </div> <!--END-->  
+                        <div class="investment-amounts align-self-center pt-3"><!-- BASIC INFO ABOUT INVESTMENTS -->
+                            <p class="text-muted"><span class="investment-min d-block h4 m-0 text-secondary">500.000<sup class="currency">&euro;</sup></span> Minimum Investment</p>
+                            <p class="text-muted"><span class="investment-max d-block h4 m-0 text-secondary">2.000.000<sup class="currency">&euro;</sup></span> Maximum investment</p>
+                        </div> <!--END-->
                     </div>
+                    <div class="campaign-invest-info py-1 d-flex flex-wrap justify-content-around border-bottom border-top border-muted mb-5 mt-3"><!--ADDITIONAL INFORMATION DISPLAYED AS ICONS WITH TOOLTIPS-->
+                        <div class="info-cell mx-1 px-2 py-2 text-center">
+                            <i class="fas fa-users text-muted fa-2x" data-toggle="tooltip" data-placement="top" title="KMU"></i>
+                        </div>
+                        <div class="info-cell mx-1 px-2 py-2 text-center">
+                            <i class="fas fa-calendar-alt text-muted fa-2x" data-toggle="tooltip" data-placement="top" title="Vertragslaufzeit"></i>
+                        </div>
+                    </div> <!--END-->
                 </div>
             </section>
             <!--single campaign pills nav-->
-            <section class="campaign-story container sticky-top">
-                <div class="nav nav-pills" id="pills-tab" role="tablist" aria-orientation="vertical">
-                    <a class="nav-link active w-25 text-center bg-white text-primary py-3 mb-3 rounded-0 font-weight-bold" id="1" data-toggle="pill" href="#overview" role="tab" aria-controls="overview" aria-selected="true">Overview</a>
-                    <a class="nav-link w-25 text-center bg-white text-primary py-3 mb-3 rounded-0 font-weight-bold" id="2" data-toggle="pill" href="#details" role="tab" aria-controls="details" aria-selected="false">Details</a>
-                    <a class="nav-link w-25 text-center bg-white text-primary py-3 mb-3 rounded-0 font-weight-bold" id="3" data-toggle="pill" href="#documents" role="tab" aria-controls="documents" aria-selected="false">Document</a>
-                    <a class="nav-link w-25 text-center bg-white text-primary py-3 mb-3 rounded-0 font-weight-bold" id="4" data-toggle="pill" href="#blog" role="tab" aria-controls="blog" aria-selected="false">Blog<sup class="pl-2"><span class="badge badge-pill badge-success rounded-circle px-2 py-1">3</span></sup></a>
+            <section class="container">
+                <div class="campaign-story sticky-top">
+                    <div class="nav nav-pills" id="pills-tab" role="tablist" aria-orientation="vertical">
+                        <a class="nav-link active w-25 text-center bg-white text-primary px-0 py-3 mb-3 rounded-0 font-weight-bold" id="1" data-toggle="pill" href="#overview" role="tab" aria-controls="overview" aria-selected="true">Overview</a>
+                        <a class="nav-link w-25 text-center bg-white text-primary px-0 py-3 mb-3 rounded-0 font-weight-bold" id="2" data-toggle="pill" href="#details" role="tab" aria-controls="details" aria-selected="false">Details</a>
+                        <a class="nav-link w-25 text-center bg-white text-primary px-0 py-3 mb-3 rounded-0 font-weight-bold" id="3" data-toggle="pill" href="#documents" role="tab" aria-controls="documents" aria-selected="false">Document</a>
+                        <a class="nav-link w-25 text-center bg-white text-primary px-0 py-3 mb-3 rounded-0 font-weight-bold" id="4" data-toggle="pill" href="#blog" role="tab" aria-controls="blog" aria-selected="false">Blog<sup class="pl-2"><span class="badge badge-pill badge-success rounded-circle px-2 py-1">3</span></sup></a>
+                    </div>
                 </div>
             </section>
             <!--single campaign pills content-->
-            <section class="container">
+            <section class="container-fluid">
                 <div class="tab-content" id="pills-tabContent">
                     <!--overview pill-->
                     <div class="tab-pane fade show active" id="overview" role="tabpanel" aria-labelledby="1">
@@ -145,7 +143,7 @@
                                     <h2 class="mb-3">Team members</h2>
                                     <div class="container-fluid">
                                         <div class="row">
-                                            <div class="col-12 col-lg-6 mb-">
+                                            <div class="col-12 col-lg-6 mb-4 pl-0">
                                                 <div class="d-flex align-items-center">
                                                     <!--avatar-->
                                                     <div class="align-self-start">
@@ -161,7 +159,7 @@
                                                     </div>
                                                 </div>
                                             </div>
-                                            <div class="col-12 col-lg-6 mb-">
+                                            <div class="col-12 col-lg-6 mb-4 pl-0">
                                                 <!--avatar-->
                                                 <div class="d-flex align-items-center">
                                                     <div class="align-self-start">
@@ -177,7 +175,7 @@
                                                     </div>
                                                 </div>
                                             </div>
-                                            <div class="col-12 col-lg-6 mb-">
+                                            <div class="col-12 col-lg-6 mb-4 pl-0">
                                                 <!--avatar-->
                                                 <div class="d-flex align-items-center">
                                                     <div class="align-self-start">
@@ -193,7 +191,7 @@
                                                     </div>
                                                 </div>
                                             </div>
-                                            <div class="col-12 col-lg-6 mb-">
+                                            <div class="col-12 col-lg-6 mb-4 pl-0">
                                                 <!--avatar-->
                                                 <div class="d-flex align-items-center">
                                                     <div class="align-self-start">
@@ -209,7 +207,7 @@
                                                     </div>
                                                 </div>
                                             </div>
-                                            <div class="col-12 col-lg-6 mb-">
+                                            <div class="col-12 col-lg-6 mb-4 pl-0">
                                                 <!--avatar-->
                                                 <div class="d-flex align-items-center">
                                                     <div class="align-self-start">
@@ -225,7 +223,7 @@
                                                     </div>
                                                 </div>
                                             </div>
-                                            <div class="col-12 col-lg-6 mb-">
+                                            <div class="col-12 col-lg-6 mb-4 pl-0">
                                                 <!--avatar-->
                                                 <div class="d-flex align-items-center">
                                                     <div class="align-self-start">
@@ -241,7 +239,7 @@
                                                     </div>
                                                 </div>
                                             </div>
-                                            <div class="col-12 col-lg-6 mb-">
+                                            <div class="col-12 col-lg-6 mb-4 pl-0">
                                                 <!--avatar-->
                                                 <div class="d-flex align-items-center">
                                                     <div class="align-self-start">
@@ -257,7 +255,7 @@
                                                     </div>
                                                 </div>
                                             </div>
-                                            <div class="col-12 col-lg-6 mb-">
+                                            <div class="col-12 col-lg-6 mb-4 pl-0">
                                                 <!--avatar-->
                                                 <div class="d-flex align-items-center">
                                                     <div class="align-self-start">
@@ -450,25 +448,23 @@
                                 <!--main-->
                                 <div class="col-12 col-lg-8 mb-3">
                                     <h3 class="text-muted border-bottom m-0 pb-3">Documents</h3>
-                                    <div class="container-fluid">
-                                        <div class="row">
-                                            <div class="col-12 col-lg-6">
-                                                <div class="border-bottom d-flex align-items-center py-3">
-                                                    <i class="fas fa-cloud-download-alt pr-3 text-muted"></i>
-                                                    <a href="#" class="text-success">ANOODELING_pdf.pdf</a>
-                                                </div>
+                                    <div class="row">
+                                        <div class="col-12 col-lg-6">
+                                            <div class="border-bottom d-flex align-items-center py-3">
+                                                <i class="fas fa-cloud fa-2x pr-3 text-muted"></i>
+                                                <a href="#" class="text-success">ANOODELING_pdf.pdf</a>
                                             </div>
-                                            <div class="col-12 col-lg-6">
-                                                <div class="border-bottom d-flex align-items-center py-3">
-                                                    <i class="fas fa-cloud-download-alt pr-3 text-muted"></i>
-                                                    <a href="#" class="text-success">ANOODELING_vib_pdf.pdf</a>
-                                                </div>
+                                        </div>
+                                        <div class="col-12 col-lg-6">
+                                            <div class="border-bottom d-flex align-items-center py-3">
+                                                <i class="fas fa-cloud fa-2x pr-3 text-muted"></i>
+                                                <a href="#" class="text-success">ANOODELING_vib_pdf.pdf</a>
                                             </div>
-                                            <div class="col-12 col-lg-6">
-                                                <div class="border-bottom d-flex align-items-center py-3">
-                                                    <i class="fas fa-cloud-download-alt pr-3 text-muted"></i>
-                                                    <a href="#" class="text-success">ANOODELING_consumer_information_pdf.pdf</a>
-                                                </div>
+                                        </div>
+                                        <div class="col-12 col-lg-6">
+                                            <div class="border-bottom d-flex align-items-center py-3">
+                                                <i class="fas fa-cloud fa-2x pr-3 text-muted"></i>
+                                                <a href="#" class="text-success">ANOODELING_consumer_information_pdf.pdf</a>
                                             </div>
                                         </div>
                                     </div>
@@ -493,70 +489,68 @@
                             <div class="row">
                                 <!--main-->
                                 <div class="col-12 col-lg-8 mb-3">
-                                    <h3 class="border-bottom mb-3 pb-3">Other posts</h3>
-                                    <div class="container-fluid">
-                                        <div class="row pb-3">
-                                            <div class="col-12 col-sm-6">
-                                                <div class="news-single card p-2 mb-4">
-                                                    <div class="card-body p-0 text-dark">
-                                                        <a href="#">
-                                                            <h4 class="news-heading card-title mt-3 text-dark">Proin euismod nisl id nisl consectetur porttitor</h4>
-                                                        </a>
-                                                        <div class="date-author d-flex align-items-baseline">
-                                                            <i class="far fa-clock mr-1 text-muted"></i>
-                                                            <p class="card-subtitle text-muted">September 11, 2017 By
-                                                                <span><a href="#" class="text-success">adminuser </a></span> in<span><a href="#" class="text-success"> Uncategorized</a></span></p>
-                                                        </div>
-                                                        <p class="news-summary card-text text-dark mt-3">Pellentesque consequat fringilla nibh. Nunc quis ante ligula. Duis laoreet diam nisl, tincidunt ultricies velit interdum vitae. Nam et justo facilisis, semper erat sed, pulvinar ligula. Vivamus vel ipsum id nunc mattis rhoncus. In non varius mauris. Nunc efficitur imperdiet quam sit amet tincidunt. Curabitur et sapien elit. Donec sit amet interdum mi. Nam eu</p>
-                                                        <a href="#" class="d-inline-block text-success mb-3">Read more</a>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <div class="col-12 col-sm-6">
-                                                <div class="news-single card p-2 mb-4">
-                                                    <div class="card-body p-0 text-dark">
-                                                        <a href="#">
-                                                            <h4 class="news-heading card-title mt-3 text-dark">Suspendisse potenti</h4>
-                                                        </a>
-                                                        <div class="date-author d-flex align-items-baseline">
-                                                            <i class="far fa-clock mr-1 text-muted"></i>
-                                                            <p class="card-subtitle text-muted">September 11, 2017 By
-                                                                <span>
-                                                                    <a href="#" class="text-success">adminuser </a>
-                                                                </span> in
-                                                                <span>
-                                                                    <a href="#" class="text-success"> Uncategorized</a>
-                                                                </span>
-                                                            </p>
-                                                        </div>
-                                                        <p class="news-summary card-text text-dark mt-3">Nulla cursus congue est, non sagittis lacus congue non. Morbi pretium orci libero, eget mattis nisl porttitor vel. Ut tempus nec massa vel fermentum. Donec egestas vitae libero sit amet malesuada. Integer vel elit sit amet dolor sollicitudin volutpat eget eu neque. Proin vulputate accumsan lacus, non suscipit massa iaculis sed. Donec iaculis dui in</p>
-                                                        <a href="#" class="d-inline-block text-success mb-3">Read more</a>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <div class="col-12 col-sm-6">
-                                                <div class="news-single card p-2 mb-4">
-                                                    <a href="#" class="news-image d-block">
-                                                        <img src="images/news/house.jpg" class="card-img-top img-fluid">
+                                    <h3 class="text-muted border-bottom mb-3 pb-3">Other posts</h3>
+                                    <div class="row pb-3">
+                                        <div class="col-12 col-sm-6">
+                                            <div class="news-single card p-2 mb-4">
+                                                <div class="card-body p-0 text-dark">
+                                                    <a href="#">
+                                                        <h4 class="news-heading card-title mt-3 text-dark">Proin euismod nisl id nisl consectetur porttitor</h4>
                                                     </a>
-                                                    <div class="card-body p-0 text-dark">
-                                                        <a href="#">
-                                                            <h4 class="news-heading card-title mt-3 text-dark">Nunc nec enim at ipsum aliquam rutrum nec et elit</h4>
-                                                        </a>
-                                                        <div class="date-author d-flex align-items-baseline">
-                                                            <i class="far fa-clock mr-1 text-muted"></i>
-                                                            <p class="card-subtitle text-muted">September 11, 2017 By
-                                                                <span>
-                                                                    <a href="#" class="text-success">adminuser </a>
-                                                                </span> in
-                                                                <span>
-                                                                    <a href="#" class="text-success"> Uncategorized</a>
-                                                                </span>
-                                                            </p>
-                                                        </div>
-                                                        <p class="news-summary card-text text-dark mt-3">Maecenas imperdiet arcu id urna fringilla suscipit. Nullam non luctus mauris. Aliquam at orci ut metus congue dapibus. Nullam non turpis in purus porttitor gravida ac nec ligula. Sed at nibh turpis. Etiam porttitor magna vitae augue ullamcorper, ultricies porta quam finibus. Proin diam metus, bibendum eu felis in, accumsan cursus dui. Fusce condimentum feugiat</p>
-                                                        <a href="#" class="d-inline-block text-success mb-3">Read more</a>
+                                                    <div class="date-author d-flex align-items-baseline">
+                                                        <i class="far fa-clock mr-1 text-muted"></i>
+                                                        <p class="card-subtitle text-muted">September 11, 2017 By
+                                                            <span><a href="#" class="text-success">adminuser </a></span> in<span><a href="#" class="text-success"> Uncategorized</a></span></p>
                                                     </div>
+                                                    <p class="news-summary card-text text-dark mt-3">Pellentesque consequat fringilla nibh. Nunc quis ante ligula. Duis laoreet diam nisl, tincidunt ultricies velit interdum vitae. Nam et justo facilisis, semper erat sed, pulvinar ligula. Vivamus vel ipsum id nunc mattis rhoncus. In non varius mauris. Nunc efficitur imperdiet quam sit amet tincidunt. Curabitur et sapien elit. Donec sit amet interdum mi. Nam eu</p>
+                                                    <a href="#" class="d-inline-block text-success mb-3">Read more</a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="col-12 col-sm-6">
+                                            <div class="news-single card p-2 mb-4">
+                                                <div class="card-body p-0 text-dark">
+                                                    <a href="#">
+                                                        <h4 class="news-heading card-title mt-3 text-dark">Suspendisse potenti</h4>
+                                                    </a>
+                                                    <div class="date-author d-flex align-items-baseline">
+                                                        <i class="far fa-clock mr-1 text-muted"></i>
+                                                        <p class="card-subtitle text-muted">September 11, 2017 By
+                                                            <span>
+                                                                <a href="#" class="text-success">adminuser </a>
+                                                            </span> in
+                                                            <span>
+                                                                <a href="#" class="text-success"> Uncategorized</a>
+                                                            </span>
+                                                        </p>
+                                                    </div>
+                                                    <p class="news-summary card-text text-dark mt-3">Nulla cursus congue est, non sagittis lacus congue non. Morbi pretium orci libero, eget mattis nisl porttitor vel. Ut tempus nec massa vel fermentum. Donec egestas vitae libero sit amet malesuada. Integer vel elit sit amet dolor sollicitudin volutpat eget eu neque. Proin vulputate accumsan lacus, non suscipit massa iaculis sed. Donec iaculis dui in</p>
+                                                    <a href="#" class="d-inline-block text-success mb-3">Read more</a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="col-12 col-sm-6">
+                                            <div class="news-single card p-2 mb-4">
+                                                <a href="#" class="news-image d-block">
+                                                    <img src="images/news/house.jpg" class="card-img-top img-fluid">
+                                                </a>
+                                                <div class="card-body p-0 text-dark">
+                                                    <a href="#">
+                                                        <h4 class="news-heading card-title mt-3 text-dark">Nunc nec enim at ipsum aliquam rutrum nec et elit</h4>
+                                                    </a>
+                                                    <div class="date-author d-flex align-items-baseline">
+                                                        <i class="far fa-clock mr-1 text-muted"></i>
+                                                        <p class="card-subtitle text-muted">September 11, 2017 By
+                                                            <span>
+                                                                <a href="#" class="text-success">adminuser </a>
+                                                            </span> in
+                                                            <span>
+                                                                <a href="#" class="text-success"> Uncategorized</a>
+                                                            </span>
+                                                        </p>
+                                                    </div>
+                                                    <p class="news-summary card-text text-dark mt-3">Maecenas imperdiet arcu id urna fringilla suscipit. Nullam non luctus mauris. Aliquam at orci ut metus congue dapibus. Nullam non turpis in purus porttitor gravida ac nec ligula. Sed at nibh turpis. Etiam porttitor magna vitae augue ullamcorper, ultricies porta quam finibus. Proin diam metus, bibendum eu felis in, accumsan cursus dui. Fusce condimentum feugiat</p>
+                                                    <a href="#" class="d-inline-block text-success mb-3">Read more</a>
                                                 </div>
                                             </div>
                                         </div>
