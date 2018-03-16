@@ -6346,6 +6346,11 @@ a:hover {
     .side-nav .side-nav-item:focus {
       box-shadow: 0; }
 
+.campaign-story .nav .active {
+  background-color: #000 !important;
+  color: #fff !important;
+  font-size: 20px; }
+
 .avatar, .avatar-text {
   width: 80px;
   height: 80px; }
