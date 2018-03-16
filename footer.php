@@ -23,7 +23,7 @@
             <section class="questions bg-info py-5 text-white">
                 <div class="container">
                     <div class="content-wrapper py-2 d-flex flex-column flex-lg-row justify-content-lg-center justify-content-around align-items-center align-items-lg-baseline">
-                        <p class="text-success h3 m-0 mx-2">Do you have any questions?</p>
+                        <p class="text-success text-center text-lg-left h3 m-0 mx-2">Do you have any questions?</p>
                         <p class="m-0 mx-2 text-white">Call us | <a href="tel:+431 33 69 069" class="text-light"><i class="fas fa-phone mr-1 text-white"></i>+431 33 69 069</a> </p>
                         <p class="m-0 mx-2 text-white">Write us | <i class="fas fa-envelope mr-1 text-white"></i>
                             <a href="mailto:team@conda.at" class="text-white">team@conda.at</a> </p>

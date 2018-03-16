@@ -11,7 +11,7 @@
                             <a href="#" role="button" class="btn btn-danger btn-lg mb-3 rounded-0 px-4 py-3">
                                 Für Unternehmer
                             </a>
-                            <a href="#" role="button" class="btn btn-success btn-lg ml-3 mb-3 rounded-0 px-4 py-3">
+                            <a href="#" role="button" class="btn btn-success btn-lg ml-5 mb-3 rounded-0 px-4 py-3">
                                 Für Investoren
                             </a>
                         </div>
@@ -24,13 +24,12 @@
                     <section class="content-wrapper-large-screens" style="width:700px;">
                         <h3 class="mb-3 pt-3">Mit CONDA Österreich investieren Sie grenzenlos, in Unternehmen mit Persönlichkeit.</h3>
                         <p class="mb-3">Ab 100 Euro unterstützen Sie Unternehmen durch Ihre Investition und profitieren langfristig von deren Erfolg.</p>
-                        
-                        <button class="btn btn-danger btn-lg border border-danger w-lg-100 mr-4 rounded-0 px-4 py-3">
-                            Für Unternehmer
-                        </button>
-                        <button class="btn btn-success btn-lg border border-success w-lg-100 ml-3 mr-4 rounded-0 px-4 py-3">
+                        <a href="#" role="button" class="btn btn-danger btn-lg mb-3 rounded-0 px-4 py-3">
+                                Für Unternehmer
+                        </a>
+                        <a href="#" role="button" class="btn btn-success btn-lg ml-5 mb-3 rounded-0 px-4 py-3">
                             Für Investoren
-                        </button>
+                        </a>
                     </section>
                 </div>
             </div>
@@ -39,16 +38,16 @@
     <section class="carousel-cover small-screens d-block d-lg-none">
         <div class="owl-one owl-carousel owl-theme">
             <div class="item">
-                <img src="images/index-cover-carousel.jpg" class="img-fluid">
+                <img src="images/index-cover-carousel.jpg" class="img-fluid" style="height:200px;">
                 <section class="content-wrapper bg-primary text-center text-white py-4">
                     <div class="container">
                         <h3 class="mb-3 pt-3">Mit CONDA Österreich investieren Sie grenzenlos, in Unternehmen mit Persönlichkeit.</h3>
                         <p class="mb-3">Ab 100 Euro unterstützen Sie Unternehmen durch Ihre Investition und profitieren langfristig von deren Erfolg.</p>
                         <div class="button-wrapper w-100">
-                            <a href="#" role="button" class="btn btn-danger btn-lg mb-3 rounded-0 px-4 py-3">
+                            <a href="#" role="button" class="btn btn-danger btn-lg w-100 mb-3 rounded-0 px-4 py-3">
                                 Für Unternehmer
                             </a>
-                            <a href="#" role="button" class="btn btn-success btn-lg ml-3 mb-3 rounded-0 px-4 py-3">
+                            <a href="#" role="button" class="btn btn-success btn-lg w-100 mb-3 rounded-0 px-4 py-3">
                                 Für Investoren
                             </a>
                         </div>
@@ -56,18 +55,18 @@
                 </section>
             </div>
             <div class="item">
-                <img src="images/cover2.jpg" class="img-fluid">
+                <img src="images/cover2.jpg" class="img-fluid" style="height:200px;">
                 <section class="content-wrapper bg-primary text-center text-white py-4">
                     <div class="container">
                         <h3 class="mb-3 pt-3">Mit CONDA Österreich investieren Sie grenzenlos, in Unternehmen mit Persönlichkeit.</h3>
                         <p class="mb-3">Ab 100 Euro unterstützen Sie Unternehmen durch Ihre Investition und profitieren langfristig von deren Erfolg.</p>
                         <div class="button-wrapper w-100">
-                            <button class="btn btn-danger btn-lg border border-danger w-100 mb-3 rounded-0 px-4 py-3">
+                            <a href="#" role="button" class="btn btn-danger btn-lg w-100 mb-3 rounded-0 px-4 py-3">
                                 Für Unternehmer
-                            </button>
-                            <button class="btn btn-success btn-lg border border-success w-100 mb-3 rounded-0 px-4 py-3">
+                            </a>
+                            <a href="#" role="button" class="btn btn-success btn-lg w-100 mb-3 rounded-0 px-4 py-3">
                                 Für Investoren
-                            </button>
+                            </a>
                         </div>
                     </div>
                 </section>
@@ -512,7 +511,7 @@
                     </div> <!--END CAMPAIGN-->
                 </div>
                 <div class="d-flex">
-                    <a class="btn btn-success btn-lg py-2 px-3 mx-auto" role="button" href="single-campaign.php">Load More</a>
+                    <a class="btn btn-success btn-lg py-2 px-3 mx-auto" role="button" href="campaigns.php">Load More</a>
                 </div>
             </div>
             
