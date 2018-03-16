@@ -12,8 +12,8 @@
                 <section class="cover py-5 mb-4 bg-primary text-white">
                     <div class="container">
                         <h2 class="text-bottom">Investieren Sie in die Zukunft</h2>
-                        <p class="text-bottom mb-5">CONDA Crowdinvesting ist Ihre Möglichkeit sich direkt an Unternehmen der nächsten Generation zu beteiligen.</p>
-                        <button class="btn btn-danger py-3 px-2 rounded-0 text-uppercase">Projekte entedecken</button>
+                        <p class="text-bottom mb-4">CONDA Crowdinvesting ist Ihre Möglichkeit sich direkt an Unternehmen der nächsten Generation zu beteiligen.</p>
+                        <a role="button" href="index.php" class="btn btn-danger py-3 px-2 rounded-0 text-uppercase">Projekte entedecken</a>
                     </div>
                 </section>
             </div>
