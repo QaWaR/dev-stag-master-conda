@@ -650,5 +650,13 @@
                 </div>           
         </div>
     </section> <!-- END WHAT INVESTORS SAY CAROUSEL -->
+
+    <!-- COOCKIE BAR -->
+    <section class="coockies fixed-bottom bg-primary py-3">
+        <div class="container d-flex justify-content-between align-items-center">
+            <p class="text-white m-0">This is coockie policy</p>
+            <button class="coockie-btn btn btn-success px-2 py-1 m-0" data-dismiss="modal" >I accept</button>
+        </div>
+    </section>
 </main>
 <?php include 'footer.php';?>
