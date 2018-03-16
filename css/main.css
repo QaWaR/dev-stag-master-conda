@@ -6244,6 +6244,18 @@ a.text-new:hover, a.text-new:focus {
   .table-bordered td {
     border: 1px solid #ddd !important; } }
 
+.btn-danger:hover {
+  color: #dc3545 !important;
+  background-color: #fff !important; }
+
+.btn-success:hover {
+  color: #28a745 !important;
+  background-color: #fff !important; }
+
+.btn-secondary:hover {
+  color: #aab6c3 !important;
+  background-color: #fff !important; }
+
 .login-nav a:hover {
   text-decoration: none; }
 
