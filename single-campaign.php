@@ -20,28 +20,23 @@
                     </div>
                     <div class="d-block d-lg-none fixed-bottom bg-white py-3">
                         <div class="container">
-                            <a href="#" class="bth btn-success rounded d-block text-uppercase py-3 text-center font-weight-bold" data-toggle="modal" data-target="#investModal">investieren</a>
-                            <!-- INVEST MODAL -->
-                           <div class="modal fade text-dark" id="investModal">
-                               <div class="modal-dialog">
-                                   <div class="modal-content py-3">
-                                       <div class="container">
-                                        <div class="d-flex">
-                                                <button type="button" class="close ml-auto" data-dismiss="modal" aria-label="Close">
-                                                <span aria-hidden="true">&times;</span>
-                                                </button>
-                                            </div>
-                                            <a href="#" class="btn btn-new">Einloggen</a>
-                                            <div class="d-flex justify-content-center">
-                                                <hr>
-                                                <p class="m-0">Neuer Investor?</p>
-                                                <hr>
-                                            </div>
-                                            <a href="#" class="btn btn-new-inverse">Registriren</a>
-                                        </div>
-                                   </div>
-                               </div>
-                           </div>
+                            <a href="#" class="bth btn-success rounded d-block text-uppercase py-3 text-center font-weight-bold" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">investieren</a>
+                            <div class="dropdown-menu fixed-bottom-login">
+                                <div class="container">
+                                    <div class="d-flex">
+                                        <button type="button" class="close ml-auto mb-3" data-dismiss="modal" aria-label="Close">
+                                        <span aria-hidden="true">&times;</span>
+                                        </button>
+                                    </div>
+                                    <a href="#" class="btn btn-new d-block text-center py-2 mb-3">Einloggen</a>
+                                    <div class="d-flex justify-content-center">
+                                        <hr>
+                                        <p class="mb-3">Neuer Investor?</p>
+                                        <hr>
+                                    </div>
+                                    <a href="#" class="btn btn-new-inverse d-block text-center py-2 mb-3">Registriren</a>
+                                </div>
+                            </div>
                         </div>
                     </div>
                 </div>
@@ -150,11 +145,11 @@
                                     <h2 class="mb-3">Team members</h2>
                                     <div class="container-fluid">
                                         <div class="row">
-                                            <div class="col-12 col-lg-6 mb-3">
+                                            <div class="col-12 col-lg-6 mb-">
                                                 <div class="d-flex align-items-center">
                                                     <!--avatar-->
                                                     <div class="align-self-start">
-                                                        <img class="rounded-circle" src="images/single-campaign/default-avatar.png" alt="">
+                                                        <img class="rounded-circle" src="images/profile-img-default.png" alt="">
                                                     </div>
                                                     <div class="pl-2">
                                                         <h5 class="m-0">Delorian Kubitski</h5>
@@ -166,11 +161,11 @@
                                                     </div>
                                                 </div>
                                             </div>
-                                            <div class="col-12 col-lg-6 mb-3">
+                                            <div class="col-12 col-lg-6 mb-">
                                                 <!--avatar-->
                                                 <div class="d-flex align-items-center">
                                                     <div class="align-self-start">
-                                                        <img class="rounded-circle" src="images/single-campaign/default-avatar.png" alt="">
+                                                        <img class="rounded-circle" src="images/profile-img-default.png" alt="">
                                                     </div>
                                                     <div class="pl-2">
                                                         <h5 class="m-0">Yohana Bach</h5>
@@ -182,11 +177,11 @@
                                                     </div>
                                                 </div>
                                             </div>
-                                            <div class="col-12 col-lg-6 mb-3">
+                                            <div class="col-12 col-lg-6 mb-">
                                                 <!--avatar-->
                                                 <div class="d-flex align-items-center">
                                                     <div class="align-self-start">
-                                                        <img class="rounded-circle" src="images/single-campaign/default-avatar.png" alt="">
+                                                        <img class="rounded-circle" src="images/profile-img-default.png" alt="">
                                                     </div>
                                                     <div class="pl-2">
                                                         <h5 class="m-0">Gerhard Lotus</h5>
@@ -198,11 +193,11 @@
                                                     </div>
                                                 </div>
                                             </div>
-                                            <div class="col-12 col-lg-6 mb-3">
+                                            <div class="col-12 col-lg-6 mb-">
                                                 <!--avatar-->
                                                 <div class="d-flex align-items-center">
                                                     <div class="align-self-start">
-                                                        <img class="rounded-circle" src="images/single-campaign/default-avatar.png" alt="">
+                                                        <img class="rounded-circle" src="images/profile-img-default.png" alt="">
                                                     </div>
                                                     <div class="pl-2">
                                                         <h5 class="m-0">Edward Longstride</h5>
@@ -214,11 +209,11 @@
                                                     </div>
                                                 </div>
                                             </div>
-                                            <div class="col-12 col-lg-6 mb-3">
+                                            <div class="col-12 col-lg-6 mb-">
                                                 <!--avatar-->
                                                 <div class="d-flex align-items-center">
                                                     <div class="align-self-start">
-                                                        <img class="rounded-circle" src="images/single-campaign/default-avatar.png" alt="">
+                                                        <img class="rounded-circle" src="images/profile-img-default.png" alt="">
                                                     </div>
                                                     <div class="pl-2">
                                                         <h5 class="m-0">Fridrih Zetsche</h5>
@@ -230,11 +225,11 @@
                                                     </div>
                                                 </div>
                                             </div>
-                                            <div class="col-12 col-lg-6 mb-3">
+                                            <div class="col-12 col-lg-6 mb-">
                                                 <!--avatar-->
                                                 <div class="d-flex align-items-center">
                                                     <div class="align-self-start">
-                                                        <img class="rounded-circle" src="images/single-campaign/default-avatar.png" alt="">
+                                                        <img class="rounded-circle" src="images/profile-img-default.png" alt="">
                                                     </div>
                                                     <div class="pl-2">
                                                         <h5 class="m-0">Giacomo Lauda</h5>
@@ -246,11 +241,11 @@
                                                     </div>
                                                 </div>
                                             </div>
-                                            <div class="col-12 col-lg-6 mb-3">
+                                            <div class="col-12 col-lg-6 mb-">
                                                 <!--avatar-->
                                                 <div class="d-flex align-items-center">
                                                     <div class="align-self-start">
-                                                        <img class="rounded-circle" src="images/single-campaign/default-avatar.png" alt="">
+                                                        <img class="rounded-circle" src="images/profile-img-default.png" alt="">
                                                     </div>
                                                     <div class="pl-2">
                                                         <h5 class="m-0">Werner Daneken</h5>
@@ -262,11 +257,11 @@
                                                     </div>
                                                 </div>
                                             </div>
-                                            <div class="col-12 col-lg-6 mb-3">
+                                            <div class="col-12 col-lg-6 mb-">
                                                 <!--avatar-->
                                                 <div class="d-flex align-items-center">
                                                     <div class="align-self-start">
-                                                        <img class="rounded-circle" src="images/single-campaign/default-avatar.png" alt="">
+                                                        <img class="rounded-circle" src="images/profile-img-default.png" alt="">
                                                     </div>
                                                     <div class="pl-2">
                                                         <h5 class="m-0">Wolfgang Haig</h5>
