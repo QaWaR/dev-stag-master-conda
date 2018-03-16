@@ -63,7 +63,7 @@
                 </div>
             </section>
             <!--single campaign pills nav-->
-            <section class="container sticky-top">
+            <section class="campaign-story container sticky-top">
                 <div class="nav nav-pills" id="pills-tab" role="tablist" aria-orientation="vertical">
                     <a class="nav-link active w-25 text-center bg-white border-bottom border-success text-primary py-3 mb-3 rounded-0 font-weight-bold" id="1" data-toggle="pill" href="#overview" role="tab" aria-controls="overview" aria-selected="true">Overview</a>
                     <a class="nav-link w-25 text-center bg-white border-bottom border-success text-primary py-3 mb-3 rounded-0 font-weight-bold" id="2" data-toggle="pill" href="#details" role="tab" aria-controls="details" aria-selected="false">Details</a>
