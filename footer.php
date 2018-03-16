@@ -79,6 +79,14 @@
             <div class="copyright-section bg-primary text-white text-center py-2 border-top border-white">
                 <p class="m-0">Urheberrecht © 2017. | Erstellt mit <i class="fas fa-heart text-danger m-0"></i> bei CONDA</p>
             </div>
+            <section class="coockies fixed-bottom bg-primary py-3">
+                <div class="container d-flex justify-content-between align-items-center">
+                    <p class="text-white m-0">This is coockie policy</p>
+                    <button class="coockie-btn btn btn-success px-2 py-1 m-0" data-dismiss="modal" >I accept</button>
+                </div>
+            </section>
+
+
             <script src="assets/jquery/jquery.min.js"></script>
             <script src="js/popper.min.js"></script>
             <script src="node_modules/bootstrap/dist/js/bootstrap.bundle.js"></script>

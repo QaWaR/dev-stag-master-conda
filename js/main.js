@@ -37,3 +37,7 @@ $('.owl-two').owlCarousel({
 $(document).ready(function () {
   $("body").tooltip({ selector: '[data-toggle=tooltip]' });
 });
+
+document.querySelector('.coockie-btn').addEventListener('click', function() {
+  document.querySelector('.coockies').style.display = 'none';
+})
