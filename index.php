@@ -38,7 +38,7 @@
     <section class="carousel-cover small-screens d-block d-lg-none">
         <div class="owl-one owl-carousel owl-theme">
             <div class="item">
-                <img src="images/index-cover-carousel.jpg" class="img-fluid">
+                <img src="images/index-cover-carousel.jpg" class="img-fluid" style="height:200px;">
                 <section class="content-wrapper bg-primary text-center text-white py-4">
                     <div class="container">
                         <h3 class="mb-3 pt-3">Mit CONDA Österreich investieren Sie grenzenlos, in Unternehmen mit Persönlichkeit.</h3>
@@ -55,7 +55,7 @@
                 </section>
             </div>
             <div class="item">
-                <img src="images/cover2.jpg" class="img-fluid">
+                <img src="images/cover2.jpg" class="img-fluid" style="height:200px;">
                 <section class="content-wrapper bg-primary text-center text-white py-4">
                     <div class="container">
                         <h3 class="mb-3 pt-3">Mit CONDA Österreich investieren Sie grenzenlos, in Unternehmen mit Persönlichkeit.</h3>

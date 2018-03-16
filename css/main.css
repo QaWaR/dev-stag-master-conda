@@ -6371,3 +6371,9 @@ a:hover {
 
 .cta-single-link {
   flex: 1; }
+
+@media screen and (max-width: 768px) {
+  .cta-single .cta-icon {
+    font-size: 10px; }
+  .cta-single p {
+    font-size: 15px; } }
