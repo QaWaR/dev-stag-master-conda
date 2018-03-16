@@ -6254,6 +6254,10 @@ a.text-new:hover, a.text-new:focus {
   background-color: #fff !important;
   border: 1px solid #46ad8d !important; }
 
+.btn-primary:hover {
+  color: #333c55 !important;
+  background-color: #fff !important; }
+
 .btn-secondary:hover {
   color: #73879c !important;
   background-color: #fff !important;
