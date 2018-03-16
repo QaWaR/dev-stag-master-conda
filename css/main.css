@@ -6421,3 +6421,7 @@ a:hover {
     font-size: 10px; }
   .cta-single p {
     font-size: 15px; } }
+
+.owl-carousel p,
+.owl-carousel h3 {
+  text-shadow: 1px 1px 4px #73879c; }
