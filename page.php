@@ -959,7 +959,7 @@
                     <a href="#" class="d-block mx-3">
                         <div class="cta-single text-center">
                             <div class="cta-icon d-inline-block py-4 px-4 bg-primary rounded-circle mb-2">
-                                <i class="fas fa-soonspaper fa-fw fa-4x text-white"></i>
+                                <i class="fas fa-newspaper fa-fw fa-4x text-white"></i>
                             </div>
                             <p>Your investment Guide</p>
                         </div>
