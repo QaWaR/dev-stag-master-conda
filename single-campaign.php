@@ -15,8 +15,34 @@
                             </div>
                         </div>
                     </div>
-                    <div class="d-block d-sm-flex justify-content-center mb">
-                        <a href="#" class="btn btn-success btn-lg">INVESTIEREN</a> 
+                    <div class="d-none d-lg-block">
+                        <a href="#" class="btn btn-success btn-lg text-uppercase">investieren</a> 
+                    </div>
+                    <div class="d-block d-lg-none fixed-bottom bg-white py-3">
+                        <div class="container">
+                            <a href="#" class="bth btn-success rounded d-block text-uppercase py-3 text-center font-weight-bold" data-toggle="modal" data-target="#investModal">investieren</a>
+                            <!-- INVEST MODAL -->
+                           <div class="modal fade text-dark" id="investModal">
+                               <div class="modal-dialog">
+                                   <div class="modal-content py-3">
+                                       <div class="container">
+                                        <div class="d-flex">
+                                                <button type="button" class="close ml-auto" data-dismiss="modal" aria-label="Close">
+                                                <span aria-hidden="true">&times;</span>
+                                                </button>
+                                            </div>
+                                            <a href="#" class="btn btn-new">Einloggen</a>
+                                            <div class="d-flex justify-content-center">
+                                                <hr>
+                                                <p class="m-0">Neuer Investor?</p>
+                                                <hr>
+                                            </div>
+                                            <a href="#" class="btn btn-new-inverse">Registriren</a>
+                                        </div>
+                                   </div>
+                               </div>
+                           </div>
+                        </div>
                     </div>
                 </div>
             </section>
