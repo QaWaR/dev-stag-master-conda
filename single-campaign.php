@@ -323,10 +323,10 @@
                                     <!--company details-->
                                     <div class="company-details mb-3">
                                         <h3 class="border-bottom pb-3 mb-3">Company details</h3>
-                                        <div><i class="fas fa-map-marker text-muted pr-2"></i><span class="text-muted">Bruno-Kreisky-Platz 1, 1220 Wien, Wien, Austria</span></div>
-                                        <div><i class="fas fa-phone text-muted pr-2"></i><a href="tel:+1086438517" class="text-success">+1086438517</a></div>
-                                        <div><i class="fas fa-envelope text-muted pr-2"></i><a href="mailto:office@anoodeling.com" class="text-success">office@anoodeling.com</a></div>
-                                        <div><i class="fas fa-link text-muted pr-2"></i><a href="www.anoodeling.com" class="text-success">www.anoodeling.com</a></div>
+                                        <div><i class="fas fa-map-marker text-muted fa-2x pr-2"></i><span class="text-muted">Bruno-Kreisky-Platz 1, 1220 Wien, Wien, Austria</span></div>
+                                        <div><i class="fas fa-phone text-muted fa-2x pr-2"></i><a href="tel:+1086438517" class="text-success">+1086438517</a></div>
+                                        <div><i class="fas fa-envelope text-muted fa-2x pr-2"></i><a href="mailto:office@anoodeling.com" class="text-success">office@anoodeling.com</a></div>
+                                        <div><i class="fas fa-link text-muted fa-2x pr-2"></i><a href="www.anoodeling.com" class="text-success">www.anoodeling.com</a></div>
                                     </div>
                                 </aside>
                             </div>
@@ -432,10 +432,10 @@
                                     <!--company details-->
                                     <div class="company-details mb-3">
                                         <h3 class="border-bottom pb-3 mb-3">Company details</h3>
-                                        <div><i class="fas fa-map-marker text-muted pr-2"></i><span class="text-muted">Bruno-Kreisky-Platz 1, 1220 Wien, Wien, Austria</span></div>
-                                        <div><i class="fas fa-phone text-muted pr-2"></i><a href="tel:+1086438517" class="text-success">+1086438517</a></div>
-                                        <div><i class="fas fa-envelope text-muted pr-2"></i><a href="mailto:office@anoodeling.com" class="text-success">office@anoodeling.com</a></div>
-                                        <div><i class="fas fa-link text-muted pr-2"></i><a href="www.anoodeling.com" class="text-success">www.anoodeling.com</a></div>
+                                        <div><i class="fas fa-map-marker text-muted fa-2x pr-2"></i><span class="text-muted">Bruno-Kreisky-Platz 1, 1220 Wien, Wien, Austria</span></div>
+                                        <div><i class="fas fa-phone text-muted fa-2x pr-2"></i><a href="tel:+1086438517" class="text-success">+1086438517</a></div>
+                                        <div><i class="fas fa-envelope text-muted fa-2x pr-2"></i><a href="mailto:office@anoodeling.com" class="text-success">office@anoodeling.com</a></div>
+                                        <div><i class="fas fa-link text-muted fa-2x pr-2"></i><a href="www.anoodeling.com" class="text-success">www.anoodeling.com</a></div>
                                     </div>
                                 </aside>
                             </div>
@@ -474,7 +474,7 @@
                                     <!--company details-->
                                     <div class="company-details mb-3">
                                         <h3 class="text-muted border-bottom font-weight-normal pb-3 mb-3">Company details</h3>
-                                        <div><i class="fas fa-map-marker text-muted pr-2"></i><span class="text-muted">Bruno-Kreisky-Platz 1, 1220 Wien, Wien, Austria</span></div>
+                                        <div><i class="fas fa-map-marker text-muted fa-2x pr-2"></i><span class="text-muted">Bruno-Kreisky-Platz 1, 1220 Wien, Wien, Austria</span></div>
                                         <div><i class="fas fa-phone text-muted pr-2"></i><a href="tel:+1086438517" class="text-success">+1086438517</a></div>
                                         <div><i class="fas fa-envelope text-muted pr-2"></i><a href="mailto:office@anoodeling.com" class="text-success">office@anoodeling.com</a></div>
                                         <div><i class="fas fa-link text-muted pr-2"></i><a href="www.anoodeling.com" class="text-success">www.anoodeling.com</a></div>
@@ -558,7 +558,7 @@
                                 </div>
                                 <!--aside-->
                                 <aside class="col-12 col-lg-4 campaign-side-short mb-3">
-                                    <!--company details-->
+         fa-2x                           <!--company details-->
                                     <div class="company-details mb-3">
                                         <h3 class="text-muted border-bottom font-weight-normal pb-3 mb-3">Company details</h3>
                                         <div><i class="fas fa-map-marker text-muted pr-2"></i><span class="text-muted">Bruno-Kreisky-Platz 1, 1220 Wien, Wien, Austria</span></div>
