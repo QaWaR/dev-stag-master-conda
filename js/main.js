@@ -2,7 +2,17 @@ $('.carousel').carousel({
   interval: 3000
 });
 
-$('.owl-carousel').owlCarousel({
+$('.owl-one').owlCarousel({
+  loop: true,
+  autoplay: true,
+  dots: false,
+  items: 1,
+  autoplaySpeed: 3000,
+  dragEndSpeed: 1000
+
+});
+
+$('.owl-two').owlCarousel({
   loop: true,
   margin: 10,
   autoplay: true,
@@ -23,6 +33,11 @@ $('.owl-carousel').owlCarousel({
   }
 });
 
+
 $(document).ready(function () {
   $("body").tooltip({ selector: '[data-toggle=tooltip]' });
 });
+
+document.querySelector('.coockie-btn').addEventListener('click', function() {
+  document.querySelector('.coockies').style.display = 'none';
+})

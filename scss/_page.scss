@@ -1,0 +1,44 @@
+.avatar {
+    width: 80px;
+    height: 80px;
+}
+.avatar-text {
+    @extend .avatar;
+    display: flex!important;
+    justify-content: center;
+    align-items: center;
+}
+.page-cover {
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 500px;
+    background-image: url(../images/page-cover.jpg);
+}
+// DISCOVER THE PROJCET SECTION
+.status-single {
+    flex: 1;
+    }
+
+@media screen and (min-width: 992px) {
+    .status-single-wrapper > .status-single {
+        border-left: 1px solid $secondary;
+    } 
+    .status-single:first-child {
+        border: none;
+    }
+}
+
+//CTA SECTION
+.cta-single-link {
+    flex: 1;
+}
+@media screen and (max-width:768px) {
+    .cta-single {
+        .cta-icon {
+        font-size: 10px;
+    }
+    p {
+        font-size: 15px;
+    }
+    }
+}

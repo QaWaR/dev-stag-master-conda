@@ -1,0 +1,42 @@
+.side-nav {
+    display: flex;
+    flex-direction: column;
+    position: fixed;
+    top: 50%;
+    left: 5%;
+    transform: translate( 0, -50%);
+    .side-nav-item {
+        height: 15px;
+        width: 15px;
+        border: 0;
+        padding: 0!important;
+        background-color: $light;
+        &:first-child {
+            margin-bottom: 10px; 
+        }
+        &:hover {
+            background-color: $success!important;
+        }
+        &:focus {
+            box-shadow: 0;
+        }
+    }
+}
+.hidden-login {
+    border-top: 1px solid $secondary;
+}
+.campaign-story .nav {
+    border-bottom: 5px solid transparent!important;
+    .active {
+    border-bottom: 5px solid $success!important;
+    }
+    .nav-link:hover {
+        border-bottom: 5px solid $success!important;
+        }
+}
+.company-basic-info {
+    text-shadow: 2px 2px 2px #000;
+}
+.details-icon {
+    font-size: 30px;
+}

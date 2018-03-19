@@ -1,0 +1,42 @@
+.btn-danger:hover {
+    color: $danger!important;
+    background-color: #fff!important;
+    border: 1px solid $danger!important;
+}
+.btn-success:hover {
+    color: $success!important;
+    background-color: #fff!important;
+    border: 1px solid $success!important;
+}
+.btn-primary:hover {
+    color: $primary!important;
+    background-color: #fff!important;
+}
+.btn-secondary:hover {
+    color: $secondary!important;
+    background-color: #fff!important;
+    border: 1px solid $secondary!important;
+}
+.btn-new {
+    background-color: $new!important;
+    color: #fff!important;
+    border: 1px solid $new!important;
+    border-radius: 500rem!important;
+    &:hover {
+        color: $new!important;
+        background-color: #fff!important;
+    }
+}
+.btn-new-inverse {
+    color: $new!important;
+    background-color: #fff!important;
+    border: 1px solid $new!important;
+    border-radius: 500rem!important;
+    &:hover {
+        color: #fff!important;
+        background-color: $new!important;
+    }
+}
+.fixed-bottom-login {
+    width: 300px!important;
+}
