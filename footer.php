@@ -1,5 +1,5 @@
         <footer>
-            <section class="footer-slider bg-light py-5">
+            <section class="partners-slider bg-light py-5">
                 <div class="container">
                         <div class="owl-two owl-carousel owl-theme py-4">
                             <div class="item mx-5">

@@ -55,3 +55,18 @@ a:hover {
 .info-cell:first-child {
     border: none;
 }
+
+//CAMPAIGN STYLE ON RESPONSIVE
+@media screen and (max-width:576px) {
+    .campaign-invest-scale {
+        margin: 0px 40px!important;
+    }
+    .investment-amounts {
+        text-align: center;
+    }
+    .campaign-failed {
+        .investment-amounts{
+            text-align: left;
+        }
+    }
+}
