@@ -9,20 +9,21 @@ Purpose of this website test version is learning web development basics. To be m
 I will provide you step by step explanations about howt to get deveolpment environment running on your machine.
 
 ^^^ Step 1: Open project with CLI(any kind of terminal window), then type next command:
-```npm install```
-^^^
+```npm install```^^^
+---
 This command will install all of dependencies that are stored in packcage-lock.json file, and that will be cruical to run project correctly, editing and rendering website content. If you want to see list of those dependencies, you can just open package-lock.json file with your text editor, and you will see all of modules under the "dependencies" and under "dev-dependencies". In order to run this command you must have installed npm package manager, if you don't have it, click here and go get it [npm](https://www.npmjs.com/get-npm)
 
 
 ^^^ Step 2: After installing all modules that we are gonna need, go back at your command line and type next command:
-```gulp serve```
-^^^
+```gulp serve```^^^
+---
 This command will get in action our gulpfile.js file. This file was written in javascript programming language and his purpose is to watch and compile scss files into css files. If you want to make some changes in gulpfile.js, please do this only if you understand principles of gulp and how it works, otherwise it can be destructive and cause problems with compiling.
 
 ^^^ Step 3: Please, make sure you are running this project on local or remote server, in order to render website pages that were written in PHP. In order to do this you will probably need web server software, in our case we used Laragon [click here to check](https://laragon.org/). One of alternatives is XAMMP.
 
 ## Contributors
 Milos Pavlovic - [Milos's gitHub profile](https://github.com/milospav7)
+---
 Nebojsa Nikolic - [Nebojsa's gitHub profile](https://github.com/QaWaR)
 
 ## Additional details about website and development tools
