@@ -21,7 +21,8 @@ This command will install all of dependencies that are stored in packcage-lock.j
 This command will get in action our gulpfile.js file. This file was written in javascript programming language and his purpose is to watch and compile scss files into css files. If you want to make some changes in gulpfile.js, please do this only if you understand principles of gulp and how it works, otherwise it can be destructive and cause problems with compiling.
 ***
 
-Step 3: Please, make sure you are running this project on local or remote server, in order to render website pages that were written in PHP. In order to do this you will probably need web server software, in our case we used Laragon [click here to check](https://laragon.org/). One of alternatives is XAMMP.
+### Step 3: <br>
+Please, make sure you are running this project on local or remote server, in order to render website pages that were written in PHP. In order to do this you will probably need web server software, in our case we used Laragon [click here to check](https://laragon.org/). One of alternatives is XAMMP.
 
 ## Contributors
 Milos Pavlovic - [Milos's gitHub profile](https://github.com/milospav7)
