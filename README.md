@@ -25,8 +25,7 @@ This command will get in action our gulpfile.js file. This file was written in j
 Please, make sure you are running this project on local or remote server, in order to render website pages that were written in PHP. In order to do this you will probably need web server software, in our case we used Laragon [click here to check](https://laragon.org/). One of alternatives is XAMMP.
 
 ## Contributors
-Milos Pavlovic - [Milos's gitHub profile](https://github.com/milospav7)
-***
+Milos Pavlovic - [Milos's gitHub profile](https://github.com/milospav7) <br>
 Nebojsa Nikolic - [Nebojsa's gitHub profile](https://github.com/QaWaR)
 
 ## Additional details about website and development tools
