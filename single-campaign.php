@@ -60,9 +60,9 @@
                                 <h5 class="font-weight-light text-secondary py-3">STARTET BALD</h5>
                                 <div class="campaign-invest-wrapper text-secondary d-flex flex-column flex-sm-row justify-content-around"><!-- CAMPAIGN KNOB(SCALE) WITH CURRENT INVESTMENT STATUS AND BASIC INFO-->   
                                     <div class="campaign-invest-scale rounded-circle border border-secondary p-3  mr-3 text-center"><!-- SCALE -->
-                                        <p class="investment-total-amount font-weight-bold m-0 mt-3">220.500&euro;</p>
-                                        <p class="investors-number text-secondary">22 Investors</p>
-                                        <p class="investment-completed">18%</p>
+                                        <p class="investment-total-amount font-weight-bold m-0 mt-3">0&euro;</p>
+                                        <p class="investors-number text-secondary">0 Investors</p>
+                                        <p class="investment-completed">0%</p>
                                     </div> <!--END-->  
                                     <div class="investment-amounts align-self-center pt-3"><!-- BASIC INFO ABOUT INVESTMENTS -->
                                         <p class="text-secondary"><span class="investment-min d-block h4 m-0 text-secondary">500.000<sup class="currency">&euro;</sup></span> Minimum Investment</p>
@@ -131,15 +131,15 @@
                                         <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/5SVN9x7Uv74" allowfullscreen></iframe>
                                     </div>
                                     <h1 class="company-name mb-3 text-primary font-weight-normal">Anoodeling</h1>
-                                    <p>Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Nullam urna orci, vestibulum id ante ut, varius molestie arcu. Etiam scelerisque erat accumsan libero egestas ornare. Mauris mattis neque at metus condimentum suscipit. Nullam cursus libero sed diam volutpat semper. Sed sit amet dolor porta, sagittis felis vitae, sagittis lorem. Sed porttitor porttitor dolor, vel fringilla eros maximus id. Nulla semper tempor dapibus. Ut ex ipsum, placerat ut tortor vitae, laoreet lobortis arcu.Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Nullam urna orci, vestibulum id ante ut, varius molestie arcu. Etiam scelerisque erat accumsan libero egestas ornare. Mauris mattis neque at metus condimentum suscipit. Nullam cursus libero sed diam volutpat semper. Sed sit amet dolor porta, sagittis felis vitae, sagittis lorem. Sed porttitor porttitor dolor, vel fringilla eros maximus id. Nulla semper tempor dapibus. Ut ex ipsum, placerat ut tortor vitae, laoreet lobortis arcu.</p>
+                                    <p class="text-secondary">Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Nullam urna orci, vestibulum id ante ut, varius molestie arcu. Etiam scelerisque erat accumsan libero egestas ornare. Mauris mattis neque at metus condimentum suscipit. Nullam cursus libero sed diam volutpat semper. Sed sit amet dolor porta, sagittis felis vitae, sagittis lorem. Sed porttitor porttitor dolor, vel fringilla eros maximus id. Nulla semper tempor dapibus. Ut ex ipsum, placerat ut tortor vitae, laoreet lobortis arcu.Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Nullam urna orci, vestibulum id ante ut, varius molestie arcu. Etiam scelerisque erat accumsan libero egestas ornare. Mauris mattis neque at metus condimentum suscipit. Nullam cursus libero sed diam volutpat semper. Sed sit amet dolor porta, sagittis felis vitae, sagittis lorem. Sed porttitor porttitor dolor, vel fringilla eros maximus id. Nulla semper tempor dapibus. Ut ex ipsum, placerat ut tortor vitae, laoreet lobortis arcu.</p>
                                     <img class="w-100 mb-3" src="images/single-campaign/Story_image_01.jpg" alt="">
-                                    <ol>
+                                    <ol class="text-secondary">
                                         <li>Sed porttitor porttitor dolor, vel fringilla eros maximus id</li>
                                         <li>Sed porttitor porttitor dolor, vel fringilla eros maximus id</li>
                                         <li>Sed porttitor porttitor dolor, vel fringilla eros maximus id</li>
                                         <li>Sed porttitor porttitor dolor, vel fringilla eros maximus id</li>
                                     </ol>
-                                    <p>Nullam urna orci, vestibulum id ante ut, varius molestie arcu. Etiam scelerisque erat accumsan libero egestas ornare. Mauris mattis neque at metus condimentum suscipit. Nullam cursus libero sed diam volutpat semper. Sed sit amet dolor porta, sagittis felis vitae, sagittis lorem. Sed porttitor porttitor dolor, vel fringilla eros maximus id. Nulla semper tempor dapibus. Ut ex ipsum, placerat ut tortor vitae, laoreet lobortis arcu.</p>
+                                    <p class="text-secondary">Nullam urna orci, vestibulum id ante ut, varius molestie arcu. Etiam scelerisque erat accumsan libero egestas ornare. Mauris mattis neque at metus condimentum suscipit. Nullam cursus libero sed diam volutpat semper. Sed sit amet dolor porta, sagittis felis vitae, sagittis lorem. Sed porttitor porttitor dolor, vel fringilla eros maximus id. Nulla semper tempor dapibus. Ut ex ipsum, placerat ut tortor vitae, laoreet lobortis arcu.</p>
                                     <h2 class="mb-3 font-weight-normal text-primary">Team members</h2>
                                     <div class="container-fluid">
                                         <div class="row">
@@ -150,9 +150,9 @@
                                                         <img class="rounded-circle avatar" src="images/profile-img-default.png" alt="">
                                                     </div>
                                                     <div class="pl-2">
-                                                        <h5 class="m-0 text-primary">Delorian Kubitski</h5>
+                                                        <h5 class="m-0 text-secondary">Delorian Kubitski</h5>
                                                         <p class="m-0">CEO</p>
-                                                        <a href="#" class="text-success" data-toggle="collapse" data-target="#accordion1" aria-expanded="true" aria-controls="accordion1 font-weight-bold"><em>Biography</em></a>
+                                                        <a href="#" class="text-success" data-toggle="collapse" data-target="#accordion1" aria-expanded="true" aria-controls="accordion1"><em class="font-weight-bold">Biography</em><i class="fas fa-plus ml-2"></i></a>
                                                         <div id="accordion1" class="collapse">
                                                             <p>Aliquam erat volutpat. Aliquam libero ipsum, sollicitudin vel interdum eu, faucibus at velit. Integer consequat felis eu purus tempor, sed venenatis sapien aliquet. Nunc placerat eu ipsum a interdum. Vestibulum convallis purus mi, et porttitor erat vulputate eget. Aliquam non ante iaculis, fringilla metus id, ornare dolor. Nunc pretium leo a est tristique, id bibendum massa rutrum.</p>
                                                         </div>
@@ -166,9 +166,9 @@
                                                         <img class="rounded-circle avatar" src="images/profile-img-default.png" alt="">
                                                     </div>
                                                     <div class="pl-2">
-                                                        <h5 class="m-0 text-primary">Yohana Bach</h5>
+                                                        <h5 class="m-0 text-secondary">Yohana Bach</h5>
                                                         <p class="m-0">Investor</p>
-                                                        <a href="#" class="text-success" data-toggle="collapse" data-target="#accordion2" aria-expanded="true" aria-controls="accordion2 font-weight-bold"><em>Biography</em></a>
+                                                        <a href="#" class="text-success" data-toggle="collapse" data-target="#accordion2" aria-expanded="true" aria-controls="accordion2"><em class="font-weight-bold">Biography</em><i class="fas fa-plus ml-2"></i></a>
                                                         <div id="accordion2" class="collapse">
                                                             <p>Aliquam erat volutpat. Aliquam libero ipsum, sollicitudin vel interdum eu, faucibus at velit. Integer consequat felis eu purus tempor, sed venenatis sapien aliquet. Nunc placerat eu ipsum a interdum. Vestibulum convallis purus mi, et porttitor erat vulputate eget. Aliquam non ante iaculis, fringilla metus id, ornare dolor. Nunc pretium leo a est tristique, id bibendum massa rutrum.</p>
                                                         </div>
@@ -182,9 +182,9 @@
                                                         <img class="rounded-circle avatar" src="images/profile-img-default.png" alt="">
                                                     </div>
                                                     <div class="pl-2">
-                                                        <h5 class="m-0 text-primary">Gerhard Lotus</h5>
+                                                        <h5 class="m-0 text-secondary">Gerhard Lotus</h5>
                                                         <p class="m-0">COO</p>
-                                                        <a href="#" class="text-success" data-toggle="collapse" data-target="#accordion3" aria-expanded="true" aria-controls="accordion3 font-weight-bold"><em>Biography</em></a>
+                                                        <a href="#" class="text-success" data-toggle="collapse" data-target="#accordion3" aria-expanded="true" aria-controls="accordion3"><em class="font-weight-bold">Biography</em><i class="fas fa-plus ml-2"></i></a>
                                                         <div id="accordion3" class="collapse">
                                                             <p>Aliquam erat volutpat. Aliquam libero ipsum, sollicitudin vel interdum eu, faucibus at velit. Integer consequat felis eu purus tempor, sed venenatis sapien aliquet. Nunc placerat eu ipsum a interdum. Vestibulum convallis purus mi, et porttitor erat vulputate eget. Aliquam non ante iaculis, fringilla metus id, ornare dolor. Nunc pretium leo a est tristique, id bibendum massa rutrum.</p>
                                                         </div>
@@ -198,9 +198,9 @@
                                                         <img class="rounded-circle avatar" src="images/profile-img-default.png" alt="">
                                                     </div>
                                                     <div class="pl-2">
-                                                        <h5 class="m-0 text-primary">Edward Longstride</h5>
+                                                        <h5 class="m-0 text-secondary">Edward Longstride</h5>
                                                         <p class="m-0">Investor</p>
-                                                        <a href="#" class="text-success" data-toggle="collapse" data-target="#accordion4" aria-expanded="true" aria-controls="accordion4 font-weight-bold"><em>Biography</em></a>
+                                                        <a href="#" class="text-success" data-toggle="collapse" data-target="#accordion4" aria-expanded="true" aria-controls="accordion4"><em class="font-weight-bold">Biography</em><i class="fas fa-plus ml-2"></i></a>
                                                         <div id="accordion4" class="collapse">
                                                             <p>Aliquam erat volutpat. Aliquam libero ipsum, sollicitudin vel interdum eu, faucibus at velit. Integer consequat felis eu purus tempor, sed venenatis sapien aliquet. Nunc placerat eu ipsum a interdum. Vestibulum convallis purus mi, et porttitor erat vulputate eget. Aliquam non ante iaculis, fringilla metus id, ornare dolor. Nunc pretium leo a est tristique, id bibendum massa rutrum.</p>
                                                         </div>
@@ -214,9 +214,9 @@
                                                         <img class="rounded-circle avatar" src="images/profile-img-default.png" alt="">
                                                     </div>
                                                     <div class="pl-2">
-                                                        <h5 class="m-0 text-primary">Fridrih Zetsche</h5>
+                                                        <h5 class="m-0 text-secondary">Fridrih Zetsche</h5>
                                                         <p class="m-0">CIO</p>
-                                                        <a href="#" class="text-success" data-toggle="collapse" data-target="#accordion5" aria-expanded="true" aria-controls="accordion5 font-weight-bold"><em>Biography</em></a>
+                                                        <a href="#" class="text-success" data-toggle="collapse" data-target="#accordion5" aria-expanded="true" aria-controls="accordion5"><em class="font-weight-bold">Biography</em><i class="fas fa-plus ml-2"></i></a>
                                                         <div id="accordion5" class="collapse">
                                                             <p>Aliquam erat volutpat. Aliquam libero ipsum, sollicitudin vel interdum eu, faucibus at velit. Integer consequat felis eu purus tempor, sed venenatis sapien aliquet. Nunc placerat eu ipsum a interdum. Vestibulum convallis purus mi, et porttitor erat vulputate eget. Aliquam non ante iaculis, fringilla metus id, ornare dolor. Nunc pretium leo a est tristique, id bibendum massa rutrum.</p>
                                                         </div>
@@ -230,9 +230,9 @@
                                                         <img class="rounded-circle avatar" src="images/profile-img-default.png" alt="">
                                                     </div>
                                                     <div class="pl-2">
-                                                        <h5 class="m-0 text-primary">Giacomo Lauda</h5>
+                                                        <h5 class="m-0 text-secondary">Giacomo Lauda</h5>
                                                         <p class="m-0">Investor</p>
-                                                        <a href="#" class="text-success" data-toggle="collapse" data-target="#accordion6" aria-expanded="true" aria-controls="accordion6 font-weight-bold"><em>Biography</em></a>
+                                                        <a href="#" class="text-success" data-toggle="collapse" data-target="#accordion6" aria-expanded="true" aria-controls="accordion6"><em class="font-weight-bold">Biography</em><i class="fas fa-plus ml-2"></i></a>
                                                         <div id="accordion6" class="collapse">
                                                             <p>Aliquam erat volutpat. Aliquam libero ipsum, sollicitudin vel interdum eu, faucibus at velit. Integer consequat felis eu purus tempor, sed venenatis sapien aliquet. Nunc placerat eu ipsum a interdum. Vestibulum convallis purus mi, et porttitor erat vulputate eget. Aliquam non ante iaculis, fringilla metus id, ornare dolor. Nunc pretium leo a est tristique, id bibendum massa rutrum.</p>
                                                         </div>
@@ -246,9 +246,9 @@
                                                         <img class="rounded-circle avatar" src="images/profile-img-default.png" alt="">
                                                     </div>
                                                     <div class="pl-2">
-                                                        <h5 class="m-0 text-primary">Werner Daneken</h5>
+                                                        <h5 class="m-0 text-secondary">Werner Daneken</h5>
                                                         <p class="m-0">CMO</p>
-                                                        <a href="#" class="text-success" data-toggle="collapse" data-target="#accordion7" aria-expanded="true" aria-controls="accordion7 font-weight-bold"><em>Biography</em></a>
+                                                        <a href="#" class="text-success" data-toggle="collapse" data-target="#accordion7" aria-expanded="true" aria-controls="accordion7"><em class="font-weight-bold">Biography</em><i class="fas fa-plus ml-2"></i></a>
                                                         <div id="accordion7" class="collapse">
                                                             <p>Aliquam erat volutpat. Aliquam libero ipsum, sollicitudin vel interdum eu, faucibus at velit. Integer consequat felis eu purus tempor, sed venenatis sapien aliquet. Nunc placerat eu ipsum a interdum. Vestibulum convallis purus mi, et porttitor erat vulputate eget. Aliquam non ante iaculis, fringilla metus id, ornare dolor. Nunc pretium leo a est tristique, id bibendum massa rutrum.</p>
                                                         </div>
@@ -262,9 +262,9 @@
                                                         <img class="rounded-circle avatar" src="images/profile-img-default.png" alt="">
                                                     </div>
                                                     <div class="pl-2">
-                                                        <h5 class="m-0 text-primary">Wolfgang Haig</h5>
+                                                        <h5 class="m-0 text-secondary">Wolfgang Haig</h5>
                                                         <p class="m-0">Investor</p>
-                                                        <a href="#" class="text-success" data-toggle="collapse" data-target="#accordion8" aria-expanded="true" aria-controls="accordion8 font-weight-bold"><em>Biography</em></a>
+                                                        <a href="#" class="text-success" data-toggle="collapse" data-target="#accordion8" aria-expanded="true" aria-controls="accordion8"><em class="font-weight-bold">Biography</em><i class="fas fa-plus ml-2"></i></a>
                                                         <div id="accordion8" class="collapse">
                                                             <p>Aliquam erat volutpat. Aliquam libero ipsum, sollicitudin vel interdum eu, faucibus at velit. Integer consequat felis eu purus tempor, sed venenatis sapien aliquet. Nunc placerat eu ipsum a interdum. Vestibulum convallis purus mi, et porttitor erat vulputate eget. Aliquam non ante iaculis, fringilla metus id, ornare dolor. Nunc pretium leo a est tristique, id bibendum massa rutrum.</p>
                                                         </div>
@@ -276,25 +276,25 @@
                                 </div>
                                 <!--aside-->
                                 <aside class="col-12 col-lg-4 campaign-side mb-3">
-                                    <h4 class="text-primary border-bottom font-weight-normal pb-3 mb-3">Additional info</h4>
+                                    <h4 class="text-secondary border-bottom font-weight-normal pb-3 mb-3">Additional info</h4>
                                     <div class="border-bottom my-3 pb-3">
                                         <a href="#" class="text-success">placerat ut tortor vitae, laoreet lobortis arcu: </a>
-                                        <span>JA, am Laufzeitende</span>
+                                        <span class="text-secondary">JA, am Laufzeitende</span>
                                         <a href="#" class="text-success">Ut ex ipsum:</a>
-                                        <span>
+                                        <span class="text-secondary">
                                             4,5%<br>
                                             Minimaler Zeichnungsbetrag: EUR 7.000<br>
                                             Maximaler Zeichnungsbetrag: EUR 20.000<br>
                                             (<a class="text-success" href="#">Beträge auf Nachfrage möglich</a>)Vertragslaufzeit: 8 Jahre<br>
                                         </span>
                                         <a href="#" class="text-success">Beteiligungsform: </a>
-                                        <span>Nachrangdarlehen</span>
+                                        <span class="text-secondary">Nachrangdarlehen</span>
                                     </div>
                                     <div class="border-bottom mb-3">
                                         <div class="mb-3">
-                                            <u class="font-weight-bold">WARNHINWEIS: Class aptent taciti sociosqu ad litora torquent per conubia nostra.</u>
+                                            <u class="font-weight-bold text-secondary">WARNHINWEIS: Class aptent taciti sociosqu ad litora torquent per conubia nostra.</u>
                                         </div>
-                                        <p>Im Sinne der Risikostreuung sollten möglichst nur Geldbeträge investiert werden, die in näherer Zukunft auch liquide nicht benötigt bzw. zurückerwartet werden. Verantwortlich für sämtliche Inhalte und Angaben auf dieser Seite ist ausschließlich die Emittentin selbst, sie ist Anbieter dieser Vermögensanlage. Seitens des Betreibers der Internet-Dienstleistungsplattform wird keine Haftung für die Richtigkeit und Aktualität der Inhalte übernommen.</p>
+                                        <p class="text-secondary">Im Sinne der Risikostreuung sollten möglichst nur Geldbeträge investiert werden, die in näherer Zukunft auch liquide nicht benötigt bzw. zurückerwartet werden. Verantwortlich für sämtliche Inhalte und Angaben auf dieser Seite ist ausschließlich die Emittentin selbst, sie ist Anbieter dieser Vermögensanlage. Seitens des Betreibers der Internet-Dienstleistungsplattform wird keine Haftung für die Richtigkeit und Aktualität der Inhalte übernommen.</p>
                                     </div>
                                     <div class="mb-5">
                                         <a href="#" class="text-success d-block">Welches Risiko habe ich als Investor?</a>
@@ -302,29 +302,29 @@
                                     </div>
                                     <!--incentives-->
                                     <div class="incentives">
-                                        <h4 class="text-primary border-bottom font-weight-normal pb-3 mb-3">Incentives for your investment</h4>
+                                        <h4 class="text-secondary border-bottom font-weight-normal pb-3 mb-3">Incentives for your investment</h4>
                                         <div class="incentive">
                                             <div class="border-bottom mb-3">
-                                                <h5 class="incentive-package">Bronze</h5>
+                                                <h5 class="incentive-package text-secondary">Bronze</h5>
                                                 <div class="d-flex mb-3">
-                                                    <h1 class="incentive-price m-0">5.000<sup>€</sup><span class="pl-4 h5">Investment</span></h1>
+                                                    <h1 class="incentive-price m-0 text-secondary">5.000<sup>€</sup><span class="pl-4 h5">Investment</span></h1>
                                                 </div>
-                                                <p>Lorem ipsum dolor sit amet, cetero nonumes consetetur est eu, sea graece lucilius incorrupte an, in euismod deleniti his. Vidit offendit phaedrum ea eos, sea paulo omittam eu, quis tollit ea sit. In cum nulla movet urbanitas, falli copiosae in quo. Usu utamur meliore ea, justo ancillae te mei. Vis aperiam euripidis eloquentiam te.Lorem ipsum dolor sit amet, cetero nonumes consetetur est eu, sea graece lucilius incorrupte an, in euismod deleniti his. Vidit offendit phaedrum ea eos, sea paulo omittam eu, quis tollit ea sit. In cum nulla movet urbanitas, falli copiosae in quo. Usu utamur meliore ea, justo ancillae te mei. Vis aperiam euripidis eloquentiam te.</p>
+                                                <p class="text-secondary">Lorem ipsum dolor sit amet, cetero nonumes consetetur est eu, sea graece lucilius incorrupte an, in euismod deleniti his. Vidit offendit phaedrum ea eos, sea paulo omittam eu, quis tollit ea sit. In cum nulla movet urbanitas, falli copiosae in quo. Usu utamur meliore ea, justo ancillae te mei. Vis aperiam euripidis eloquentiam te.Lorem ipsum dolor sit amet, cetero nonumes consetetur est eu, sea graece lucilius incorrupte an, in euismod deleniti his. Vidit offendit phaedrum ea eos, sea paulo omittam eu, quis tollit ea sit. In cum nulla movet urbanitas, falli copiosae in quo. Usu utamur meliore ea, justo ancillae te mei. Vis aperiam euripidis eloquentiam te.</p>
                                             </div>
                                         </div>
                                         <div class="incentive">
                                             <div class="border-bottom mb-3">
-                                                <h5 class="incentive-package">Gold</h5>
+                                                <h5 class="incentive-package text-secondary">Gold</h5>
                                                 <div class="d-flex mb-3">
-                                                    <h1 class="incentive-price m-0">10.000<sup>€</sup><span class="pl-4 h5">Investment</span></h1>
+                                                    <h1 class="incentive-price m-0 text-secondary">10.000<sup>€</sup><span class="pl-4 h5">Investment</span></h1>
                                                 </div>
-                                                <p>Lorem ipsum dolor sit amet, cetero nonumes consetetur est eu, sea graece lucilius incorrupte an, in euismod deleniti his. Vidit offendit phaedrum ea eos, sea paulo omittam eu, quis tollit ea sit. In cum nulla movet urbanitas, falli copiosae in quo. Usu utamur meliore ea, justo ancillae te mei. Vis aperiam euripidis eloquentiam te.Lorem ipsum dolor sit amet, cetero nonumes consetetur est eu, sea graece lucilius incorrupte an, in euismod deleniti his. Vidit offendit phaedrum ea eos, sea paulo omittam eu, quis tollit ea sit. In cum nulla movet urbanitas, falli copiosae in quo. Usu utamur meliore ea, justo ancillae te mei. Vis aperiam euripidis eloquentiam te.</p>
+                                                <p class="text-secondary">Lorem ipsum dolor sit amet, cetero nonumes consetetur est eu, sea graece lucilius incorrupte an, in euismod deleniti his. Vidit offendit phaedrum ea eos, sea paulo omittam eu, quis tollit ea sit. In cum nulla movet urbanitas, falli copiosae in quo. Usu utamur meliore ea, justo ancillae te mei. Vis aperiam euripidis eloquentiam te.Lorem ipsum dolor sit amet, cetero nonumes consetetur est eu, sea graece lucilius incorrupte an, in euismod deleniti his. Vidit offendit phaedrum ea eos, sea paulo omittam eu, quis tollit ea sit. In cum nulla movet urbanitas, falli copiosae in quo. Usu utamur meliore ea, justo ancillae te mei. Vis aperiam euripidis eloquentiam te.</p>
                                             </div>
                                         </div>
                                     </div>
                                     <!--company details-->
                                     <div class="company-details mb-3">
-                                        <h3 class="text-primary border-bottom font-weight-normal pb-3 mb-3">Company details</h3>
+                                        <h3 class="text-secondary border-bottom font-weight-normal pb-3 mb-3">Company details</h3>
                                         <div class="d-flex align-items-center"><i class="fas fa-map-marker pr-2 details-icon"></i><span class="text-gray-600">Bruno-Kreisky-Platz 1, 1220 Wien, Wien, Austria</span></div>
                                         <div class="d-flex align-items-center"><i class="fas fa-phone pr-2 details-icon"></i><a href="tel:+1086438517" class="text-success">+1086438517</a></div>
                                         <div class="d-flex align-items-center"><i class="fas fa-envelope pr-2 details-icon"></i><a href="mailto:office@anoodeling.com" class="text-success">office@anoodeling.com</a></div>
@@ -383,25 +383,25 @@
                                 </div>
                                 <!--aside-->
                                 <aside class="col-12 col-lg-4 campaign-side mb-3">
-                                    <h4 class="text-primary border-bottom font-weight-normal pb-3 mb-3">Additional info</h4>
+                                    <h4 class="text-secondary border-bottom font-weight-normal pb-3 mb-3">Additional info</h4>
                                     <div class="border-bottom my-3 pb-3">
                                         <a href="#" class="text-success">placerat ut tortor vitae, laoreet lobortis arcu: </a>
-                                        <span>JA, am Laufzeitende</span>
+                                        <span class="text-secondary">JA, am Laufzeitende</span>
                                         <a href="#" class="text-success">Ut ex ipsum:</a>
-                                        <span>
+                                        <span class="text-secondary">
                                             4,5%<br>
                                             Minimaler Zeichnungsbetrag: EUR 7.000<br>
                                             Maximaler Zeichnungsbetrag: EUR 20.000<br>
                                             (<a class="text-success" href="#">Beträge auf Nachfrage möglich</a>)Vertragslaufzeit: 8 Jahre<br>
                                         </span>
                                         <a href="#" class="text-success">Beteiligungsform: </a>
-                                        <span>Nachrangdarlehen</span>
+                                        <span class="text-secondary">Nachrangdarlehen</span>
                                     </div>
                                     <div class="border-bottom mb-3">
                                         <div class="mb-3">
-                                            <u class="font-weight-bold">WARNHINWEIS: Class aptent taciti sociosqu ad litora torquent per conubia nostra.</u>
+                                            <u class="font-weight-bold text-secondary">WARNHINWEIS: Class aptent taciti sociosqu ad litora torquent per conubia nostra.</u>
                                         </div>
-                                        <p>Im Sinne der Risikostreuung sollten möglichst nur Geldbeträge investiert werden, die in näherer Zukunft auch liquide nicht benötigt bzw. zurückerwartet werden. Verantwortlich für sämtliche Inhalte und Angaben auf dieser Seite ist ausschließlich die Emittentin selbst, sie ist Anbieter dieser Vermögensanlage. Seitens des Betreibers der Internet-Dienstleistungsplattform wird keine Haftung für die Richtigkeit und Aktualität der Inhalte übernommen.</p>
+                                        <p class="text-secondary">Im Sinne der Risikostreuung sollten möglichst nur Geldbeträge investiert werden, die in näherer Zukunft auch liquide nicht benötigt bzw. zurückerwartet werden. Verantwortlich für sämtliche Inhalte und Angaben auf dieser Seite ist ausschließlich die Emittentin selbst, sie ist Anbieter dieser Vermögensanlage. Seitens des Betreibers der Internet-Dienstleistungsplattform wird keine Haftung für die Richtigkeit und Aktualität der Inhalte übernommen.</p>
                                     </div>
                                     <div class="mb-5">
                                         <a href="#" class="text-success d-block">Welches Risiko habe ich als Investor?</a>
@@ -409,29 +409,29 @@
                                     </div>
                                     <!--incentives-->
                                     <div class="incentives">
-                                        <h4 class="text-primary border-bottom font-weight-normal pb-3 mb-3">Incentives for your investment</h4>
+                                        <h4 class="text-secondary border-bottom font-weight-normal pb-3 mb-3">Incentives for your investment</h4>
                                         <div class="incentive">
                                             <div class="border-bottom mb-3">
-                                                <h5 class="incentive-package">Bronze</h5>
+                                                <h5 class="incentive-package text-secondary">Bronze</h5>
                                                 <div class="d-flex mb-3">
-                                                    <h1 class="incentive-price m-0">5.000<sup>€</sup><span class="pl-4 h5">Investment</span></h1>
+                                                    <h1 class="incentive-price m-0 text-secondary">5.000<sup>€</sup><span class="pl-4 h5">Investment</span></h1>
                                                 </div>
-                                                <p>Lorem ipsum dolor sit amet, cetero nonumes consetetur est eu, sea graece lucilius incorrupte an, in euismod deleniti his. Vidit offendit phaedrum ea eos, sea paulo omittam eu, quis tollit ea sit. In cum nulla movet urbanitas, falli copiosae in quo. Usu utamur meliore ea, justo ancillae te mei. Vis aperiam euripidis eloquentiam te.Lorem ipsum dolor sit amet, cetero nonumes consetetur est eu, sea graece lucilius incorrupte an, in euismod deleniti his. Vidit offendit phaedrum ea eos, sea paulo omittam eu, quis tollit ea sit. In cum nulla movet urbanitas, falli copiosae in quo. Usu utamur meliore ea, justo ancillae te mei. Vis aperiam euripidis eloquentiam te.</p>
+                                                <p class="text-secondary">Lorem ipsum dolor sit amet, cetero nonumes consetetur est eu, sea graece lucilius incorrupte an, in euismod deleniti his. Vidit offendit phaedrum ea eos, sea paulo omittam eu, quis tollit ea sit. In cum nulla movet urbanitas, falli copiosae in quo. Usu utamur meliore ea, justo ancillae te mei. Vis aperiam euripidis eloquentiam te.Lorem ipsum dolor sit amet, cetero nonumes consetetur est eu, sea graece lucilius incorrupte an, in euismod deleniti his. Vidit offendit phaedrum ea eos, sea paulo omittam eu, quis tollit ea sit. In cum nulla movet urbanitas, falli copiosae in quo. Usu utamur meliore ea, justo ancillae te mei. Vis aperiam euripidis eloquentiam te.</p>
                                             </div>
                                         </div>
                                         <div class="incentive">
                                             <div class="border-bottom mb-3">
-                                                <h5 class="incentive-package">Gold</h5>
+                                                <h5 class="incentive-package text-secondary">Gold</h5>
                                                 <div class="d-flex mb-3">
-                                                    <h1 class="incentive-price m-0">10.000<sup>€</sup><span class="pl-4 h5">Investment</span></h1>
+                                                    <h1 class="incentive-price m-0 text-secondary">10.000<sup>€</sup><span class="pl-4 h5">Investment</span></h1>
                                                 </div>
-                                                <p>Lorem ipsum dolor sit amet, cetero nonumes consetetur est eu, sea graece lucilius incorrupte an, in euismod deleniti his. Vidit offendit phaedrum ea eos, sea paulo omittam eu, quis tollit ea sit. In cum nulla movet urbanitas, falli copiosae in quo. Usu utamur meliore ea, justo ancillae te mei. Vis aperiam euripidis eloquentiam te.Lorem ipsum dolor sit amet, cetero nonumes consetetur est eu, sea graece lucilius incorrupte an, in euismod deleniti his. Vidit offendit phaedrum ea eos, sea paulo omittam eu, quis tollit ea sit. In cum nulla movet urbanitas, falli copiosae in quo. Usu utamur meliore ea, justo ancillae te mei. Vis aperiam euripidis eloquentiam te.</p>
+                                                <p class="text-secondary">Lorem ipsum dolor sit amet, cetero nonumes consetetur est eu, sea graece lucilius incorrupte an, in euismod deleniti his. Vidit offendit phaedrum ea eos, sea paulo omittam eu, quis tollit ea sit. In cum nulla movet urbanitas, falli copiosae in quo. Usu utamur meliore ea, justo ancillae te mei. Vis aperiam euripidis eloquentiam te.Lorem ipsum dolor sit amet, cetero nonumes consetetur est eu, sea graece lucilius incorrupte an, in euismod deleniti his. Vidit offendit phaedrum ea eos, sea paulo omittam eu, quis tollit ea sit. In cum nulla movet urbanitas, falli copiosae in quo. Usu utamur meliore ea, justo ancillae te mei. Vis aperiam euripidis eloquentiam te.</p>
                                             </div>
                                         </div>
                                     </div>
                                     <!--company details-->
                                     <div class="company-details mb-3">
-                                        <h3 class="text-primary border-bottom font-weight-normal pb-3 mb-3">Company details</h3>
+                                        <h3 class="text-secondary border-bottom font-weight-normal pb-3 mb-3">Company details</h3>
                                         <div class="d-flex align-items-center"><i class="fas fa-map-marker pr-2 details-icon"></i><span class="text-gray-600">Bruno-Kreisky-Platz 1, 1220 Wien, Wien, Austria</span></div>
                                         <div class="d-flex align-items-center"><i class="fas fa-phone pr-2 details-icon"></i><a href="tel:+1086438517" class="text-success">+1086438517</a></div>
                                         <div class="d-flex align-items-center"><i class="fas fa-envelope pr-2 details-icon"></i><a href="mailto:office@anoodeling.com" class="text-success">office@anoodeling.com</a></div>
@@ -473,7 +473,7 @@
                                 <aside class="col-12 col-lg-4 campaign-side-short mb-3">
                                     <!--company details-->
                                     <div class="company-details mb-3">
-                                        <h3 class="text-primary border-bottom font-weight-normal pb-3 mb-3">Company details</h3>
+                                        <h3 class="text-secondary border-bottom font-weight-normal pb-3 mb-3">Company details</h3>
                                         <div class="d-flex align-items-center"><i class="fas fa-map-marker pr-2 details-icon"></i><span class="text-gray-600">Bruno-Kreisky-Platz 1, 1220 Wien, Wien, Austria</span></div>
                                         <div class="d-flex align-items-center"><i class="fas fa-phone pr-2 details-icon"></i><a href="tel:+1086438517" class="text-success">+1086438517</a></div>
                                         <div class="d-flex align-items-center"><i class="fas fa-envelope pr-2 details-icon"></i><a href="mailto:office@anoodeling.com" class="text-success">office@anoodeling.com</a></div>
@@ -560,7 +560,7 @@
                                 <aside class="col-12 col-lg-4 campaign-side-short mb-3">
                                     <!--company details-->
                                     <div class="company-details mb-3">
-                                        <h3 class="text-primary border-bottom font-weight-normal pb-3 mb-3">Company details</h3>
+                                        <h3 class="text-secondary border-bottom font-weight-normal pb-3 mb-3">Company details</h3>
                                         <div class="d-flex align-items-center"><i class="fas fa-map-marker pr-2 details-icon"></i><span class="text-secondary">Bruno-Kreisky-Platz 1, 1220 Wien, Wien, Austria</span></div>
                                         <div class="d-flex align-items-center"><i class="fas fa-phone pr-2 details-icon"></i><a href="tel:+1086438517" class="text-success">+1086438517</a></div>
                                         <div class="d-flex align-items-center"><i class="fas fa-envelope pr-2 details-icon"></i><a href="mailto:office@anoodeling.com" class="text-success">office@anoodeling.com</a></div>
