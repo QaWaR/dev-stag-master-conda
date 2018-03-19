@@ -8,6 +8,12 @@
     justify-content: center;
     align-items: center;
 }
+.page-cover {
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 500px;
+    background-image: url(../images/page-cover.jpg);
+}
 // DISCOVER THE PROJCET SECTION
 .status-single {
     flex: 1;

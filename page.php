@@ -9,7 +9,7 @@
                 <p class="p-0 mt-2 text-success font-weight-bold text-capitalize">Cover<i class="fas fa-plus text-success ml-2"></i> </p>
             </a>
             <div id="cover" class="collapse">
-                <section class="cover py-5 mb-4 bg-primary text-white">
+                <section class="page-cover py-5 mb-4 bg-primary text-white">
                     <div class="container">
                         <h2 class="text-bottom">Investieren Sie in die Zukunft</h2>
                         <p class="text-bottom mb-4">CONDA Crowdinvesting ist Ihre Möglichkeit sich direkt an Unternehmen der nächsten Generation zu beteiligen.</p>
