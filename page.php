@@ -494,7 +494,7 @@
                 <div class="submit-forms">
                     <div class="row">
                         <div class="col-12 col-lg-6"> 
-                            <nav class="w-100 bg-danger"><!-- TABS NAVIGATION-->
+                            <nav class="w-100 bg-secondary"><!-- TABS NAVIGATION-->
                                 <div class="nav nav-tabs" id="nav-tab" role="tablist">
                                     <a href="#nav-person" class="h5 nav-item nav-link active mt-3 ml-3 text-dark" id="nav-person-tab" data-toggle="tab" role="tab" aria-controls="nav-person"
                                         aria-selected="true">Person</a>
@@ -613,7 +613,7 @@
                                     </div>
                                     <div class="payment-type w-100">
                                         <nav>
-                                            <div class="nav nav-tabs bg-danger" id="nav-tab" role="tablist">
+                                            <div class="nav nav-tabs bg-secondary" id="nav-tab" role="tablist">
                                                 <a href="#nav-sepa" class="nav-item nav-link active text-dark mt-2 ml-2" id="nav-sepa-tab" data-toggle="tab" role="tab" aria-controls="nav-sepa" aria-selected="true">SEPA</a>
                                                 <a href="#nav-bitcoin" class="nav-item nav-link text-dark mt-2 ml-2" id="nav-bitcoin-tab" data-toggle="tab" role="tab" aria-controls="nav-bitcoin"
                                                 aria-selected="true">Bitcoin</a>
@@ -752,8 +752,8 @@
                                     </div>
                                     <div class="payment-type w-100">
                                         <nav>
-                                            <div class="nav nav-tabs bg-danger" id="nav-tab" role="tablist">
-                                                <a href="#nav-sep1a" class="nav-item nav-link active text-dark mt-2 ml-2" id="nav-sepa-tab1" data-toggle="tab" role="tab" aria-controls="nav-sepa1"
+                                            <div class="nav nav-tabs bg-secondary" id="nav-tab" role="tablist">
+                                                <a href="#nav-sepa1" class="nav-item nav-link active text-dark mt-2 ml-2" id="nav-sepa-tab1" data-toggle="tab" role="tab" aria-controls="nav-sepa1"
                                                     aria-selected="true">SEPA</a>
                                                 <a href="#nav-bitcoin1" class="nav-item nav-link text-dark mt-2 ml-2" id="nav-bitcoin-tab1" data-toggle="tab" role="tab" aria-controls="nav-bitcoin1"
                                                     aria-selected="true">Bitcoin</a>
