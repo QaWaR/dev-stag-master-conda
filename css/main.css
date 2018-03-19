@@ -6404,6 +6404,12 @@ a:hover {
   justify-content: center;
   align-items: center; }
 
+.page-cover {
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 500px;
+  background-image: url(../images/page-cover.jpg); }
+
 .status-single {
   flex: 1; }
 
