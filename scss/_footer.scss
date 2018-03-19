@@ -20,12 +20,3 @@ footer a:hover {
         border: none;
     }
 }
-//PARTNERS SLIDER RESPONSIVE STYLE
-@media screen and (max-width:768px) {
-    .partners-slider .owl-two {
-        padding: 0 0!important;
-        .item {
-            margin: 0 30px!important;
-        }
-    }
-}

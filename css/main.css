@@ -6311,12 +6311,6 @@ footer a:hover {
   .info-wrapper > .single-info-wrapper {
     border: none; } }
 
-@media screen and (max-width: 768px) {
-  .partners-slider .owl-two {
-    padding: 0 0 !important; }
-    .partners-slider .owl-two .item {
-      margin: 0 30px !important; } }
-
 a:hover {
   text-decoration: none; }
 
