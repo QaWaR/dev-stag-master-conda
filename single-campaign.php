@@ -8,8 +8,8 @@
                             <img class="rounded-circle border border-primary w-100" src="images/campaigns/rsz_anoodeling_logo.jpg" alt="">
                         </div>
                         <div class="pl-3 d-flex flex-wrap">
-                            <h3 class="m-0 company-name">ANOODELING</h3>
-                            <div class="d-flex align-items-center pl-2">
+                            <h3 class="m-0 company-name pr-3">ANOODELING</h3>
+                            <div class="d-flex align-items-center">
                                 <div class="pr-3 d-flex align-items-center"><img class="flag-wide" src="images/flags/aut.jpg" alt=""></div>
                                 <h4 class="m-0">Wien, Austria</h4>
                             </div>
@@ -291,7 +291,9 @@
                                         <span>Nachrangdarlehen</span>
                                     </div>
                                     <div class="border-bottom mb-3">
-                                        <u class="font-weight-bold my-3">WARNHINWEIS: Class aptent taciti sociosqu ad litora torquent per conubia nostra.</u>
+                                        <div class="mb-3">
+                                            <u class="font-weight-bold">WARNHINWEIS: Class aptent taciti sociosqu ad litora torquent per conubia nostra.</u>
+                                        </div>
                                         <p>Im Sinne der Risikostreuung sollten möglichst nur Geldbeträge investiert werden, die in näherer Zukunft auch liquide nicht benötigt bzw. zurückerwartet werden. Verantwortlich für sämtliche Inhalte und Angaben auf dieser Seite ist ausschließlich die Emittentin selbst, sie ist Anbieter dieser Vermögensanlage. Seitens des Betreibers der Internet-Dienstleistungsplattform wird keine Haftung für die Richtigkeit und Aktualität der Inhalte übernommen.</p>
                                     </div>
                                     <div class="mb-5">
@@ -396,7 +398,9 @@
                                         <span>Nachrangdarlehen</span>
                                     </div>
                                     <div class="border-bottom mb-3">
-                                        <u class="font-weight-bold mb-3">WARNHINWEIS: Class aptent taciti sociosqu ad litora torquent per conubia nostra.</u>
+                                        <div class="mb-3">
+                                            <u class="font-weight-bold">WARNHINWEIS: Class aptent taciti sociosqu ad litora torquent per conubia nostra.</u>
+                                        </div>
                                         <p>Im Sinne der Risikostreuung sollten möglichst nur Geldbeträge investiert werden, die in näherer Zukunft auch liquide nicht benötigt bzw. zurückerwartet werden. Verantwortlich für sämtliche Inhalte und Angaben auf dieser Seite ist ausschließlich die Emittentin selbst, sie ist Anbieter dieser Vermögensanlage. Seitens des Betreibers der Internet-Dienstleistungsplattform wird keine Haftung für die Richtigkeit und Aktualität der Inhalte übernommen.</p>
                                     </div>
                                     <div class="mb-5">
