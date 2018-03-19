@@ -60,7 +60,7 @@
                                 <h5 class="font-weight-light text-secondary py-3">STARTET BALD</h5>
                                 <div class="campaign-invest-wrapper text-secondary d-flex flex-column flex-sm-row justify-content-around"><!-- CAMPAIGN KNOB(SCALE) WITH CURRENT INVESTMENT STATUS AND BASIC INFO-->   
                                     <div class="campaign-invest-scale rounded-circle border border-secondary p-3  mr-3 text-center"><!-- SCALE -->
-                                        <p class="investment-total-amount font-weight-bold m-0 mt-3"0&euro;</p>
+                                        <p class="investment-total-amount font-weight-bold m-0 mt-3">0&euro;</p>
                                         <p class="investors-number text-secondary">0 Investors</p>
                                         <p class="investment-completed">0%</p>
                                     </div> <!--END-->  
