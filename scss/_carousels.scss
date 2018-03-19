@@ -2,3 +2,24 @@
 .carousel-cover .owl-carousel h3 {
     text-shadow: 1px 1px 4px $secondary;
 }
+
+//TESTIMONIALS SLIDER RESPONSIVE STYLE
+@media screen and (max-width:768px) {
+    .testimonials-slider {
+        .image-comment-wrapper {
+            padding: 20px 30px!important;
+            p:last-child {
+                font-size: 15px;
+            }
+        }
+    }
+}
+//PARTNERS SLIDER RESPONSIVE STYLE
+@media screen and (max-width:768px) {
+    .partners-slider .owl-two {
+        padding: 0 0!important;
+        .item {
+            margin: 0 30px!important;
+        }
+    }
+}

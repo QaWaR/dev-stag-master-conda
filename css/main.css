@@ -6362,6 +6362,14 @@ a:hover {
 .info-cell:first-child {
   border: none; }
 
+@media screen and (max-width: 576px) {
+  .campaign-invest-scale {
+    margin: 0px 40px !important; }
+  .investment-amounts {
+    text-align: center; }
+  .campaign-failed .investment-amounts {
+    text-align: left; } }
+
 .side-nav {
   display: flex;
   flex-direction: column;
@@ -6431,3 +6439,15 @@ a:hover {
 .carousel-cover .owl-carousel p,
 .carousel-cover .owl-carousel h3 {
   text-shadow: 1px 1px 4px #73879c; }
+
+@media screen and (max-width: 768px) {
+  .testimonials-slider .image-comment-wrapper {
+    padding: 20px 30px !important; }
+    .testimonials-slider .image-comment-wrapper p:last-child {
+      font-size: 15px; } }
+
+@media screen and (max-width: 768px) {
+  .partners-slider .owl-two {
+    padding: 0 0 !important; }
+    .partners-slider .owl-two .item {
+      margin: 0 30px !important; } }

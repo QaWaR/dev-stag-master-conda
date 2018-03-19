@@ -603,7 +603,7 @@
         </div>
     </section> <!--END DISCOVER-PROJECTS SECTION-->
 
-    <section class="investors-say py-5"> <!--WHAT INVESTORS SAY CAROUSEL -->
+    <section class="testimonials-slider py-5"> <!--WHAT INVESTORS SAY CAROUSEL -->
         <div class="container">
             <h2 class="text-center mb-3">Das sagen Investoren</h2>       
                 <div class="owl-one owl-carousel owl-theme">
