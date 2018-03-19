@@ -45,7 +45,7 @@
             <section class="single-campain-cover bg-info">
                 <div class="container h-100">
                     <div class="row h-100">
-                        <div class="col-12 col-lg-7 text-white">
+                        <div class="col-12 col-lg-7 py-4 text-white">
                             <h1 class="company-name flex-wrap">Anoodeling(CI/ AFG/ BC/ AN) </h1>
                             <div class="d-flex">
                                 <hr class="bg-white w-25">
@@ -127,7 +127,7 @@
                             <div class="row">
                                 <!--main-->
                                 <div class="col-12 col-lg-8 mb-3">
-                                    <div class="embed-responsive embed-responsive-16by9">
+                                    <div class="embed-responsive embed-responsive-16by9 mb-3">
                                         <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/5SVN9x7Uv74" allowfullscreen></iframe>
                                     </div>
                                     <h1 class="company-name mb-3">Anoodeling</h1>
