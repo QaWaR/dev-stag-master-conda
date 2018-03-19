@@ -6,7 +6,7 @@ Purpose of this website test version is learning web development basics. To be m
 
 
 ## Installation
-I will provide you step by step examples and explanations about howt to get deveolpment environment running on your machine.
+I will provide you step by step explanations about howt to get deveolpment environment running on your machine.
 
 ^^^ Step 1: Open project with CLI(any kind of terminal window), then type next command:
 ```npm install```
