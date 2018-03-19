@@ -2,7 +2,7 @@
 <main>
     <section class="carousel-cover large-screens d-none d-lg-block"><!--CAROUSEL COVER SLIDE -->
         <div class="owl-one owl-carousel owl-theme"> 
-            <div class="item py-5 text-white d-flex" style="background: url(images/index-cover-carousel.jpg); background-size:cover; height:550px;">
+            <div class="item item-1 py-5 text-white d-flex">
                 <div class="container mt-auto">
                     <section class="content-wrapper-large-screens" style="width:700px;">
                         <h3 class="mb-3 pt-3">Mit CONDA Österreich investieren Sie grenzenlos, in Unternehmen mit Persönlichkeit.</h3>
@@ -19,7 +19,7 @@
                     </section>
                 </div>  
             </div>
-            <div class="item py-5 text-white d-flex" style="background: url(images/cover2.jpg); background-size:cover; height:550px;">
+            <div class="item item-2 py-5 text-white d-flex">
                 <div class="container mt-auto">
                     <section class="content-wrapper-large-screens" style="width:700px;">
                         <h3 class="mb-3 pt-3">Mit CONDA Österreich investieren Sie grenzenlos, in Unternehmen mit Persönlichkeit.</h3>
@@ -650,8 +650,7 @@
         </div>
     </section> <!-- END WHAT INVESTORS SAY CAROUSEL -->
 
-    <!-- COOCKIE BAR -->
-    <section class="coockies fixed-bottom bg-primary py-3">
+    <section class="coockies fixed-bottom bg-primary py-3"><!-- COOCKIE BAR -->
         <div class="container d-flex justify-content-between align-items-center">
             <p class="text-white m-0">This is coockie policy</p>
             <button class="coockie-btn btn btn-success px-2 py-1 m-0" data-dismiss="modal" >I accept</button>

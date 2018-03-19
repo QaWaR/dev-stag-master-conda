@@ -1,9 +1,24 @@
+// TEXT SHADOWS FOR CONDA COVER SLIDER ON HOMEPAGE
 .carousel-cover .owl-carousel p,
 .carousel-cover .owl-carousel h3 {
     text-shadow: 1px 1px 4px $secondary;
 }
 
-//TESTIMONIALS SLIDER RESPONSIVE STYLE
+// CONDA COVER SLIDER ON HOMEPAGE
+.owl-one {
+    .item-1{
+        background: url(../images/index-cover-carousel.jpg);
+        background-size: cover;
+        height: 550px;
+    }
+    .item-2{
+        background: url(../images/cover2.jpg);
+        background-size: cover;
+        height: 550px;
+    }
+}
+
+// TESTIMONIALS SLIDER RESPONSIVE STYLE
 @media screen and (max-width:768px) {
     .testimonials-slider {
         .image-comment-wrapper {
@@ -14,7 +29,7 @@
         }
     }
 }
-//PARTNERS SLIDER RESPONSIVE STYLE
+// PARTNERS SLIDER RESPONSIVE STYLE
 @media screen and (max-width:768px) {
     .partners-slider .owl-two {
         padding: 0 0!important;

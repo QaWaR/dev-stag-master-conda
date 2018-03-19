@@ -6546,6 +6546,16 @@ a:hover {
 .carousel-cover .owl-carousel h3 {
   text-shadow: 1px 1px 4px #73879c; }
 
+.owl-one .item-1 {
+  background: url(../images/index-cover-carousel.jpg);
+  background-size: cover;
+  height: 550px; }
+
+.owl-one .item-2 {
+  background: url(../images/cover2.jpg);
+  background-size: cover;
+  height: 550px; }
+
 @media screen and (max-width: 768px) {
   .testimonials-slider .image-comment-wrapper {
     padding: 20px 30px !important; }
