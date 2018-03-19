@@ -71,10 +71,10 @@
                                 </div>
                                 <div class="campaign-invest-info py-1 d-flex flex-wrap justify-content-around border-bottom border-top border-muted mb-5 mt-3"><!--ADDITIONAL INFORMATION DISPLAYED AS ICONS WITH TOOLTIPS-->
                                     <div class="info-cell mx-1 px-2 py-2 d-flex flex-row">
-                                        <i class="fas fa-users text-muted fa-2x align-self-center text-center" data-toggle="tooltip" data-placement="top" title="KMU"></i>
+                                        <i class="fas fa-users text-muted fa-2x align-self-center" data-toggle="tooltip" data-placement="top" title="KMU"></i>
                                     </div>
                                     <div class="info-cell mx-1 px-2 py-2 text-center">
-                                        <i class="fas fa-calendar-alt text-muted fa-2x align-self-center text-center" data-toggle="tooltip" data-placement="top" title="Vertragslaufzeit"></i>
+                                        <i class="fas fa-calendar-alt text-muted fa-2x align-self-center" data-toggle="tooltip" data-placement="top" title="Vertragslaufzeit"></i>
                                     </div>
                                 </div> <!--END-->
                             </div>
@@ -558,7 +558,7 @@
                                 </div>
                                 <!--aside-->
                                 <aside class="col-12 col-lg-4 campaign-side-short mb-3">
-                                    <!--company details-->
+         fa-2x                           <!--company details-->
                                     <div class="company-details mb-3">
                                         <h3 class="text-muted border-bottom font-weight-normal pb-3 mb-3">Company details</h3>
                                         <div><i class="fas fa-map-marker text-muted pr-2"></i><span class="text-muted">Bruno-Kreisky-Platz 1, 1220 Wien, Wien, Austria</span></div>
